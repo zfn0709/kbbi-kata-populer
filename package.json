@@ -1,0 +1,23 @@
+{
+  "name": "kbbi-popularitas-indonesia",
+  "version": "1.0.0",
+  "description": "Dataset tingkat popularitas kata KBBI Bahasa Indonesia menggunakan Gemini 3.5 Flash",
+  "main": "index.js",
+  "scripts": {
+    "audit": "node tools/audit_scoring.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0"
+  },
+  "keywords": [
+    "kbbi",
+    "indonesian-words",
+    "word-frequency",
+    "gemini-api",
+    "dataset",
+    "indonesia",
+    "word-game"
+  ],
+  "author": "",
+  "license": "MIT"
+}
