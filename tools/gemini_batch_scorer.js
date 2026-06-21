@@ -42,13 +42,13 @@ ${JSON.stringify(listKata)}
   try {
     const result = await model.generateContent(prompt);
     const text = result.response.text().trim();
-    
+
     // Ekstrak JSON array dari teks secara aman
     const jsonMatch = text.match(/\[[\s\S]*\]/);
     if (!jsonMatch) {
       throw new Error('Respon dari Gemini tidak mengandung format JSON array');
     }
-    
+
     return JSON.parse(jsonMatch[0]);
   } catch (error) {
     console.error('Error saat scoring batch:', error.message);

@@ -1,7 +1,4 @@
 kata,kelas,kata_dasar,nilai
-"a.ma.","","",2
-"a.ma.","Partikel; cak","",5
-"a.ma.","Nomina; Gy","",1
 "aa","Nomina; Sd","",2
 "aabinomin","Nomina","",1
 "aagola","Verba; Dd","",1
@@ -9,6 +6,7 @@ kata,kelas,kata_dasar,nilai
 "aakla","Nomina; Mt","",1
 "aan","Nomina","",2
 "aaname","Nomina","",2
+"aastakona","Nomina; Bjr","",3
 "aba","Nomina","",2
 "aba","Nomina","",2
 "aba","Nomina; Mar","",1
@@ -650,11 +648,10 @@ kata,kelas,kata_dasar,nilai
 "adhesif","Adjektiva","",5
 "adi","Nomina","",3
 "adi","Verba; Klm","",1
-"adi","bentuk terikat","",5
+"adi-","bentuk terikat","",5
 "adi-adi","Nomina; Ko","",1
 "adi-adi","Nomina; Mr","",1
 "adi-buddha","Nomina; Bud","",3
-"adi-buddha","Nomina; Hin","",2
 "adiabat","Nomina; Fis","",4
 "adiabatik","Adjektiva; Fis","",4
 "adiafanus","Adjektiva; Bio","",2
@@ -670,6 +667,7 @@ kata,kelas,kata_dasar,nilai
 "adibibit","Nomina","",3
 "adibintang","Nomina","",4
 "adiboga","Nomina","",5
+"adibuddha","Nomina; Hin","",2
 "adibusana","Nomina","",6
 "adicita","Nomina; ark","",2
 "adidaya","Adjektiva","",7
@@ -783,6 +781,7 @@ kata,kelas,kata_dasar,nilai
 "adjuvan","Nomina; Far","",4
 "adlati","Nomina; Ca","",1
 "adlib","Nomina; Lt; sing; Adjektiva; Ikn","",4
+"adm","Nomina; sing","",7
 "admin","Nomina; sing","",8
 "adminduk","Nomina; akr","",5
 "administrasi","Nomina","",9
@@ -831,6 +830,7 @@ kata,kelas,kata_dasar,nilai
 "adpokat","","",6
 "adposisi","Nomina; Ling","",4
 "adrahi","Nomina; Sd","",1
+"adrem","Nomina; Jw","",2
 "adrenal","Nomina; Dok","",5
 "adrenalektomi","Nomina; Kim","",3
 "adrenalin","Nomina; Bio","",6
@@ -927,7 +927,7 @@ kata,kelas,kata_dasar,nilai
 "aerenkima","Nomina; Bot","",3
 "aerial","Adjektiva; Bio; Nomina; Fis","",5
 "aero","Nomina; sing","",4
-"aero","bentuk terikat","",5
+"aero-","bentuk terikat","",5
 "aeroakustika","Nomina; Fis","",3
 "aerob","Nomina; Bio","",5
 "aerobatik","Nomina","",5
@@ -1313,6 +1313,7 @@ kata,kelas,kata_dasar,nilai
 "agorafobia","Nomina; Psi","",5
 "agou","Verba; Mt","",1
 "agouti","Nomina; Bio","",2
+"agr","Nomina; sing","",4
 "agrad","Nomina; Bio","",2
 "agradasi","Nomina; Geo","",4
 "agrafestesia","Nomina; Dok","",2
@@ -1592,6 +1593,7 @@ kata,kelas,kata_dasar,nilai
 "aiso","Nomina; SLa","",1
 "aitolida","Nomina; Ca","",1
 "aitoto","Nomina; Oi","",1
+"aitowa","Nomina; Khm","",1
 "aiwaar","Nomina; Ht","",1
 "aiwahui","Verba; Pi","",1
 "aiwo","Nomina","",1
@@ -1599,6 +1601,7 @@ kata,kelas,kata_dasar,nilai
 "aiyao","Nomina; hor","",1
 "aiyoko","Verba; Dn","",1
 "aiyokua","Nomina; Pi","",1
+"aj","Nomina; sing","",3
 "aja","Nomina; Md; ark","",1
 "aja","Adverbia; cak","",10
 "ajab","Adjektiva","",3
@@ -1791,6 +1794,8 @@ kata,kelas,kata_dasar,nilai
 "akas","Nomina","",1
 "akas","Adjektiva; Bsm","",1
 "akasa","Nomina; kl","",3
+"akasaha","Verba; Sls; Nomina","",1
+"akasaha","Nomina; Sls","",1
 "akasia","Nomina; Bot","",4
 "akatabome","Nomina; Mee","",1
 "akatabome","Verba; Mee","",1
@@ -1803,6 +1808,7 @@ kata,kelas,kata_dasar,nilai
 "akato","Verba; Mks","",1
 "akatopi","Nomina","",1
 "akau","Nomina; Ri","",2
+"akb","Nomina; sing","",5
 "akbaca","Verba","",2
 "akbajik","Nomina; Mks","",1
 "akbala-bala","Verba; Mks","",1
@@ -1816,6 +1822,7 @@ kata,kelas,kata_dasar,nilai
 "akbila","Verba; Mks","",1
 "akbinru","Verba; Mks","",1
 "akbohong","Verba","",2
+"akbp","Nomina; sing","",7
 "akbukbu","Verba; Wl","",1
 "akbukbuk","Nomina; Mks","",1
 "akbukin","Nomina; Kur","",1
@@ -1851,6 +1858,7 @@ kata,kelas,kata_dasar,nilai
 "akhi","Nomina; Lp","",1
 "akhir","Nomina","",9
 "akhirat","Nomina","",8
+"akhirulkalam","Nomina","",6
 "akhirusanah","Nomina","",4
 "akhlak","Nomina","",9
 "akhlaki","Adjektiva","",5
@@ -1952,6 +1960,7 @@ kata,kelas,kata_dasar,nilai
 "akordion","","",5
 "akordion","","",5
 "akosmisme","Nomina; Fil","",2
+"akp","Nomina; sing","",7
 "akpalikang","Verba; Kj","",1
 "akpanca","Verba; Mks","",1
 "akpar","Nomina; akr","",3
@@ -2219,9 +2228,9 @@ kata,kelas,kata_dasar,nilai
 "akumulasi","Nomina; Keu","",8
 "akumulatif","Adjektiva","",6
 "akumulator","Nomina","",5
-"akun.","Nomina; sing","",2
-"akun.","Nomina; Man","",8
-"akun.","Nomina; Komp","",8
+"akun","Nomina; sing","",2
+"akun","Nomina; Man","",8
+"akun","Nomina; Komp","",8
 "akuntabel","Adjektiva","",7
 "akuntabilitas","Nomina","",8
 "akuntan","Nomina","",8
@@ -2250,14 +2259,12 @@ kata,kelas,kata_dasar,nilai
 "al-'adiyat","Nomina; Isl","",4
 "al-'alaq","Nomina; Isl","",5
 "al-'ankabut","Nomina; Isl","",4
-"al-a'la","Nomina; Pi","",1
 "al-a'raf","Nomina; Isl","",4
 "al-ahad","Nomina; Isl","",4
 "al-ahqaf","Nomina; Isl","",4
 "al-ahzab","Nomina; Isl","",4
 "al-akhir","Nomina; Isl","",4
 "al-amin","Adjektiva; Ar","",4
-"al-amin","Nomina; ark","",1
 "al-an'am","Nomina; Isl","",4
 "al-anbiya'","Nomina; Isl","",4
 "al-anfal","Nomina; Isl","",4
@@ -2338,11 +2345,9 @@ kata,kelas,kata_dasar,nilai
 "al-qawi","Nomina; Isl","",4
 "al-qayyum","Nomina; Isl","",4
 "al-qiyamah","Nomina; Isl","",4
+"al-qu'ran","","",6
 "al-qur'an","Nomina","",6
-"al-qur'an","","",6
-"al-qur'an","","",6
-"al-qur'an","","",6
-"al-qur'an","","",6
+"al-quran","","",6
 "al-wadud","Nomina; Isl","",4
 "al-waqi'ah","Nomina; Isl","",5
 "al-zalzalah","Nomina; Isl","",4
@@ -2381,6 +2386,7 @@ kata,kelas,kata_dasar,nilai
 "alakrima","Adjektiva; Dok","",2
 "alaksa","Numeralia; Bl","",1
 "alal","Nomina; BhUj","",1
+"alala","Nomina; Pi","",1
 "alaleat","Nomina; Lj","",1
 "alalia","Nomina; Ling","",2
 "alalik","Verba; Eln","",1
@@ -2401,6 +2407,7 @@ kata,kelas,kata_dasar,nilai
 "alami","Adjektiva; Teng","",1
 "alamiah","Adjektiva","",8
 "alamiat","Nomina; Dy","",1
+"alamin","Nomina; ark","",1
 "alampas","Nomina; Teng","",1
 "alan","Nomina","",4
 "alan","Verba; Klm","",1
@@ -2857,6 +2864,7 @@ kata,kelas,kata_dasar,nilai
 "alkus","Nomina","",3
 "allahyarham","Nomina; Ar","",5
 "allahyarhamha","Nomina; Ar","",4
+"alm","Nomina; sing","",8
 "almakh","Nomina; Astron","",3
 "almaktub","Nomina","",4
 "almalun","Nomina","",3
@@ -2871,6 +2879,7 @@ kata,kelas,kata_dasar,nilai
 "almari","","",6
 "almasih","Nomina; Ar; Isl; Ib; Kris","",6
 "almatsus","Nomina; akr","",2
+"almh","Nomina; sing","",8
 "almil","Nomina; akr","",2
 "almon","Nomina","",4
 "almuazam","Nomina; Ar","",3
@@ -2890,7 +2899,7 @@ kata,kelas,kata_dasar,nilai
 "alo","Verba; Sh","",1
 "alo","Verba; Ldy","",1
 "alo","Nomina; Kpr","",1
-"alo","bentuk terikat","",3
+"alo-","bentuk terikat","",3
 "aloalo","Nomina; Ni","",1
 "aloanamnesis","Nomina; Dok","",3
 "alobar","","",1
@@ -3030,6 +3039,8 @@ kata,kelas,kata_dasar,nilai
 "alprazolam","Nomina; Far","",5
 "alpukah","Nomina","",2
 "alpukat","Nomina","",9
+"alqur'an","","",6
+"alquran","","",6
 "alrimbeang","Nomina; Tot; Tbs","",1
 "alrimbeo","Nomina; Tot","",1
 "alro","Nomina; Tot","",1
@@ -3065,7 +3076,7 @@ kata,kelas,kata_dasar,nilai
 "altruisme","Nomina; Antr","",6
 "altruistik","Adjektiva; Ing","",3
 "altruistis","Adjektiva","",5
-"alturisme","Nomina; Sas","",2
+"alturismê","Nomina; Sas","",2
 "alu","Nomina","",7
 "alu","","",5
 "alu","Nomina","",6
@@ -3158,6 +3169,10 @@ kata,kelas,kata_dasar,nilai
 "alzheimer","","",8
 "alzi","Nomina; akr","",2
 "am","Nomina; Lt; sing","",6
+"ama","Nomina; sing","",5
+"ama","","",2
+"ama","Partikel; cak","",5
+"ama","Nomina; Gy","",1
 "amabakdu","Partikel; kl","",4
 "amadumbe","Nomina","",2
 "amaedola","Nomina; Ni","",1
@@ -3372,7 +3387,7 @@ kata,kelas,kata_dasar,nilai
 "ambeyen","","",6
 "ambeyen","","",6
 "ambi","Nomina; Klm","",1
-"ambi","bentuk terikat","",4
+"ambi-","bentuk terikat","",4
 "ambia","Nomina; Bt","",1
 "ambidekster","Nomina; Adjektiva","",5
 "ambideksteritas","Nomina","",4
@@ -3495,8 +3510,15 @@ kata,kelas,kata_dasar,nilai
 "ambyuk","Verba; Jw","",1
 "ambyur","Verba; Jw","",1
 "amcak","Nomina; Jw","",2
+"amd","Nomina; sing","",8
+"amdakun","Nomina; sing","",4
 "amdal","Nomina; akr","",9
 "amdalalin","Nomina","",4
+"amdapkt","Nomina; sing","",3
+"amdkes","Nomina; sing","",5
+"amdkom","Nomina; sing","",5
+"amdt","Nomina; sing","",4
+"amdvet","Nomina; sing","",3
 "ame","Nomina; Mg","",1
 "ameak","Adjektiva; Rjg","",1
 "ameba","Nomina; Zool","",6
@@ -3966,6 +3988,7 @@ kata,kelas,kata_dasar,nilai
 "amwal","Nomina; Ar","",3
 "amyamoho","Nomina; Kbai","",1
 "amyen","Nomina; Pp","",1
+"an","Nomina; sing","",9
 "an-naba","Nomina; Isl","",5
 "an-nafi'","Nomina; Isl","",4
 "an-nazi'at","Nomina; Isl","",4
@@ -3973,7 +3996,7 @@ kata,kelas,kata_dasar,nilai
 "ana","Pronomina; cak","",8
 "ana","Nomina; Ri","",1
 "ana","Nomina; Mee","",1
-"ana","bentuk terikat","",4
+"ana-","bentuk terikat","",4
 "anaate","Nomina; Ni","",1
 "anab","Verba; Jw","",1
 "anabaena","Nomina; Bio","",3
@@ -3992,6 +4015,7 @@ kata,kelas,kata_dasar,nilai
 "anador","Nomina; Wr","",1
 "anadrenalisme","Nomina; Dok","",2
 "anadrom","Nomina; Ikn","",3
+"anaelu","Nomina; Me","",1
 "anaerob","Nomina; Bio","",6
 "anaerobik","Adjektiva","",5
 "anafai","Nomina; Ng","",1
@@ -4018,6 +4042,7 @@ kata,kelas,kata_dasar,nilai
 "anaido","Nomina; Ht","",1
 "anak","Nomina","",9
 "anakai","Nomina; Bnd","",1
+"anakalang","Nomina","",2
 "anakanda","Nomina; kl","",5
 "anakarung","Nomina; Bg","",1
 "anakda","Nomina; kl","",4
@@ -4206,6 +4231,11 @@ kata,kelas,kata_dasar,nilai
 "ancur","","",5
 "ancur","Nomina","",4
 "ancut","Nomina; Bl","",1
+"and","Nomina; sing","",3
+"anda","Pronomina","",10
+"anda","Verba; Mk","",4
+"anda","Adjektiva; Ri","",3
+"anda","Nomina; Me","",2
 "anda-andaho","Verba; Gor","",1
 "andadi","Nomina; Mks","",1
 "andah","Nomina; Ri","",1
@@ -4213,6 +4243,7 @@ kata,kelas,kata_dasar,nilai
 "andai","","",2
 "andai","","",2
 "andai-andai","Nomina; Filol","",3
+"andaikata","","",8
 "andaipun","Partikel","",6
 "andak","Verba","",4
 "andak","Nomina; Klm; of","",1
@@ -4236,7 +4267,7 @@ kata,kelas,kata_dasar,nilai
 "andan","Nomina","",3
 "andan","Verba; Mk","",1
 "andan","Verba; Ri","",1
-"andan-andan","Nomina; Jw","",1
+"andanandan","Nomina; Jw","",1
 "andang","Nomina; kl","",3
 "andang","Nomina; Jw","",2
 "andang","Nomina; Dy","",1
@@ -4373,8 +4404,8 @@ kata,kelas,kata_dasar,nilai
 "andusan","Nomina; Mn","",1
 "ane","Nomina; Lio","",1
 "ane-ane","Nomina; Bt","",1
-"ane-ane","Nomina; Bt","",1
 "anean","Nomina; Ri","",1
+"aneane","Nomina; Bt","",1
 "aneh","Adjektiva","",9
 "anehe","Verba; Ni","",1
 "anei","Nomina; Bc","",1
@@ -4486,6 +4517,7 @@ kata,kelas,kata_dasar,nilai
 "anggan","Nomina","",4
 "anggana","Nomina","",4
 "anggana","Adjektiva; Kw; ark","",2
+"angganasekar","Nomina; Sd; Sen","",1
 "anggang-anggang","Nomina; Jw; Mus","",2
 "anggang-anggang","Verba; Jw","",1
 "anggap","","",5
@@ -5056,7 +5088,7 @@ kata,kelas,kata_dasar,nilai
 "antap","Adjektiva","",4
 "antap","Adjektiva; Mk","",1
 "antar","Verba","",9
-"antar","bentuk terikat","",1
+"antar-","bentuk terikat","",1
 "antar-antar","Nomina","",2
 "antara","Nomina","",5
 "antara","Nomina; Partikel; Adjektiva; cak","",10
@@ -5138,7 +5170,7 @@ kata,kelas,kata_dasar,nilai
 "antau","Nomina; Jb","",1
 "antawacana","Nomina; Jw; Sen","",5
 "ante","Nomina; Bl","",2
-"ante","bentuk terikat","",1
+"ante-","bentuk terikat","",1
 "anteber","Nomina; Dy","",1
 "antediluvian","Adjektiva","",3
 "antediluvium","Nomina; Geo","",3
@@ -5153,6 +5185,7 @@ kata,kelas,kata_dasar,nilai
 "antelop","Nomina","",6
 "antem","","",1
 "antem","Nomina; cak; akr","",2
+"antemeridiem","Adjektiva","",7
 "antemortem","Adjektiva","",5
 "antena","Nomina; Zool","",8
 "antena","Nomina; Olr","",5
@@ -5177,8 +5210,7 @@ kata,kelas,kata_dasar,nilai
 "anteversi","Nomina","",3
 "antewor","Nomina; Sd","",1
 "anti","Partikel","",8
-"anti","bentuk terikat","",1
-"anti-barat","Adjektiva","",6
+"anti-","bentuk terikat","",1
 "anti-kristus","Nomina; Kris","",5
 "antiabrasi","Adjektiva","",3
 "antiadhesi","Adjektiva","",3
@@ -5221,11 +5253,13 @@ kata,kelas,kata_dasar,nilai
 "antibalistik","Adjektiva","",6
 "antibandit","Adjektiva","",4
 "antibanjir","Adjektiva","",6
+"antibarat","Adjektiva","",6
 "antibaret","Adjektiva; Nomina","",5
 "antibarion","Nomina; Fis","",3
 "antibatuk","Nomina","",5
 "antibau","Adjektiva","",5
 "antibeku","Nomina","",6
+"antibenturan","Adjektiva","",4
 "antibiofilm","Nomina","",4
 "antibiogram","Nomina","",3
 "antibiosis","Nomina","",4
@@ -5332,7 +5366,7 @@ kata,kelas,kata_dasar,nilai
 "antihistamina","Nomina","",5
 "antihoaks","Nomina","",7
 "antihormon","Nomina; Kim","",4
-"antihuru-hara","Adjektiva","",6
+"antihuruhara","Adjektiva","",6
 "antiikat","Nomina; Kim","",3
 "antiiklan","Nomina; If","",4
 "antiimigran","Nomina","",4
@@ -5720,6 +5754,7 @@ kata,kelas,kata_dasar,nilai
 "antusias","Adjektiva","",8
 "antusiasme","Nomina","",7
 "antutan","Nomina","",3
+"antutawa","Nomina; Jw","",1
 "anu","Nomina; Awy","",7
 "anua","Nomina; Lh","",1
 "anual","Adjektiva; Nomina","",5
@@ -5802,11 +5837,13 @@ kata,kelas,kata_dasar,nilai
 "aota","Nomina; Eln","",1
 "aotearoa","Nomina","",4
 "aowali","Nomina; Mu","",1
+"ap","Nomina; sing","",5
 "apa","Pronomina; Partikel; hor; cak","",10
 "apa","Nomina; Mdr","",1
 "apa","Nomina; Te","",1
 "apa","Nomina; Ri","",1
 "apabe","Nomina; Mee","",1
+"apabila","Partikel; Pronomina; kl","",9
 "apaci","Nomina","",5
 "apadana","Nomina; Ark","",3
 "apagar","Nomina; Mdr","",1
@@ -5824,6 +5861,7 @@ kata,kelas,kata_dasar,nilai
 "apakala","Pronomina; ark","",4
 "apakan","Nomina; Gy","",1
 "apakot","Adjektiva; Teng","",1
+"apalagi","Partikel","",9
 "apalai","Nomina","",5
 "apalete","Verba; Mks","",1
 "apaliang","Verba; Teng","",1
@@ -5934,9 +5972,6 @@ kata,kelas,kata_dasar,nilai
 "api-api","Nomina","",4
 "api-api","Nomina; Bot","",5
 "api-api","Nomina","",3
-"api-p","Nomina; Ach","",1
-"api-t","Nomina","",6
-"api-t","Nomina; Bl","",1
 "apia","Nomina","",4
 "apiari","Nomina","",4
 "apibo","Nomina; Mee","",1
@@ -5967,8 +6002,11 @@ kata,kelas,kata_dasar,nilai
 "apiol","Nomina","",4
 "apiologi","Nomina","",4
 "apion","Nomina; ark","",3
+"apip","Nomina; Ach","",1
 "apiri","Verba; Sng","",1
 "apiruwang","Verba; Jw","",2
+"apit","Nomina","",6
+"apit","Nomina; Bl","",1
 "apit-apit","Nomina; Bc","",1
 "apit-apit","Nomina","",4
 "apit-apit","Nomina","",3
@@ -6005,7 +6043,7 @@ kata,kelas,kata_dasar,nilai
 "apmindo","akr","",3
 "apnea","Nomina; Dok","",5
 "apo","Nomina; Ke","",2
-"apo","bentuk terikat","",4
+"apo-","bentuk terikat","",4
 "apoa","Adjektiva","",1
 "apoa","Nomina; He","",1
 "apoda","Nomina; Zool","",3
@@ -6076,6 +6114,7 @@ kata,kelas,kata_dasar,nilai
 "apostasi","Nomina","",4
 "apostel","Nomina","",4
 "apostel","Nomina","",4
+"aposteriori","Adverbia; Nomina","",5
 "apostilb","Nomina; Fis","",2
 "apostile","Nomina; Huk","",4
 "apostolat","Nomina","",4
@@ -6120,6 +6159,7 @@ kata,kelas,kata_dasar,nilai
 "apsidal","Adjektiva; Astron","",2
 "apsis","Nomina; Astron","",3
 "apstra","Nomina; akr","",2
+"apt","Nomina; sing","",7
 "aptasi","Nomina; Bio","",2
 "apter","Nomina; akr","",2
 "apterigota","Nomina; Bio","",2
@@ -6378,7 +6418,6 @@ kata,kelas,kata_dasar,nilai
 "ari","Nomina; Eln","",1
 "ari-ari","Nomina; Jw","",7
 "ari-ari","Nomina; Gy","",3
-"ari-ari","Nomina","",5
 "aria","","",4
 "aria","Nomina; Mus","",4
 "aria","Verba; Kpr","",2
@@ -6386,6 +6425,7 @@ kata,kelas,kata_dasar,nilai
 "ariana","Nomina","",3
 "arianga","Nomina; Mdl","",2
 "arianisme","Nomina; Kris","",3
+"ariari","Nomina","",5
 "ariarion","Adjektiva; Bt","",1
 "ariboflavinosis","Nomina","",2
 "arid","Adjektiva; Geo; Nomina; Tn","",4
@@ -6469,7 +6509,7 @@ kata,kelas,kata_dasar,nilai
 "arkeomagnetisme","Nomina; Ark","",2
 "arkeozoikum","Nomina","",4
 "arkeozoologi","Nomina; Ark","",3
-"arketip","Nomina; Filol","",3
+"arkêtip","Nomina; Filol","",3
 "arketipal","Nomina","",3
 "arketipe","Nomina","",4
 "arkian","Partikel; kl","",4
@@ -6530,6 +6570,7 @@ kata,kelas,kata_dasar,nilai
 "arolium","Nomina","",2
 "aroma","Nomina; ki","",8
 "aromantis","Adjektiva","",4
+"aromaterapi","Nomina","",9
 "aromaterapis","Nomina","",4
 "aromatik","Adjektiva; Kim","",6
 "aromatisasi","Nomina; Min","",4
@@ -6554,6 +6595,7 @@ kata,kelas,kata_dasar,nilai
 "arpus","Nomina","",4
 "arput","Nomina; Trf","",1
 "arquebus","Nomina","",3
+"ars","Nomina; sing","",5
 "arsakal","Nomina; Sd","",2
 "arsap","Nomina; Bt","",1
 "arsen","Nomina","",5
@@ -6691,6 +6733,7 @@ kata,kelas,kata_dasar,nilai
 "arun","Verba; Bt","",2
 "aruna","Nomina; Skt","",4
 "arung","Verba","",6
+"arung-gisgis","Nomina; Bt","",1
 "arunika","Skt; Ling","",4
 "arupadatu","Nomina; Ark","",4
 "arupako","Adjektiva; Me","",2
@@ -7009,7 +7052,7 @@ kata,kelas,kata_dasar,nilai
 "asketisme","Nomina","",4
 "aski","Nomina; Bio","",3
 "askogonium","Nomina; Bio","",3
-"askomikota","Nomina; Bio","",4
+"askomicota","Nomina; Bio","",4
 "askomlek","Nomina; akr","",2
 "askon","Nomina; Zool","",3
 "askospora","Nomina; Bio","",3
@@ -7128,7 +7171,7 @@ kata,kelas,kata_dasar,nilai
 "assalamualaikum","","",8
 "assalamualaikum","","",8
 "asta","Nomina; Mdr","",2
-"asta","bentuk","",4
+"asta-","bentuk","",4
 "astacala","Nomina; Sd","",2
 "astadikpala","Nomina","",3
 "astaga","Partikel; cak","",8
@@ -7138,7 +7181,6 @@ kata,kelas,kata_dasar,nilai
 "astagina","Nomina","",4
 "astaka","","",4
 "astakona","Nomina; kl","",5
-"astakona","Nomina; Bjr","",3
 "astaksantin","Nomina","",3
 "astana","Nomina","",5
 "astana","","",4
@@ -7409,11 +7451,12 @@ kata,kelas,kata_dasar,nilai
 "atmosfer","Nomina; Sas","",8
 "atmosferik","Adjektiva","",5
 "atmosferis","Adjektiva","",6
+"atmosferisotermal","Adjektiva; Met","",2
 "atmosferologi","Nomina","",3
 "atmosfir","","",8
 "atmosfir","","",8
 "ato","Nomina; Ram","",2
-"ato","bentuk terikat","",4
+"ato-","bentuk terikat","",4
 "atobumu","Nomina; Kkd","",1
 "atogoim","Nomina","",2
 "atogram","Nomina","",3
@@ -7617,8 +7660,8 @@ kata,kelas,kata_dasar,nilai
 "autistik","Adjektiva","",5
 "autistis","Nomina","",4
 "auto","","",6
-"auto","bentuk terikat","",7
-"auto","","",6
+"auto-","bentuk terikat","",7
+"auto-","","",6
 "autoaktivitas","Nomina","",3
 "autoamputasi","Nomina","",3
 "autoanamnesis","Nomina; Dok","",3
@@ -7820,7 +7863,7 @@ kata,kelas,kata_dasar,nilai
 "avuso","Nomina; Bud","",1
 "awa","","",3
 "awa","Nomina; Pi","",2
-"awa","bentuk terikat","",6
+"awa-","bentuk terikat","",6
 "awaagama","Adjektiva","",4
 "awaair","Adjektiva","",5
 "awaaktif","Adjektiva","",4
@@ -7896,6 +7939,7 @@ kata,kelas,kata_dasar,nilai
 "awas","Nomina","",4
 "awas","Verba","",9
 "awasandi","Adjektiva","",4
+"awasao","Nomina; Bg","",1
 "awasenarai","Verba","",3
 "awasenjata","Nomina; Adjektiva","",7
 "awasuara","Adjektiva; Ling","",4
@@ -7930,6 +7974,7 @@ kata,kelas,kata_dasar,nilai
 "awig-awig","Nomina; Bl","",5
 "awik","Verba; Ri","",2
 "awil","Nomina; Jw","",3
+"awilompo","Nomina; Sbw","",1
 "awin","Nomina","",3
 "awin","Nomina; Bn","",2
 "awini","Nomina; Bas","",1
@@ -8109,6 +8154,7 @@ kata,kelas,kata_dasar,nilai
 "azuki","Nomina; Jp","",4
 "azulena","Nomina; Kim","",4
 "azurit","Nomina; Min","",4
+"ba","Nomina; sing","",7
 "baa","Nomina","",3
 "baa","Nomina; Kei","",1
 "baahui","Nomina; Bjr","",2
@@ -8521,7 +8567,7 @@ kata,kelas,kata_dasar,nilai
 "bagel","Adjektiva; Oto","",3
 "bagelen","Nomina","",5
 "bagen","Nomina; Jw","",3
-"bagentar","Nomina; Sbw","",1
+"bagêntar","Nomina; Sbw","",1
 "baget","Nomina","",3
 "bageur","Adjektiva; Sd","",4
 "bagi","Partikel","",10
@@ -8650,12 +8696,12 @@ kata,kelas,kata_dasar,nilai
 "bahkan","Partikel","",9
 "bahlul","Adjektiva; kas","",6
 "baho","Nomina; Bt; Bkt","",3
-"bahoinia","Nomina; Bgk","",2
 "bahok","Nomina; Dy","",1
 "bahol","Nomina; Ht","",1
 "baholak","","",2
 "baholak","","",2
 "bahon","Nomina; Bt","",2
+"bahonia","Nomina; Bgk","",2
 "bahrain","Nomina","",7
 "bahrambah","Nomina","",4
 "bahri","Nomina; Ach","",2
@@ -8810,10 +8856,9 @@ kata,kelas,kata_dasar,nilai
 "bajunggen","Verba; Bt; ki","",2
 "bajuran","Nomina; Dy","",1
 "bajut","Nomina; Dy","",1
-"bak-bak","Nomina; Bt","",2
 "baka","Adjektiva","",5
 "baka","Nomina; Mk","",4
-"baka-baka","Nomina; Bt","",2
+"bakabaka","Nomina; Bt","",2
 "bakaciak","Verba; Dy","",1
 "bakah","Nomina; Mk","",3
 "bakah","Nomina; Ri","",2
@@ -8856,6 +8901,7 @@ kata,kelas,kata_dasar,nilai
 "bakaukin","Verba; Eln","",1
 "bakaya","Verba; Bc","",1
 "bakayo","Nomina; Dy","",1
+"bakbak","Nomina; Bt","",2
 "bakbala","Nomina; Kj","",2
 "bakbarak","Nomina; Mks","",2
 "bakber","Nomina; Mdr","",2
@@ -8955,6 +9001,7 @@ kata,kelas,kata_dasar,nilai
 "bakteria","","",4
 "bakterial","Adjektiva","",4
 "bakterin","Nomina","",3
+"bakteriodopsin","Nomina; Bio","",3
 "bakteriofag","Nomina; Bio","",5
 "bakteriofobia","Nomina; Psi","",3
 "bakterioklorofil","Nomina; Bio","",3
@@ -8965,7 +9012,6 @@ kata,kelas,kata_dasar,nilai
 "bakteriologi","Nomina","",7
 "bakterion","Nomina","",3
 "bakteriopurpurin","Nomina; Bio","",3
-"bakteriorodopsin","Nomina; Bio","",3
 "bakteriosidal","Nomina","",3
 "bakteriosin","Nomina; Bio","",3
 "bakteriosinogen","Nomina; Bio","",3
@@ -9036,6 +9082,7 @@ kata,kelas,kata_dasar,nilai
 "balabicara","Nomina; kl","",2
 "balabua","Nomina; Wl","",1
 "balabuh","Nomina; Sd","",2
+"balabulan","Nomina; Bt","",2
 "balaburu","Verba; Wl","",1
 "balacang","Nomina; MKp","",2
 "balad","Nomina; Ar","",4
@@ -9171,6 +9218,7 @@ kata,kelas,kata_dasar,nilai
 "balau","Nomina","",3
 "balau","","",1
 "balau","Nomina; Ri","",2
+"balauikuhkuda","Nomina; Dy","",1
 "balaumba","Nomina; Pm","",1
 "balaya","Nomina; Eln","",1
 "balayage","Nomina","",5
@@ -9190,7 +9238,6 @@ kata,kelas,kata_dasar,nilai
 "baledang","Nomina; Bt; Adjektiva; of","",2
 "baleg","Nomina; akr; Jw","",4
 "balega","Adjektiva; Pm","",2
-"balegda","Nomina; akr","",2
 "balehe","Nomina; Bt","",2
 "balek","Verba","",5
 "balek","Nomina; Rt","",2
@@ -9306,6 +9353,7 @@ kata,kelas,kata_dasar,nilai
 "balkon","Nomina","",8
 "balkot","akr","",4
 "ballamate","Nomina; Tot","",1
+"ballegda","Nomina; akr","",2
 "ballo","Nomina","",4
 "balneologi","Nomina; Dok","",3
 "balneoterapi","Nomina; Dok","",3
@@ -9313,8 +9361,8 @@ kata,kelas,kata_dasar,nilai
 "balo","Nomina; Trj","",2
 "balo","Nomina; Sb","",1
 "balo","Adjektiva; Jw","",2
-"balo-balo","Nomina; Jw","",3
 "balo-balo","Nomina; Sw","",2
+"balobalo","Nomina; Jw","",3
 "balobas","Nomina; Md","",1
 "balobe","Verba; Pp","",3
 "balobinte","Nomina; Gor","",1
@@ -9359,6 +9407,7 @@ kata,kelas,kata_dasar,nilai
 "balrendek","Verba; Tot","",1
 "balrombo","Nomina; Tot","",1
 "balronti","Nomina; Tot","",1
+"balrosanga","Nomina; Gor","",1
 "balru","Nomina; Ram","",2
 "balrundak","Nomina; Tot","",1
 "balsa","Nomina","",5
@@ -9494,7 +9543,6 @@ kata,kelas,kata_dasar,nilai
 "bamu","Nomina; Gy","",2
 "bamudo","Verba; Jb","",1
 "bamus","Nomina; akr","",4
-"ban-pt","Nomina; sing","",5
 "bana","Nomina","",4
 "bana","Verba; Rt","",2
 "bana-bana","Nomina; Eln","",1
@@ -9919,6 +9967,7 @@ kata,kelas,kata_dasar,nilai
 "banpom","Nomina; akr","",5
 "banpres","Nomina; akr","",5
 "banprov","Nomina; akr","",4
+"banpt","Nomina; sing","",5
 "banpur","Nomina; akr","",5
 "banrol","","",3
 "banrol","","",2
@@ -9978,8 +10027,8 @@ kata,kelas,kata_dasar,nilai
 "banter","Adjektiva; cak","",7
 "banteras","","",4
 "banteras","","",3
-"bantet","","",4
-"bantet","","",3
+"bantêt","","",4
+"bantêt","","",3
 "bantet","Nomina; Mdr","",2
 "bantet","","",2
 "banti","Nomina; Mk","",3
@@ -10035,11 +10084,13 @@ kata,kelas,kata_dasar,nilai
 "banyuasin","Nomina","",6
 "banyuk","Nomina; Kl","",2
 "banyuke","Nomina; Ss","",1
+"banyumas","Nomina","",8
 "banyun","Nomina; kl","",3
 "banyup","Nomina","",3
 "banyupinaruh","Nomina; Bl","",4
 "banyupinaruh","Nomina; Bl","",3
 "banyuwangi","Nomina","",7
+"banyuwara","Nomina; Skt","",3
 "banzai","Nomina; Jp","",5
 "banzi","Nomina; Mil; akr","",4
 "bao","Nomina","",4
@@ -10189,6 +10240,7 @@ kata,kelas,kata_dasar,nilai
 "barangan","","",3
 "baranggung","Adjektiva; Dy","",1
 "barangka","Nomina; Dy","",1
+"barangkali","Adverbia","",9
 "barantan","Nomina; akr","",4
 "barantin","Nomina; akr","",4
 "baranun","Verba; Bkt","",1
@@ -10343,7 +10395,6 @@ kata,kelas,kata_dasar,nilai
 "barlang","Adjektiva","",4
 "barli","Nomina","",4
 "barlingmascakeb","Nomina; akr","",4
-"barlosanga","Nomina; Gor","",1
 "barnen","Nomina; Jw","",3
 "barneverai","Nomina; Mai","",1
 "baro","Nomina; Jw; Mu","",3
@@ -10408,7 +10459,6 @@ kata,kelas,kata_dasar,nilai
 "baruang-baruang","Nomina; Mk","",2
 "baruangan","Nomina; Bjr","",1
 "baruasa","Nomina; Bgk","",4
-"baruayat","Nomina; Sbw","",1
 "barubuk","Nomina; Trj","",1
 "barucut","Nomina; Sd","",2
 "baruga","Nomina","",5
@@ -10452,6 +10502,7 @@ kata,kelas,kata_dasar,nilai
 "barut","Nomina; Ri","",2
 "barut","Nomina; Bun","",1
 "baruten","Verba; Sd","",1
+"baruwayat","Nomina; Sbw","",1
 "baruyungan","Nomina; Sd","",2
 "barvas","Nomina; Bm","",2
 "barza","","",4
@@ -10659,6 +10710,7 @@ kata,kelas,kata_dasar,nilai
 "batanak","Nomina; Sbw","",1
 "batanam","Nomina; Mk","",3
 "batanas","Nomina","",2
+"batanda","Nomina; Wl","",1
 "batandang","Nomina; Jb; kl","",2
 "batane","Nomina; Sbw","",1
 "batang","Nomina","",7
@@ -10668,6 +10720,7 @@ kata,kelas,kata_dasar,nilai
 "batang","Nomina; Ri","",2
 "batang","Nomina; Bc","",1
 "batanga","Nomina; Gor","",1
+"batanghari","Nomina","",7
 "batanta","Nomina","",4
 "batanyit","Verba; Dy","",1
 "batapam","Adjektiva; Ri","",2
@@ -10808,9 +10861,11 @@ kata,kelas,kata_dasar,nilai
 "batu","Nomina","",10
 "batu","Verba; Jw","",3
 "batua","Nomina; Wl","",1
+"batubara","","",9
 "batugeh","Nomina; Krc","",1
 "batui","Nomina","",4
 "batuk","Nomina; Verba; ki","",9
+"batukumung","Nomina; Sbw","",1
 "batulele","Nomina; Tb","",2
 "batuley","Nomina","",4
 "batumbang","Nomina; Bjr","",2
@@ -10994,12 +11049,14 @@ kata,kelas,kata_dasar,nilai
 "bazari","Nomina","",4
 "baznas","Nomina; akr","",9
 "bazoka","Nomina","",6
-"be-bop","Nomina; Mus","",5
+"bdk","Verba; sing","",5
+"bdn","Nomina","",6
 "bea","Nomina","",9
 "bea","Nomina; Mt","",3
 "beabudo","Nomina; Gor","",1
 "beamau","Verba; Rjg","",1
 "beanggat","Nomina; Tot","",1
+"beasiswa","Nomina","",10
 "beastudi","Nomina","",7
 "beatifikasi","Nomina; Kat","",5
 "beawiyata","Nomina","",5
@@ -11105,6 +11162,7 @@ kata,kelas,kata_dasar,nilai
 "bebodoran","Nomina; Sd","",5
 "bebondan","Nomina; Bl","",3
 "bebondresan","Nomina","",4
+"bebop","Nomina; Mus","",5
 "bebotoh","Nomina","",6
 "bebrayan","Nomina; Jw","",6
 "bebrek","Verba","",4
@@ -11395,7 +11453,7 @@ kata,kelas,kata_dasar,nilai
 "bekawat","Verba; Tj","",1
 "bekawo","Verba; Sbw","",1
 "bekbekil","Verba; Eln","",1
-"beke","Adjektiva; Sb","",3
+"bekê","Adjektiva; Sb","",3
 "beke","Nomina; Mg","",2
 "beke","Verba; Nd","",1
 "bekecik","Verba; Ss","",2
@@ -11482,6 +11540,7 @@ kata,kelas,kata_dasar,nilai
 "belacu","Nomina","",7
 "belada","Nomina","",5
 "beladau","Nomina","",5
+"beladiri","","",10
 "beladona","Nomina","",6
 "beladu","Nomina; Jk","",3
 "beladu","Nomina; Ri","",2
@@ -11575,6 +11634,7 @@ kata,kelas,kata_dasar,nilai
 "belase","","",3
 "belasong","Nomina; Bn","",2
 "belasting","Nomina; Bld","",5
+"belasungkawa","Nomina","",9
 "belasut","","",3
 "belat","Nomina; Ri; Jb","",3
 "belat","Nomina","",6
@@ -11795,7 +11855,7 @@ kata,kelas,kata_dasar,nilai
 "belontang","","",3
 "belontang","Nomina; Tj","",2
 "belontok","Nomina","",5
-"belontong","Nomina; Sbw","",2
+"bêlontong","Nomina; Sbw","",2
 "belonyo","Verba; Jw","",3
 "beloon","Adjektiva; kas","",7
 "belore","Verba; Sky","",1
@@ -11992,7 +12052,7 @@ kata,kelas,kata_dasar,nilai
 "bengah","Adjektiva; ark","",3
 "bengak","Verba; Tot","",1
 "bengal","Adjektiva; Jk","",7
-"bengali","Nomina","",5
+"bêngali","Nomina","",5
 "bengali","Nomina","",5
 "bengalin","Nomina; Tbs","",2
 "bengalo","Nomina; Bgi","",1
@@ -12308,7 +12368,7 @@ kata,kelas,kata_dasar,nilai
 "berangan","Nomina","",5
 "berangan","Nomina","",5
 "berangan","Nomina","",5
-"berangas","Nomina","",3
+"bêrangas","Nomina","",3
 "berangas","Nomina","",4
 "berangas","Verba","",3
 "berangas","Adjektiva","",2
@@ -12377,7 +12437,6 @@ kata,kelas,kata_dasar,nilai
 "berengsek","Adjektiva; kas","",7
 "berengsek","","",6
 "berengut","","",3
-"berentaleng","Verba; Tj","",1
 "berentang","Verba","",4
 "berenuk","Nomina","",4
 "berenyeng","Verba; Beng","",1
@@ -12385,6 +12444,7 @@ kata,kelas,kata_dasar,nilai
 "bererot","","",5
 "beret","Adjektiva; Jk","",4
 "beret","Adjektiva; Jk","",4
+"beretaleng","Verba; Tj","",1
 "bereteh","Nomina; Klm","",1
 "berewit","Adjektiva; Sd","",1
 "berezka","Nomina","",3
@@ -12433,6 +12493,7 @@ kata,kelas,kata_dasar,nilai
 "berisil","Nomina; Jb","",1
 "beristighfar","","",7
 "berita","Nomina","",9
+"beritahu","","",10
 "beritawan","Nomina; ark","",3
 "berjelintin","Adjektiva; Ri","",1
 "berjong","Verba; Rjg","",1
@@ -12501,7 +12562,7 @@ kata,kelas,kata_dasar,nilai
 "berowah","Verba; Klm","",1
 "beroya","","",2
 "bersat","Verba; ark","",2
-"bersempolung","Verba; Jb","",1
+"bersempulong","Verba; Jb","",1
 "bersih","Adjektiva; cak","",9
 "bersil","","",3
 "bersin","Verba","",8
@@ -12696,8 +12757,8 @@ kata,kelas,kata_dasar,nilai
 "betete","Adjektiva; Ri","",1
 "beti","Adjektiva; Ach; Nomina","",4
 "beti-beti","","",2
-"beti-beti","Nomina","",4
-"beti-beti","","",3
+"betibeti","Nomina","",4
+"betibeti","","",3
 "betik","Nomina","",6
 "betik","","",2
 "betik","Nomina","",4
@@ -13020,7 +13081,7 @@ kata,kelas,kata_dasar,nilai
 "bika","","",3
 "bika","Nomina; Sng","",1
 "bika-bika","Nomina; Mu","",1
-"bika-bika","Nomina; Wl","",1
+"bikabika","Nomina; Wl","",1
 "bikalutamid","Nomina; Far","",4
 "bikameral","Nomina","",5
 "bikameralisme","Nomina; Pol","",4
@@ -13158,6 +13219,7 @@ kata,kelas,kata_dasar,nilai
 "bima","Nomina","",6
 "bimaran","Nomina; Ach","",1
 "bimas","Nomina; akr","",5
+"bimasakti","Nomina; Astron","",8
 "bimawa","Nomina; akr","",3
 "bimbang","Adjektiva","",8
 "bimbang","Nomina","",6
@@ -13407,7 +13469,7 @@ kata,kelas,kata_dasar,nilai
 "binyolos","Nomina","",2
 "bio","Nomina; Gor","",1
 "bio","Nomina; Cn","",2
-"bio","bentuk terikat","",5
+"bio-","bentuk terikat","",5
 "bioadhesi","Nomina; Bio","",3
 "bioadhesif","Nomina","",3
 "bioaditif","Nomina","",3
@@ -13465,6 +13527,7 @@ kata,kelas,kata_dasar,nilai
 "biofarmaka","Nomina","",5
 "biofarmakologi","Nomina","",4
 "biofarmasetika","Nomina","",4
+"biofarmaseutikal","Adjektiva","",4
 "biofarmasi","Nomina","",5
 "biofasies","Nomina; Bio","",4
 "biofera","Nomina; Geo","",5
@@ -13943,6 +14006,7 @@ kata,kelas,kata_dasar,nilai
 "biyung","Nomina; Jw","",5
 "bizantium","Nomina","",5
 "bizurai","Nomina; kl","",3
+"bkph","Nomina; sing","",4
 "blabag","Nomina; Jw","",3
 "blabar","Nomina","",4
 "blabitisme","Nomina","",3
@@ -14376,6 +14440,7 @@ kata,kelas,kata_dasar,nilai
 "bolak","Nomina; Mt","",1
 "bolak-balik","Verba; Adjektiva","",8
 "bolamania","Nomina","",5
+"bolanafo","Nomina; Ni","",1
 "bolang","Nomina; cak; akr","",6
 "bolang","Nomina; Ss","",1
 "bolang","Nomina; Bt","",1
@@ -14450,7 +14515,7 @@ kata,kelas,kata_dasar,nilai
 "bolsak","","",4
 "bolsak","","",4
 "bolsyewik","Nomina","",4
-"bolsyewisme","Nomina","",4
+"bolsyewismê","Nomina","",4
 "bolta","Nomina; Hut","",1
 "boltam","Nomina","",3
 "bolu","Nomina","",7
@@ -14567,6 +14632,7 @@ kata,kelas,kata_dasar,nilai
 "bonggu","Nomina; Lj","",1
 "bonggulato","Nomina; Gor","",1
 "bonggum","Adjektiva; Bt","",1
+"bongkaanatao","Nomina; Wl","",1
 "bongkah","Nomina; Geo","",6
 "bongkak","","",4
 "bongkak","Verba; Mt","",1
@@ -14690,6 +14756,8 @@ kata,kelas,kata_dasar,nilai
 "bopong","Verba","",7
 "bopong","Adjektiva; Jw","",3
 "bopongan","Nomina","",5
+"bora","Nomina","",5
+"bora","Nomina; Met","",3
 "borage","Nomina","",4
 "borak","","",5
 "borak","","",5
@@ -14746,7 +14814,7 @@ kata,kelas,kata_dasar,nilai
 "boro","Nomina; Bt","",1
 "boro","Adjektiva; Bg","",1
 "boro-boro","Adverbia; cak","",7
-"boro-boro","Adjektiva; Tlk","",1
+"boroboro","Adjektiva; Tlk","",1
 "borobudur","Nomina","",7
 "boroco","Nomina","",4
 "boroh","Adjektiva; Ri","",1
@@ -14897,8 +14965,8 @@ kata,kelas,kata_dasar,nilai
 "boyate","Nomina; Buo","",1
 "boyo","Nomina; Bgi","",1
 "boyo-boyo","Nomina; Lay","",3
-"boyo-boyo","Verba","",4
 "boyobi","Nomina; Buo","",1
+"boyoboyo","Verba","",4
 "boyok","Nomina; Jw","",4
 "boyolali","Nomina","",5
 "boyolangu","Nomina; Ark","",3
@@ -14909,7 +14977,9 @@ kata,kelas,kata_dasar,nilai
 "boza","Nomina","",4
 "bozah","Nomina","",4
 "bozem","Nomina","",4
+"bph","Nomina; sing","",5
 "bpk","Nomina; sing","",7
+"bra","Nomina; sing","",4
 "brabak","Nomina; Jw","",2
 "brabuk","Nomina; Ri","",1
 "bradiaritmia","Nomina","",4
@@ -14934,8 +15004,10 @@ kata,kelas,kata_dasar,nilai
 "brahu","Nomina","",4
 "brahui","Nomina","",4
 "braille","Nomina","",6
+"braj","Nomina; sing","",4
 "braja","Nomina","",4
 "brajapanjara","Nomina; Sd; ark","",2
+"brajg","Nomina; sing","",3
 "braka","Nomina; akr","",2
 "braket","Nomina","",6
 "brakial","Adjektiva","",4
@@ -14994,9 +15066,10 @@ kata,kelas,kata_dasar,nilai
 "bratislawa","Nomina","",5
 "bratu","Nomina","",4
 "brawokan","Nomina; Us","",2
+"bray","Nomina; sing","",4
 "brayo","Nomina; Jw","",2
+"brazaville","Nomina","",5
 "brazza","Nomina","",4
-"brazzaville","Nomina","",5
 "brebes","Nomina","",5
 "brebet","Adjektiva; cak","",5
 "bredel","","",7
@@ -15024,6 +15097,7 @@ kata,kelas,kata_dasar,nilai
 "brewok","","",8
 "brewok","","",8
 "brewu","Adjektiva; Jw","",3
+"brh","Nomina; sing","",3
 "bribil","Nomina; Jw","",3
 "bribil","Nomina; Bot","",3
 "bridgetown","Nomina","",5
@@ -15060,6 +15134,9 @@ kata,kelas,kata_dasar,nilai
 "britonik","Nomina","",3
 "britpop","Nomina","",6
 "briyani","Nomina","",7
+"brm","Nomina; sing","",4
+"brmg","Nomina; sing","",3
+"brmh","Nomina; sing","",3
 "brobosan","Nomina; Jw","",5
 "broiler","Nomina","",7
 "brokade","Nomina","",5
@@ -15152,6 +15229,7 @@ kata,kelas,kata_dasar,nilai
 "bruto","Nomina","",8
 "brutu","Nomina; Jw","",4
 "bruwet","Adjektiva; Jw","",4
+"bsc","Nomina; sing","",7
 "buabiri","Nomina; Bgk","",2
 "buah","Nomina","",10
 "buahanga","Nomina; Gor","",2
@@ -15294,6 +15372,7 @@ kata,kelas,kata_dasar,nilai
 "budi","Nomina; Sg","",3
 "budian","Nomina; Jw","",3
 "budiar","Verba; Bt","",2
+"budidaya","","",9
 "budig","Nomina; Sd","",3
 "budikdamber","Nomina; akr","",6
 "budim","Verba; cak; akr","",5
@@ -15454,6 +15533,8 @@ kata,kelas,kata_dasar,nilai
 "buku","Nomina; Rt","",3
 "buku-el","Nomina; sing","",7
 "bukudale","Nomina; Kal","",2
+"bukuk","Nomina; Mdr","",2
+"bukuk","Nomina; Mt","",2
 "bukulah","Nomina; Ach","",2
 "bukun","Nomina; Bgi","",2
 "bukuna","Nomina; Kal","",2
@@ -15584,6 +15665,7 @@ kata,kelas,kata_dasar,nilai
 "bulusakang","Nomina; Bc","",2
 "bulusan","Nomina","",5
 "bulusi","Nomina; Wl","",2
+"bulutangkis","","",10
 "buluula","Nomina; Gor","",2
 "buluwa","Nomina; Gor","",2
 "buluwele","Nomina; Gor","",2
@@ -15608,6 +15690,7 @@ kata,kelas,kata_dasar,nilai
 "bumi","Nomina; Bm","",3
 "bumiah","Adjektiva","",5
 "bumil","Nomina; akr","",9
+"bumiputra","Nomina","",8
 "bumon","Nomina; Dy","",2
 "bumpai","Verba; Dy","",2
 "bumper","Nomina; ki","",8
@@ -16027,6 +16110,7 @@ kata,kelas,kata_dasar,nilai
 "butah","Nomina; Bjr","",3
 "butahto","Verba; Ko","",2
 "butahu","Nomina; Gor","",2
+"butakala","Nomina","",3
 "butala","Nomina; kl","",4
 "butana","Nomina; Pet","",6
 "butanadiol","Nomina; Bio","",4
@@ -16324,7 +16408,7 @@ kata,kelas,kata_dasar,nilai
 "cako","Nomina; MAb; Verba","",2
 "cako","Nomina; Mg","",2
 "cako-cako","Nomina; Bg","",2
-"cako-cako","Nomina; Bg","",2
+"cakocako","Nomina; Bg","",2
 "cakompong","Nomina; Bg","",2
 "cakonai","Nomina; Beng","",2
 "cakong","Verba; Mg","",2
@@ -16490,6 +16574,8 @@ kata,kelas,kata_dasar,nilai
 "campung","Verba; Mk","",3
 "campung","Adjektiva; Bt","",2
 "campur","Verba; ki","",9
+"campursari","Nomina; Jw","",8
+"campursari","Nomina; Sen","",8
 "camui","Nomina; MBa","",2
 "camuk","","",4
 "camuk","","",4
@@ -16659,6 +16745,10 @@ kata,kelas,kata_dasar,nilai
 "cantel","Nomina; Jw","",4
 "canteng","","",3
 "canthik","Nomina","",3
+"cantik","Nomina; Jw","",3
+"cantik","Adjektiva","",10
+"cantik","Adjektiva; Mk","",4
+"cantik","Nomina; Gy","",2
 "cantilan","Nomina; Sd","",2
 "canting","Nomina; Sd","",7
 "canting","Nomina; Lp","",2
@@ -17400,6 +17490,8 @@ kata,kelas,kata_dasar,nilai
 "cendera","","",3
 "cendera","Adjektiva; kl","",4
 "cenderai","Nomina","",3
+"cenderamata","","",9
+"cenderamata","","",9
 "cenderasa","Nomina; kl","",3
 "cenderawasih","Nomina","",8
 "cenderung","Adjektiva","",9
@@ -17585,7 +17677,6 @@ kata,kelas,kata_dasar,nilai
 "cepet","","",4
 "cepete","Adjektiva; Jw","",3
 "cepeweki","Nomina; Bm","",2
-"cepheid","Nomina; Astron","",4
 "cepiau","Nomina","",4
 "cepih","Adjektiva; Bt","",2
 "cepirit","Verba; cak","",5
@@ -17831,6 +17922,7 @@ kata,kelas,kata_dasar,nilai
 "cewet","Adjektiva; Jw","",3
 "cewo","Nomina; Sd","",2
 "chechnya","Nomina","",6
+"chepheid","Nomina; Astron","",4
 "chili","Nomina","",7
 "china","Nomina","",8
 "chisinau","Nomina","",5
@@ -17953,7 +18045,7 @@ kata,kelas,kata_dasar,nilai
 "ciko","Adjektiva; Ri","",2
 "cikok","Nomina; ark","",3
 "cikor-kor","Nomina; Bt","",2
-"cikor-kor","Verba; Bt","",2
+"cikorkor","Verba; Bt","",2
 "cikrak","Nomina; Jw","",5
 "cikram","Verba; Klm","",2
 "cikruh","Adjektiva; Sd","",3
@@ -18025,7 +18117,6 @@ kata,kelas,kata_dasar,nilai
 "cimpue","Adjektiva; Ri","",1
 "cimpung","","",2
 "cimpung","","",2
-"cimteik","Nomina; Jb","",1
 "cimuntu","Nomina; Mk","",1
 "cina","Nomina","",9
 "cinabuta","Nomina; Skt","",4
@@ -18178,7 +18269,7 @@ kata,kelas,kata_dasar,nilai
 "citarik","Nomina","",5
 "citarum","Nomina","",7
 "citel","Nomina; Sd; akr","",4
-"cites","Verba; Jw","",1
+"citês","Verba; Jw","",1
 "cito","Nomina; Dok","",6
 "cito","Nomina; Jw","",2
 "citon","Nomina; Dy","",1
@@ -18218,6 +18309,7 @@ kata,kelas,kata_dasar,nilai
 "clurit","","",6
 "clurit","","",6
 "clutak","Adjektiva; Jw","",2
+"cmteik","Nomina; Jb","",1
 "coak","Verba","",5
 "coang","","",2
 "coang","","",2
@@ -18475,12 +18567,14 @@ kata,kelas,kata_dasar,nilai
 "cowong","Adjektiva","",4
 "cowongan","Nomina; Jw","",3
 "cowperitis","Nomina; Dok","",4
+"cq","Nomina; Lt; sing","",7
 "cracaban","Nomina; Us","",1
 "criek","Nomina; Ach","",1
 "criping","Nomina","",5
 "criterium","Nomina; Olr","",4
 "crucru","Nomina; Ach","",1
 "crucru","Verba; Ach","",1
+"cs","Nomina; Lt; sing","",7
 "cua","Adjektiva; ark","",2
 "cua","Verba; Ca","",1
 "cuaca","Nomina","",10
@@ -18738,7 +18832,7 @@ kata,kelas,kata_dasar,nilai
 "curat","Nomina; akr","",4
 "curaweda","Nomina; Sd","",2
 "curcol","Nomina; cak","",7
-"curcurpal","Nomina; Gor","",1
+"curculpal","Nomina; Gor","",1
 "curek","Nomina","",4
 "cureng","Adjektiva","",4
 "cureuleuk","Adjektiva; Sd","",2
@@ -18775,9 +18869,10 @@ kata,kelas,kata_dasar,nilai
 "cuwai","Nomina; Ri","",2
 "cuwiri","Nomina","",4
 "cwimi","Nomina; Tbg","",5
+"da","","",8
+"da","Nomina; sing","",8
 "da'ang","Nomina","",3
-"da'wah","Nomina; Mus","",8
-"da'wah","","",2
+"da'i","","",1
 "da'wah","","",4
 "daangeluu","Nomina; Mdl","",1
 "daat","Verba; Jb","",1
@@ -18933,7 +19028,6 @@ kata,kelas,kata_dasar,nilai
 "dahyawan","Nomina; Kol","",1
 "dai","Nomina; Isl","",7
 "dai","Nomina; Wl","",1
-"dai","","",1
 "daida","Nomina; Ca","",1
 "daidan","Nomina; Jp","",3
 "daidanco","Nomina; Jp","",3
@@ -19278,8 +19372,6 @@ kata,kelas,kata_dasar,nilai
 "danein","Verba; Btl","",1
 "danek","Nomina; Jb","",1
 "danengko","Nomina; Lj","",1
-"dang-ding","Nomina; Jw","",1
-"dang-ding","Nomina; Sd","",1
 "danga","Adjektiva; Bt","",1
 "dangai","Nomina; Mal","",1
 "dangak","","",3
@@ -19290,6 +19382,8 @@ kata,kelas,kata_dasar,nilai
 "dangau","Nomina","",7
 "dangdang","Nomina; Jk","",3
 "dangdao","Nomina; Dy","",1
+"dangding","Nomina; Jw","",1
+"dangding","Nomina; Sd","",1
 "dangdung","Nomina; Bt","",1
 "dangdut","Nomina; Mus","",9
 "dange","Nomina; Sbw","",1
@@ -19361,7 +19455,6 @@ kata,kelas,kata_dasar,nilai
 "dankolak","Nomina; akr","",2
 "dankopasgat","Nomina; akr","",2
 "dankormar","Nomina; akr","",3
-"dankorpaskhas","Nomina; Mil; akr","",2
 "danlanal","Nomina; akr","",4
 "danlantamal","Nomina; akr","",4
 "danlanud","Nomina; Mil; akr","",5
@@ -19404,6 +19497,7 @@ kata,kelas,kata_dasar,nilai
 "danse","Nomina; akr","",1
 "dansek","Nomina; Mil; akr","",3
 "dansesko","Nomina; akr","",2
+"danseskoal","Nomina; akr","",5
 "danseskoau","Nomina; akr","",1
 "dansilang","Nomina; Sng","",1
 "danska","Nomina; Mil; akr","",1
@@ -19492,10 +19586,12 @@ kata,kelas,kata_dasar,nilai
 "darah","Nomina; ki","",10
 "darai","Nomina","",3
 "darak","Nomina","",3
+"darakepek","Nomina; Us","",1
 "daram","","",1
 "daraman","Adjektiva; Bjr","",1
 "daramas","Verba; Kur","",1
 "darami","Verba; MAb","",1
+"daramuluk","Nomina; Jw","",2
 "daran","Nomina; Oi; Dy","",1
 "darana","Nomina","",3
 "darandang","Nomina; Trj","",1
@@ -19523,13 +19619,17 @@ kata,kelas,kata_dasar,nilai
 "daringan","Nomina; Jw","",1
 "daringanti","Nomina; Sd","",1
 "dariol","Nomina; Tbg","",1
+"daripada","Partikel","",10
 "daris","Verba; Klm","",1
 "darji","Nomina; kl","",1
 "darjomi","Verba; Trtim","",1
 "darkiar","Nomina; Kur","",1
+"darkorpaskhas","Nomina; Mil; akr","",2
 "darlambang","Nomina; Gor","",1
 "darliya","Nomina; Oi","",1
 "darma","Nomina","",8
+"darmabakti","Nomina","",8
+"darmagita","Nomina; Bl","",3
 "darmajati","Nomina; Sd","",1
 "darmakelana","Nomina","",2
 "darmalungit","Nomina; Jw; ark","",1
@@ -19538,6 +19638,7 @@ kata,kelas,kata_dasar,nilai
 "darmantel","Nomina; Btl","",1
 "darmasiswa","Nomina","",7
 "darmatirta","Nomina","",4
+"darmatula","Nomina; Bl","",2
 "darmawisata","Nomina","",9
 "darmika","Nomina; Hin","",2
 "darmil","Nomina; akr","",1
@@ -19576,7 +19677,7 @@ kata,kelas,kata_dasar,nilai
 "darwinisme","Nomina; Bio","",5
 "darwis","Nomina; Isl","",4
 "dasa","Nomina; Tlk; Mu; Kpr","",1
-"dasa","bentuk terikat","",6
+"dasa-","bentuk terikat","",6
 "dasair","Nomina; Kur","",1
 "dasalamat","Nomina; Kur","",1
 "dasalomba","Nomina","",6
@@ -19670,6 +19771,8 @@ kata,kelas,kata_dasar,nilai
 "daurah","Nomina; Ar; Isl","",5
 "dauran","Nomina; Mdr","",1
 "daut","Verba; Jw","",2
+"dawah","Nomina; Mus","",8
+"dawah","","",2
 "dawai","Nomina","",8
 "dawai-dawai","Nomina; Bot","",2
 "dawak","Verba; Bun","",1
@@ -19989,7 +20092,7 @@ kata,kelas,kata_dasar,nilai
 "dejavu","Nomina","",8
 "dejung","Nomina; Mg","",1
 "deka","Nomina; Dwn","",1
-"deka","bentuk terikat","",5
+"deka-","bentuk terikat","",5
 "dekade","Nomina","",9
 "dekaden","Adjektiva","",5
 "dekadensi","Nomina","",7
@@ -20966,7 +21069,7 @@ kata,kelas,kata_dasar,nilai
 "dharmasraya","Nomina","",6
 "dia","Pronomina","",10
 "dia","Verba; Rt","",5
-"dia","bentuk terikat","",6
+"dia-","bentuk terikat","",6
 "diabas","Nomina","",5
 "diabetes","Nomina; Dok","",9
 "diabetesi","Nomina","",7
@@ -21198,13 +21301,13 @@ kata,kelas,kata_dasar,nilai
 "dihaploid","Nomina; Bio","",5
 "dihe","Nomina; Gor","",3
 "dihedral","Adjektiva","",5
+"dihidroartemisinin","Nomina; Kim","",4
 "dihidroksiaseton","Nomina; Kim","",4
 "dihidroksil","Adjektiva","",4
 "dihidropiridin","Nomina; Kim","",4
 "dihidrotestosteron","Nomina; Bio","",5
 "dihit","Nomina","",4
 "dihwal","Nomina; Trtim","",4
-"dihydroartemisinin","Nomina; Kim","",4
 "diiodotirosina","Nomina","",4
 "dikaiosune","Nomina; Kat","",4
 "dikara","Adjektiva; kl","",4
@@ -21429,6 +21532,7 @@ kata,kelas,kata_dasar,nilai
 "dipentena","Nomina; Kim","",4
 "dipeptida","Nomina; Kim","",5
 "dipi","Nomina; Trf","",3
+"dipiridamol","Nomina; Kim","",4
 "diplakusis","Nomina; Dok","",4
 "diplanetik","Adjektiva; Mik","",4
 "diplegia","Nomina; Dok","",5
@@ -21452,7 +21556,6 @@ kata,kelas,kata_dasar,nilai
 "diploten","Nomina; Bio","",5
 "dipol","Nomina; Kim","",6
 "dipole-dipole","Nomina","",5
-"dipridamol","Nomina; Kim","",4
 "diprosopus","Nomina; Dok","",4
 "dipsofobia","Nomina; Psi","",3
 "dipsomania","Nomina; Psi","",5
@@ -21818,6 +21921,7 @@ kata,kelas,kata_dasar,nilai
 "dlidir","Adverbia; Jw","",4
 "dlika","Nomina; Jw","",4
 "dliring","Nomina; Jw","",4
+"dll","Nomina; sing","",10
 "dlurung","Nomina; Jw","",4
 "doang","Partikel; Jk","",8
 "doba","Nomina; Bla","",3
@@ -22214,8 +22318,8 @@ kata,kelas,kata_dasar,nilai
 "dorsiventral","Adjektiva; Bio","",4
 "dorslah","Nomina; cak","",4
 "dorso-alveolar","Nomina; Ling","",3
-"dorso-uvular","Nomina; Ling","",3
 "dorsopalatal","Nomina; Ling","",3
+"dorsouvular","Nomina; Ling","",3
 "dorsovelar","Nomina; Ling","",4
 "dorsum","Nomina; Anat","",5
 "dorsun","Nomina; Bt","",1
@@ -22292,7 +22396,9 @@ kata,kelas,kata_dasar,nilai
 "dresoar","Nomina","",3
 "dresta","Nomina; Bl","",3
 "dresur","Nomina","",4
+"drg","Nomina; sing","",9
 "drh","Nomina; sing","",7
+"drhc","Nomina; Lt; sing","",5
 "dria","","",1
 "dria","","",1
 "dribel","","",1
@@ -22308,6 +22414,10 @@ kata,kelas,kata_dasar,nilai
 "dropsi","Nomina; Anat","",4
 "drosera","Nomina","",4
 "drosometer","Nomina","",4
+"drphil","Nomina; Lt; sing","",4
+"drs","Nomina; sing","",8
+"drth","Nomina; sing","",4
+"drtr","Nomina; sing","",3
 "druma","Nomina; Sen","",3
 "drumben","Nomina","",6
 "drumblek","Nomina","",5
@@ -22315,6 +22425,10 @@ kata,kelas,kata_dasar,nilai
 "drumpori","Nomina","",2
 "drusen","Nomina; Dok","",3
 "druwe","Nomina; Bl","",3
+"ds","Nomina; sing","",5
+"dsb","Nomina; sing","",10
+"dsk","Nomina; sing","",6
+"dst","Nomina; sing","",10
 "dtp","sing","",3
 "dua","Numeralia","",10
 "dua","","",1
@@ -22417,6 +22531,7 @@ kata,kelas,kata_dasar,nilai
 "duit","Nomina; cak","",9
 "duka","Adjektiva","",8
 "dukacarita","Nomina","",4
+"dukacita","Nomina","",9
 "dukah","Nomina","",3
 "dukak","Nomina; Bt","",1
 "dukan","Nomina; ark","",2
@@ -22697,6 +22812,7 @@ kata,kelas,kata_dasar,nilai
 "duyun","","",1
 "duyung","Nomina","",7
 "duzuk","Verba","",3
+"dv","Nomina","",3
 "dwaita","Nomina; Skt","",4
 "dwangsom","Nomina; Huk","",5
 "dwaparayuga","Nomina; Hin","",4
@@ -22761,6 +22877,8 @@ kata,kelas,kata_dasar,nilai
 "dwiwarsa","Nomina","",6
 "dwiwasana","Nomina; Jw; Ling","",5
 "dwiyar","Numeralia","",5
+"dyam","Nomina; sing","",4
+"dymm","Nomina; sing","",4
 "dzalim","","",1
 "dzalim","","",1
 "dzikir","","",1
@@ -22768,7 +22886,6 @@ kata,kelas,kata_dasar,nilai
 "dzongkha","Nomina","",4
 "dzuhur","","",1
 "dzuhur","","",1
-"e-warong","Nomina; akr","",5
 "eabagar","Nomina; Sh","",1
 "eak","Verba; Bt","",1
 "eba","Nomina; Stn","",2
@@ -22795,6 +22912,7 @@ kata,kelas,kata_dasar,nilai
 "ebro","Nomina","",5
 "ebta","Nomina; akr","",5
 "ebtanas","Nomina; akr","",6
+"ebugogo","Nomina","",2
 "ebuh","Nomina; Skt; ark","",2
 "ebuliofobia","Nomina; Psi","",2
 "ebulioskop","Nomina; Kim","",4
@@ -22895,6 +23013,7 @@ kata,kelas,kata_dasar,nilai
 "efusif","Adjektiva; Geo","",5
 "efusifa","Nomina; Geo","",4
 "efusiometer","Nomina; Kim","",4
+"eg","Nomina; Lt; sing","",7
 "egah","Verba","",4
 "egak","Adjektiva; Ri","",2
 "egalisasi","Nomina","",5
@@ -22959,8 +23078,9 @@ kata,kelas,kata_dasar,nilai
 "ejekta","Nomina","",4
 "ejektif","Adjektiva; Ling","",5
 "ejektor","Nomina","",5
+"ek","Nomina; sing","",4
 "eka","Nomina; sing","",5
-"eka","bentuk terikat","",6
+"eka-","bentuk terikat","",6
 "ekaasam","Nomina; Kim","",3
 "ekabahasa","Adjektiva; Nomina","",6
 "ekabahasawan","Nomina","",5
@@ -23030,7 +23150,7 @@ kata,kelas,kata_dasar,nilai
 "eklosi","Nomina; Bio","",5
 "eko","Nomina; Tlk","",1
 "eko","Nomina; Me","",1
-"eko","bentuk","",6
+"eko-","bentuk","",6
 "ekoagrikultur","Nomina","",5
 "ekoarsitek","Nomina","",5
 "ekobatik","Nomina","",5
@@ -23414,12 +23534,13 @@ kata,kelas,kata_dasar,nilai
 "eksternalisasi","Nomina; Psi","",5
 "eksternalisme","Nomina; Fil","",4
 "eksternalitas","Nomina","",6
+"eksternus","Nomina","",4
 "eksteroseptor","Nomina","",3
 "ekstin","Nomina","",2
 "ekstirpasi","Nomina","",4
 "ekstorsi","Nomina; Huk","",4
 "ekstra","Nomina","",8
-"ekstra","bentuk terikat","",8
+"ekstra-","bentuk terikat","",8
 "ekstrabahasa","Adjektiva","",4
 "ekstradisi","Nomina; Huk","",8
 "ekstraditor","Nomina","",4
@@ -23453,6 +23574,7 @@ kata,kelas,kata_dasar,nilai
 "ekstranei","Nomina","",3
 "ekstranuklear","Adjektiva; Bio","",4
 "ekstranukleus","Nomina; Bio","",4
+"ekstraparlementer","Adjektiva","",5
 "ekstraperitoneal","Adjektiva","",3
 "ekstrapiramidal","Adjektiva; Dok","",4
 "ekstrapolasi","Nomina","",6
@@ -23466,6 +23588,7 @@ kata,kelas,kata_dasar,nilai
 "ekstraserbasif","Adjektiva","",3
 "ekstrasistole","Nomina; Dok","",4
 "ekstrasolar","Adjektiva","",4
+"ekstrasomatik","Adjektiva","",2
 "ekstrasurya","Adjektiva; Astron","",4
 "ekstratekstual","Adjektiva","",4
 "ekstraterestrial","Adjektiva","",5
@@ -23558,6 +23681,7 @@ kata,kelas,kata_dasar,nilai
 "ekuidistan","Nomina; Huk","",3
 "ekuilibrasi","Nomina","",4
 "ekuilibrium","Nomina","",7
+"ekuilibrum","Nomina; Fis","",5
 "ekuinofobia","Nomina; Psi","",3
 "ekuinoks","Nomina","",6
 "ekuinoksial","Nomina; Adjektiva","",4
@@ -23704,6 +23828,7 @@ kata,kelas,kata_dasar,nilai
 "elektronis","Adjektiva","",8
 "elektronisasi","Nomina","",6
 "elektronistagmografi","Nomina; Dok","",3
+"elektronvolt","Nomina","",5
 "elektrooptika","Nomina; Fis","",5
 "elektropalatograf","Nomina; Ling","",3
 "elektropatologi","Nomina","",4
@@ -23799,7 +23924,7 @@ kata,kelas,kata_dasar,nilai
 "elpiji","Nomina","",9
 "elseng","Nomina","",3
 "eltek","Nomina; Seg","",1
-"eltep","Nomina; Bt","",2
+"eltêp","Nomina; Bt","",2
 "eltor","Nomina","",4
 "elu","Nomina; Mt; Pronomina; Jk","",5
 "elu","Verba","",6
@@ -24430,6 +24555,7 @@ kata,kelas,kata_dasar,nilai
 "enkulturasi","Nomina","",6
 "enlisen","Nomina; Sw","",2
 "enlor","Nomina; Kei","",1
+"eno'o","Nomina; Ni","",1
 "enofobia","Nomina; Psi","",3
 "enok","Nomina; Sd","",2
 "enoki","","",4
@@ -24595,7 +24721,7 @@ kata,kelas,kata_dasar,nilai
 "entudu","Nomina; Gor","",2
 "entul","Verba; Jw","",3
 "entung","Nomina; Dy","",4
-"entungong","Nomina; Dy","",1
+"entunggong","Nomina; Dy","",1
 "enu","Nomina","",4
 "enui","Nomina; Ht; Maa","",2
 "enuin","Nomina; Ni","",1
@@ -24694,7 +24820,7 @@ kata,kelas,kata_dasar,nilai
 "epigenesis","Nomina; Bio; Geo","",5
 "epigenetik","Adjektiva; Nomina","",5
 "epigenetika","Nomina","",5
-"epigenotipe","Nomina; Bio","",4
+"epigenotipê","Nomina; Bio","",4
 "epigini","Nomina; Bot","",4
 "epiglotis","Nomina","",6
 "epiglotitis","Nomina; Dok","",4
@@ -24828,11 +24954,10 @@ kata,kelas,kata_dasar,nilai
 "epsomit","Nomina; Geo","",4
 "epu","Nomina; Kal; Ri","",2
 "epu-epu","Nomina; Wl","",1
-"epu-epu","Nomina; Wl","",1
+"epuepu","Nomina; Wl","",1
 "epul","Nomina; Ldy","",1
 "epulis","Nomina; Dok","",4
 "eputo","Nomina; Gor","",2
-"equilibrum","Nomina; Fis","",5
 "era","Nomina","",8
 "era","Nomina; Ht","",3
 "eradikasi","Nomina; Bio","",6
@@ -25023,7 +25148,6 @@ kata,kelas,kata_dasar,nilai
 "eskimo","Nomina; Geo","",6
 "eskrima","Nomina","",3
 "eskro","Nomina; Huk","",3
-"esktrasomatik","Adjektiva","",2
 "eskudo","Nomina","",4
 "eskuivas","Nomina","",1
 "eskul","","",5
@@ -25149,6 +25273,7 @@ kata,kelas,kata_dasar,nilai
 "etiket","Nomina","",7
 "etikolegal","Adjektiva","",4
 "etil","Nomina; Kim","",6
+"etilalkohol","Nomina; Kim","",6
 "etilasi","Nomina; Kim","",3
 "etilbenzena","Nomina","",4
 "etilen","","",5
@@ -25357,6 +25482,7 @@ kata,kelas,kata_dasar,nilai
 "ewae","Adjektiva; Ni","",1
 "ewah","Nomina; DyNg","",1
 "ewako","Nomina; Bg","",4
+"ewarong","Nomina; akr","",5
 "eweai","Nomina; Dn","",1
 "ewoka","Nomina; Ni","",1
 "ewuh","Adjektiva; Jw","",3
@@ -25555,6 +25681,7 @@ kata,kelas,kata_dasar,nilai
 "fangaite","Verba; Ni","",1
 "fangasi","Nomina; Ni","",1
 "fangka","Nomina; Wtb","",1
+"fangseng","Nomina; Cn","",3
 "fanguhuge","Nomina; Ni","",1
 "fani","Adjektiva","",5
 "fanimbu","Nomina; Ni","",1
@@ -25600,6 +25727,7 @@ kata,kelas,kata_dasar,nilai
 "farisi","Nomina","",4
 "faritia","Nomina","",1
 "farji","Nomina; Ar","",5
+"farm","Nomina; sing","",6
 "farmakodinamika","Nomina; Far","",5
 "farmakoepidemiologi","Nomina; Far","",3
 "farmakofobia","Nomina; Psi","",2
@@ -25631,6 +25759,7 @@ kata,kelas,kata_dasar,nilai
 "fasalate","Verba; Ni","",1
 "fasan","Nomina; Tht","",2
 "fasbek","Nomina; akr","",2
+"fasc","Nomina; sing","",3
 "fasda","Nomina; akr","",3
 "fasdu","Nomina; Jw","",2
 "fase","Nomina","",9
@@ -25841,6 +25970,7 @@ kata,kelas,kata_dasar,nilai
 "fenotipe","Nomina","",7
 "fenotipik","Adjektiva","",5
 "fentanil","Nomina; Far","",5
+"fenting","Nomina","",6
 "feodal","Adjektiva","",7
 "feodalis","Nomina","",5
 "feodalisme","Nomina","",7
@@ -25912,7 +26042,7 @@ kata,kelas,kata_dasar,nilai
 "fetometri","Nomina; Dok","",3
 "fetoprotein","Nomina; Bio","",4
 "fetor","Nomina","",3
-"fetraw","Nomina; Sob","",2
+"fettraw","Nomina; Sob","",2
 "fetucini","Nomina","",5
 "fetus","Nomina; Anat","",6
 "fevate","Verba; Ke","",1
@@ -26009,6 +26139,7 @@ kata,kelas,kata_dasar,nilai
 "fikstur","Nomina; Ek","",4
 "fiktif","Adjektiva","",8
 "fikus","Nomina","",4
+"fil","Nomina; sing","",5
 "filamen","Nomina; Bot","",6
 "filamin","Nomina; Bio","",3
 "filanesia","Nomina; Olr; akr","",4
@@ -26253,6 +26384,7 @@ kata,kelas,kata_dasar,nilai
 "fiuk","Nomina; Ldy","",1
 "fiya","Nomina; Awy","",1
 "fiyag","Nomina; Tbt","",1
+"fk","Nomina; sing","",5
 "fkour","Nomina","",1
 "flafonoid","","",5
 "flafonoid","","",5
@@ -26653,6 +26785,7 @@ kata,kelas,kata_dasar,nilai
 "fotoionisasi","Nomina; Fis","",4
 "fotojurnalis","Nomina","",6
 "fotojurnalisme","Nomina","",6
+"fotojurnalistik","Nomina","",7
 "fotokatalis","Nomina; Kim","",5
 "fotokeratitis","Nomina","",4
 "fotokimia","Nomina; Kim","",7
@@ -26662,6 +26795,7 @@ kata,kelas,kata_dasar,nilai
 "fotokonduktif","Nomina; Komp","",5
 "fotokonduktivitas","Nomina; Fis","",4
 "fotokonduktor","Nomina; Fis","",5
+"fotokopi","Nomina","",10
 "fotokromi","Nomina","",4
 "fotokromik","Adjektiva","",4
 "fotokromisme","Nomina; Kim","",4
@@ -26977,9 +27111,9 @@ kata,kelas,kata_dasar,nilai
 "gaba","Nomina; Km","",4
 "gaba","Adjektiva","",4
 "gaba-gaba","Nomina","",5
-"gaba-gaba","Nomina; Kal","",2
 "gaba-gaba","Nomina","",5
 "gaba-gaba","Nomina","",5
+"gabagaba","Nomina; Kal","",2
 "gabagen","Nomina","",3
 "gabah","Nomina","",9
 "gabah","Nomina; ark","",2
@@ -27226,6 +27360,7 @@ kata,kelas,kata_dasar,nilai
 "galagasi","Nomina","",4
 "galah","Nomina","",9
 "galai","Nomina","",4
+"galajang","Nomina; Mt","",1
 "galak","Adjektiva","",9
 "galak","","",4
 "galak","Nomina; Klm","",1
@@ -27267,7 +27402,6 @@ kata,kelas,kata_dasar,nilai
 "galanggasi","Nomina; Jk","",3
 "galangi","Nomina; Wl","",1
 "galanita","Nomina; Olr; akr","",4
-"galanjang","Nomina; Mt","",1
 "galanong","Nomina; Dy","",1
 "galantin","Nomina; Tbg","",5
 "galapak","Verba; Sd","",2
@@ -27377,7 +27511,7 @@ kata,kelas,kata_dasar,nilai
 "galuh","Nomina; kl; Bjr","",4
 "galumpang","Nomina","",4
 "galundeng","Nomina; Jw","",4
-"galundeng","Nomina; Jw","",4
+"galundêng","Nomina; Jw","",4
 "galundi","Nomina","",5
 "galung","Numeralia; DyNg","",1
 "galung","Nomina; Klm","",1
@@ -27617,11 +27751,6 @@ kata,kelas,kata_dasar,nilai
 "ganepo","Nomina; Jw","",4
 "ganepo","Nomina; Mdr","",1
 "ganesha","Nomina","",7
-"gang-gang","Verba","",5
-"gang-gang","Nomina; Adjektiva","",4
-"gang-gang","Nomina","",7
-"gang-gang","Nomina; Lp","",1
-"gang-gang","Nomina; Lj","",1
 "gangak","Nomina; Klm","",1
 "gangan","Nomina; MBl","",2
 "gangas","Adjektiva; Dy","",1
@@ -27629,6 +27758,11 @@ kata,kelas,kata_dasar,nilai
 "gangga","Nomina; Tlk","",1
 "ganggakh","Nomina; Lp","",1
 "ganggali","Nomina; Pm","",1
+"ganggang","Verba","",5
+"ganggang","Nomina; Adjektiva","",4
+"ganggang","Nomina","",7
+"ganggang","Nomina; Lp","",1
+"ganggang","Nomina; Lj","",1
 "ganggeng","Nomina; Sd","",2
 "ganggong","Nomina; Jw","",3
 "ganggu","Verba","",9
@@ -27679,6 +27813,7 @@ kata,kelas,kata_dasar,nilai
 "ganjen","Adjektiva; Jk","",6
 "ganjil","Adjektiva","",8
 "ganjil","Adjektiva","",8
+"ganjil-genap","Nomina","",9
 "ganjing","","",4
 "ganjing","Nomina; Jw","",3
 "ganjling","","",4
@@ -27792,8 +27927,10 @@ kata,kelas,kata_dasar,nilai
 "garai","Nomina; Gor","",1
 "garai","Nomina; Dy","",1
 "garak","Verba; Bjr; Nomina; Mk","",4
+"garakgampo","Nomina; Md","",1
 "garam","Nomina; Kim; cak","",9
 "garambir","Adjektiva; Mk; ki","",4
+"garammasala","Nomina; Tbg","",6
 "garan","Nomina; Jk","",5
 "garan","Adverbia; cak","",5
 "garang","Adjektiva; Mk","",8
@@ -27853,6 +27990,7 @@ kata,kelas,kata_dasar,nilai
 "garipuk","Verba; Bjr","",1
 "garis","Nomina; Olr; Mat; ki","",9
 "garis","","",4
+"garis","Adjektiva; Dy","",2
 "garit","Nomina","",5
 "garit","Nomina; Mk","",3
 "gariten","Nomina; Bt","",1
@@ -28089,6 +28227,11 @@ kata,kelas,kata_dasar,nilai
 "gazeter","Nomina","",4
 "gazpaco","Nomina","",4
 "gazwah","Nomina","",4
+"gbph","Nomina; sing","",4
+"gbra","Nomina; sing","",3
+"gbray","Nomina; sing","",3
+"gbrm","Nomina; sing","",3
+"gd","Nomina; sing","",6
 "geagap","Nomina; Tot","",1
 "geang","Adjektiva; Tot","",1
 "geang-geang","Nomina; Bt","",1
@@ -29382,7 +29525,6 @@ kata,kelas,kata_dasar,nilai
 "gerip","","",2
 "geripir","Nomina; ark","",1
 "geripis","Adjektiva","",3
-"geris","Adjektiva; Dy","",2
 "gerisik","Nomina","",4
 "gerising","Verba","",3
 "gerit","Nomina","",4
@@ -29610,6 +29752,7 @@ kata,kelas,kata_dasar,nilai
 "geyol","Nomina; Jw","",3
 "geyser","","",4
 "geyser","","",2
+"gg","Nomina; sing","",8
 "ghafir","Nomina; Isl","",4
 "ghaib","","",3
 "ghaib","","",2
@@ -29883,6 +30026,7 @@ kata,kelas,kata_dasar,nilai
 "giyeng","Nomina; Jw","",3
 "giyugun","Nomina","",4
 "gizi","Nomina","",9
+"gk","Nomina; sing","",4
 "glabela","Nomina","",4
 "glabridin","Nomina","",4
 "glacis","Nomina; Ing","",4
@@ -30107,9 +30251,6 @@ kata,kelas,kata_dasar,nilai
 "gnostisisme","Nomina","",5
 "gnotisisme","Nomina","",4
 "gnotobiotik","Adjektiva; Bio; Nomina","",4
-"go-go","","",2
-"go-go","Verba; Sd; Tot","",3
-"go-go","Nomina; Me","",2
 "goagoa","Nomina; Ni","",3
 "goah","Nomina; Sd","",3
 "goak","","",2
@@ -30190,6 +30331,9 @@ kata,kelas,kata_dasar,nilai
 "gogik","Nomina; Jw","",3
 "gogiliki","","",2
 "gogipirini","Nomina; Tb","",2
+"gogo","","",2
+"gogo","Verba; Sd; Tot","",3
+"gogo","Nomina; Me","",2
 "gogogama","Adjektiva; Tb","",2
 "gogoh","","",2
 "gogoh","Verba; Jw","",3
@@ -30321,7 +30465,7 @@ kata,kelas,kata_dasar,nilai
 "gondol","Verba","",7
 "gondola","Nomina","",6
 "gondong","Nomina","",5
-"gondorukem","Nomina; Hut","",5
+"gondorukêm","Nomina; Hut","",5
 "gondrong","Adjektiva","",8
 "goneng","Nomina; Ss","",2
 "gonggang","Nomina","",4
@@ -30497,6 +30641,9 @@ kata,kelas,kata_dasar,nilai
 "goyoge","Nomina; Gor","",2
 "goyor","Nomina","",4
 "gozleme","Nomina","",4
+"gph","Nomina; sing","",4
+"gr","Nomina; sing","",6
+"gra","Nomina; sing","",4
 "grabadan","Nomina; Verba; Jw","",3
 "grabag","Nomina","",4
 "grabak","Nomina","",4
@@ -30535,6 +30682,7 @@ kata,kelas,kata_dasar,nilai
 "graha","Verba; Skt; Nomina","",6
 "grahasta","Nomina","",4
 "grahita","Verba; Skt","",5
+"graj","Nomina; sing","",3
 "grama","Nomina; Skt","",4
 "gramasi","Nomina","",5
 "gramatika","Nomina; Ling","",6
@@ -30594,6 +30742,7 @@ kata,kelas,kata_dasar,nilai
 "gravitasi","Nomina; Geo","",8
 "gravitasional","Adjektiva","",5
 "graviton","Nomina; Fis","",5
+"gray","Nomina; sing","",4
 "grayak","Nomina; Jw","",4
 "grebeg","Nomina; Jw","",5
 "grebegan","Nomina; Jw","",4
@@ -30636,6 +30785,7 @@ kata,kelas,kata_dasar,nilai
 "gritung","Nomina","",3
 "grivasi","Nomina; Hid","",4
 "griya","Nomina","",6
+"grm","Nomina; sing","",4
 "grobogan","Nomina","",6
 "grodogan","Nomina; Bl","",4
 "grogi","Adjektiva","",8
@@ -31110,6 +31260,7 @@ kata,kelas,kata_dasar,nilai
 "guyuk-guyuk","Nomina; Ldy","",1
 "guyung","Nomina; Kpr","",1
 "guyur","Verba","",8
+"gz","Nomina; sing","",5
 "h","Nomina; sing","",6
 "haaute","Verba; Ht","",1
 "habaib","Nomina; Ar","",6
@@ -31265,6 +31416,7 @@ kata,kelas,kata_dasar,nilai
 "hakasai","Nomina","",1
 "hakate","Adjektiva; Oi","",1
 "hakau","Nomina","",5
+"hakawulu","Nomina; Kb","",1
 "hakekat","","",5
 "hakekat","","",5
 "haker","Nomina","",6
@@ -31324,6 +31476,7 @@ kata,kelas,kata_dasar,nilai
 "halentri","Nomina","",2
 "hali","Nomina; Aln","",1
 "hali","Adjektiva; Klm","",1
+"halia","Nomina","",5
 "halibut","Nomina; Kl","",2
 "halibut","Nomina","",4
 "halida","Nomina; Kim","",5
@@ -31756,10 +31909,10 @@ kata,kelas,kata_dasar,nilai
 "haru","Nomina","",4
 "haru-haru","Nomina; Ht","",1
 "haru-haru","Verba; Me","",1
-"haru-haru","Verba; Me","",1
 "haruan","Nomina","",5
 "haruas","Nomina; Buo","",1
 "harudung","Nomina; Sd","",1
+"haruharu","Verba; Me","",1
 "harum","Adjektiva; ki","",8
 "harumang","Nomina; Bla","",1
 "harun","Nomina","",5
@@ -31962,7 +32115,7 @@ kata,kelas,kata_dasar,nilai
 "hekter","Nomina","",5
 "hektik","Nomina; cak","",5
 "hekto","Nomina; Bt","",1
-"hekto","bentuk terikat","",5
+"hekto-","bentuk terikat","",5
 "hektograf","Nomina","",3
 "hektogram","Nomina","",4
 "hektokorn","Nomina","",3
@@ -32201,6 +32354,7 @@ kata,kelas,kata_dasar,nilai
 "hendel","Nomina; cak; Verba","",5
 "hendi","Nomina; Ach","",1
 "hendok","Nomina; Tbt","",1
+"hendri-hendri","Verba; Ni","",1
 "hene","Nomina; Tht","",1
 "henep","Nomina; Bot","",3
 "hengawi","Nomina; Sb","",1
@@ -32232,6 +32386,7 @@ kata,kelas,kata_dasar,nilai
 "hepatitis","Nomina; Dok","",7
 "hepatobilier","Adjektiva","",4
 "hepatoblastoma","Nomina; Dok","",3
+"hepatoksisitas","Nomina","",3
 "hepatolog","Nomina; Dok","",4
 "hepatologi","Nomina; Dok","",5
 "hepatoma","Nomina","",4
@@ -32250,7 +32405,6 @@ kata,kelas,kata_dasar,nilai
 "hepatoterapi","Nomina; Bio","",3
 "hepatotoksik","Adjektiva","",4
 "hepatotoksin","Nomina; Dok","",4
-"hepatotoksisitas","Nomina","",3
 "hepatotoksisitas","Nomina","",3
 "hepe","Verba; Pi","",1
 "hepsay","Nomina","",3
@@ -32528,7 +32682,7 @@ kata,kelas,kata_dasar,nilai
 "hidrik","Nomina","",2
 "hidrila","Nomina; Bot","",4
 "hidro","Nomina; Adjektiva; sing","",3
-"hidro","bentuk terikat","",4
+"hidro-","bentuk terikat","",4
 "hidroakustik","Nomina; Fis","",3
 "hidroalkohol","Nomina","",2
 "hidroalkoholik","Adjektiva","",2
@@ -32830,8 +32984,8 @@ kata,kelas,kata_dasar,nilai
 "hinge","Nomina; Zool","",2
 "hingga","Nomina; Partikel","",10
 "hinggap","Verba; ki","",8
+"hingggi","Verba; Gor","",1
 "hinggi","Nomina; Sb","",2
-"hinggi","Verba; Gor","",1
 "hinggut","Verba","",4
 "hinin","Nomina; Kur","",1
 "hining","Adjektiva; Md","",1
@@ -32945,7 +33099,7 @@ kata,kelas,kata_dasar,nilai
 "hiperkinetik","Adjektiva","",3
 "hiperkloremia","Nomina; Dok","",3
 "hiperklorhidria","Nomina","",3
-"hiperkoagulabilitas","Nomina; Dok","",3
+"hiperkoaguabilitas","Nomina; Dok","",3
 "hiperkoagulasi","Nomina; Dok","",4
 "hiperkolesterol","Nomina; Dok","",4
 "hiperkolesterolemia","Nomina","",5
@@ -32997,7 +33151,7 @@ kata,kelas,kata_dasar,nilai
 "hiperovulasi","Nomina; Dok","",4
 "hiperparasit","Nomina","",3
 "hiperparasitisme","Nomina; Bio","",3
-"hiperparatiroid","Nomina; Dok","",4
+"hipêrparatiroid","Nomina; Dok","",4
 "hiperparatiroidisme","Nomina; Dok","",4
 "hiperpigmentasi","Nomina; Dok","",6
 "hiperpireksia","Nomina; Dok","",4
@@ -33334,6 +33488,8 @@ kata,kelas,kata_dasar,nilai
 "hiyas","Nomina; Tbt","",2
 "hiyayat","Nomina; ark","",2
 "hizib","Nomina; Ar","",5
+"hj","Nomina; sing","",9
+"hlm","Nomina; sing","",9
 "hoaks","Nomina; cak","",9
 "hoana","Nomina; Mdl","",1
 "hoatzin","Nomina","",4
@@ -33483,7 +33639,7 @@ kata,kelas,kata_dasar,nilai
 "hominoid","Adjektiva","",3
 "homo","Nomina","",5
 "homo","Nomina; of; sing","",5
-"homo","bentuk terikat","",4
+"homo-","bentuk terikat","",4
 "homoblastik","Adjektiva; Bot; Bio","",3
 "homodimer","Nomina; Kim","",4
 "homodimerik","Adjektiva; Kim","",3
@@ -34007,6 +34163,7 @@ kata,kelas,kata_dasar,nilai
 "ibuisme","Nomina","",4
 "ibuk","","",4
 "ibuk","","",4
+"ibukota","","",10
 "ibul","Nomina","",3
 "ibun","Nomina","",4
 "ibunda","Nomina; hor","",8
@@ -34108,6 +34265,7 @@ kata,kelas,kata_dasar,nilai
 "iduka","Nomina; akr","",2
 "idul","Verba; Bgi","",2
 "iduladha","Nomina","",8
+"idulfitri","Nomina","",10
 "idulkurban","","",5
 "idulkurban","","",5
 "idung","","",4
@@ -34117,6 +34275,7 @@ kata,kelas,kata_dasar,nilai
 "idus","Nomina; Jb","",2
 "idzin","","",4
 "idzin","","",4
+"ie","Nomina; Lt; sing","",7
 "ifa","Nomina; Stn","",2
 "ifaa","Nomina; Stn","",1
 "ifah","Nomina; Ar","",4
@@ -34262,6 +34421,7 @@ kata,kelas,kata_dasar,nilai
 "ikigai","Nomina; Jp","",6
 "ikilahagasogo","Nomina; Dn","",1
 "ikioko","Verba; Ht","",1
+"ikipalek","Nomina","",2
 "iklab","Nomina","",4
 "iklan","Nomina","",9
 "iklas","","",5
@@ -34776,11 +34936,13 @@ kata,kelas,kata_dasar,nilai
 "individualistis","Adjektiva","",5
 "individualitas","Nomina","",5
 "individuasi","Nomina","",4
+"indo","Nomina; sing","",8
+"indo","Nomina","",8
 "indo-eropa","Nomina","",5
-"indo-eropa","Nomina","",5
-"indo-pasifik","Nomina","",5
+"indo-pasi-fik","Nomina","",5
 "indochina","","",5
 "indocina","Nomina","",5
+"indoeropa","Nomina","",5
 "indofenol","Nomina; Kim","",3
 "indoktrinasi","Nomina","",6
 "indoktrinatif","Adjektiva","",5
@@ -34971,6 +35133,8 @@ kata,kelas,kata_dasar,nilai
 "ingkan","Nomina; Dy","",2
 "ingkar","Verba","",7
 "ingke","Nomina; Bl","",3
+"ingkel","Nomina; Ss","",2
+"ingkel","Nomina; Bl","",2
 "ingkimo","Nomina; Gor","",1
 "ingkir","Nomina","",4
 "ingklig","Verba; Jw","",3
@@ -35067,7 +35231,7 @@ kata,kelas,kata_dasar,nilai
 "inkonklusif","Adjektiva","",5
 "inkonsisten","Adjektiva","",6
 "inkonsistensi","Nomina","",5
-"inkonstitusinal","Adjektiva","",5
+"inkonstitusional","Adjektiva","",5
 "inkonstitusional","Adjektiva; Pol","",6
 "inkonstitusionalitas","Nomina","",4
 "inkontinensia","Adjektiva","",4
@@ -35106,6 +35270,7 @@ kata,kelas,kata_dasar,nilai
 "inmindalcad","Nomina; akr","",2
 "inminsil","Nomina; akr","",2
 "inminum","Nomina; akr","",2
+"innatura","Nomina","",4
 "inni","Nomina; Oi","",2
 "inniore","Nomina; Moa","",1
 "inobut","Nomina; Mt","",2
@@ -35256,6 +35421,7 @@ kata,kelas,kata_dasar,nilai
 "insureksioner","Nomina","",4
 "insurgensi","Nomina","",5
 "insus","Nomina; akr","",4
+"insyaallah","Partikel; Isl","",10
 "insyaf","","",5
 "insyaf","","",5
 "insyi","Nomina; Tbt","",2
@@ -35323,7 +35489,7 @@ kata,kelas,kata_dasar,nilai
 "intensionalitas","Nomina; Sas","",5
 "intensitas","Nomina","",8
 "inter","Verba; Jw","",4
-"inter","bentuk terikat","",6
+"inter-","bentuk terikat","",6
 "interaksi","Nomina","",8
 "interaksional","Adjektiva","",6
 "interaksionis","Nomina","",5
@@ -35527,7 +35693,9 @@ kata,kelas,kata_dasar,nilai
 "intip","Verba","",7
 "intip","Nomina","",4
 "intipati","Nomina","",6
+"intiplasma","Nomina","",6
 "intisab","Nomina","",3
+"intisel","Nomina","",7
 "intoksifikasi","Nomina","",4
 "intoksikan","Nomina; Kim","",3
 "intoksikasi","Nomina; Verba","",5
@@ -35601,7 +35769,7 @@ kata,kelas,kata_dasar,nilai
 "intrikasi","Nomina; Huk","",4
 "intrinsik","Adjektiva","",8
 "intro","Nomina; sing","",7
-"intro","bentuk terikat","",4
+"intro-","bentuk terikat","",4
 "introduksi","Nomina; Mus; Kom","",7
 "introdusir","Nomina; cak","",4
 "introgresi","Nomina; Bio","",3
@@ -35748,6 +35916,7 @@ kata,kelas,kata_dasar,nilai
 "iqamat","","",4
 "iqamat","","",3
 "iqra","Verba; Ar","",7
+"ir","Nomina; sing","",9
 "ira","Nomina; Mk","",3
 "ira","Nomina; Oi","",2
 "ira-ira","Nomina","",3
@@ -35937,7 +36106,7 @@ kata,kelas,kata_dasar,nilai
 "isnad","Nomina; Isl","",5
 "isnana","Verba; Oi","",2
 "iso","Nomina; Isrw","",3
-"iso","bentuk terikat","",4
+"iso-","bentuk terikat","",4
 "isoaglutinin","Nomina; Dok","",3
 "isoaglutinogen","Nomina","",2
 "isoalel","Nomina; Bio","",3
@@ -36082,7 +36251,7 @@ kata,kelas,kata_dasar,nilai
 "isovolumik","Nomina; Fis","",3
 "isozim","Nomina","",4
 "isra","Nomina; Isl","",6
-"isra","","",4
+"isra'","","",4
 "israel","Nomina","",8
 "israf","Adjektiva; Ar","",4
 "israfil","Nomina; Isl","",6
@@ -36176,6 +36345,7 @@ kata,kelas,kata_dasar,nilai
 "itarad","","",2
 "itaraf","","",3
 "itaraf","","",2
+"itas","Nomina; akr","",7
 "itasya","Nomina; Jp","",4
 "item","Adjektiva; cak","",6
 "iterasi","Nomina; Komp","",6
@@ -36653,6 +36823,8 @@ kata,kelas,kata_dasar,nilai
 "jamini","Nomina; Jw","",3
 "jamiril","Nomina; Jw; ark","",2
 "jamis","Nomina","",3
+"jamiyah","","",5
+"jamiyah","","",5
 "jamjaneng","Nomina","",4
 "jamkes","Nomina; akr","",6
 "jamkesda","Nomina; akr","",5
@@ -37713,12 +37885,12 @@ kata,kelas,kata_dasar,nilai
 "jerupih","Nomina","",3
 "jetaki","Nomina; Dn","",1
 "jeteng","Nomina; MBa","",1
-"jetha","Nomina","",2
 "jetis","","",1
 "jetlag","Nomina","",6
 "jetot","Nomina; Jw","",1
 "jetsam","Nomina; Lay","",3
 "jetset","Nomina","",6
+"jettha","Nomina","",2
 "jetut","Verba; Jw","",1
 "jeuleupak","Nomina; Ach","",1
 "jeunaha","Nomina; Ach","",1
@@ -37912,10 +38084,12 @@ kata,kelas,kata_dasar,nilai
 "jiwel","Nomina","",3
 "jiwit","Verba; Jw","",4
 "jizyah","Nomina; Ar","",5
+"jl","Nomina; sing","",10
 "jlegor","Nomina; Jw","",3
 "jlegur","Nomina","",3
 "jlembret","Nomina; Jw","",3
 "jlentir","Nomina; Jw","",3
+"jo","Nomina; Lt; sing","",5
 "joa","Nomina; Kls","",2
 "joak","","",1
 "joak","","",1
@@ -38099,6 +38273,7 @@ kata,kelas,kata_dasar,nilai
 "jouska","Nomina; Psi","",4
 "jovada","Nomina; Bla","",3
 "joyat","Nomina; Dy","",2
+"jr","Nomina; sing","",7
 "jua","Adverbia","",7
 "jua","Verba; Klm","",4
 "juadah","Nomina","",6
@@ -38133,7 +38308,7 @@ kata,kelas,kata_dasar,nilai
 "jubin","Nomina","",5
 "jubir","Nomina; akr","",6
 "jublag","Nomina; Bl; Mus","",4
-"jubleg","Nomina; Jw","",3
+"jublêg","Nomina; Jw","",3
 "jublek","","",1
 "jubung","","",1
 "jubung","Nomina; Sd","",3
@@ -38241,6 +38416,7 @@ kata,kelas,kata_dasar,nilai
 "julungwangi","Nomina; Bl","",3
 "julur","Verba","",5
 "julur","Nomina","",4
+"jum'at","","",1
 "juma","Adjektiva; MBl","",3
 "jumadilakhir","Nomina","",6
 "jumadilawal","Nomina","",6
@@ -38252,7 +38428,6 @@ kata,kelas,kata_dasar,nilai
 "jumantik","Nomina; akr","",5
 "jumar","Nomina","",4
 "jumat","Nomina; kl","",8
-"jumat","","",1
 "jumawa","","",1
 "jumawa","","",1
 "jumbai","Nomina","",6
@@ -38437,7 +38612,6 @@ kata,kelas,kata_dasar,nilai
 "kabaddi","Nomina; Olr","",4
 "kabaea","Nomina; Mu","",3
 "kabag","Nomina; akr","",5
-"kabaharkam","Nomina; akr","",4
 "kabaintelkam","Nomina; akr","",4
 "kabair","Nomina","",4
 "kabais","Nomina; akr","",4
@@ -38470,6 +38644,7 @@ kata,kelas,kata_dasar,nilai
 "kabaresi","Nomina; Adjektiva","",4
 "kabareskrim","Nomina; akr","",4
 "kabaret","Nomina","",6
+"kabarhakam","Nomina; akr","",4
 "kabarhor","Nomina; Kur","",2
 "kabasaran","Nomina; Mnd","",4
 "kabasaran","Nomina; Sln","",3
@@ -38590,6 +38765,7 @@ kata,kelas,kata_dasar,nilai
 "kacak","Nomina; Mk","",3
 "kacak","Nomina; Kpr","",3
 "kacam","Nomina; Bot","",4
+"kacamata","Nomina; ki","",10
 "kacang","Nomina","",9
 "kacang","","",1
 "kacang-kacang","Nomina; Kpr","",4
@@ -38673,6 +38849,7 @@ kata,kelas,kata_dasar,nilai
 "kadang","","",1
 "kadang","Nomina; Jw","",4
 "kadang","Nomina","",4
+"kadangkala","","",8
 "kadaplak","Nomina; Sd","",3
 "kadapol","Nomina; akr","",4
 "kadar","Nomina","",9
@@ -38951,6 +39128,7 @@ kata,kelas,kata_dasar,nilai
 "kajang","Nomina; Dy","",2
 "kajangan","Nomina","",4
 "kajangi","Nomina; Gor","",3
+"kajanglako","Nomina; Jb","",3
 "kajar","Nomina; Md","",3
 "kajari","Nomina; akr","",5
 "kajaroan","Nomina; Jw; ark","",3
@@ -39145,6 +39323,7 @@ kata,kelas,kata_dasar,nilai
 "kalalah","Nomina; Dy","",2
 "kalalaman","Nomina; Klm; Verba","",2
 "kalalante","Nomina; Kai","",2
+"kalalauno","Nomina; Ht","",1
 "kalalayu","Nomina","",4
 "kalam","Nomina","",5
 "kalam","Nomina","",5
@@ -39610,6 +39789,7 @@ kata,kelas,kata_dasar,nilai
 "kamasan","Nomina; Sd","",1
 "kamasi","Nomina; Me","",1
 "kamasil","Verba; Bla","",1
+"kamasutra","Nomina","",7
 "kamat","","",1
 "kamat","Nomina","",4
 "kamata","Nomina","",2
@@ -40373,6 +40553,7 @@ kata,kelas,kata_dasar,nilai
 "kapsulitis","Nomina; Dok","",3
 "kapsulotomi","Nomina; Dok","",3
 "kapsus","Nomina; akr","",3
+"kapt","Nomina; sing","",7
 "kapten","Nomina","",9
 "kaptiau","Nomina","",3
 "kapton","Nomina; Kim","",3
@@ -40408,6 +40589,7 @@ kata,kelas,kata_dasar,nilai
 "kapusbangpim","Nomina; akr","",3
 "kapusbintal","Nomina; akr","",3
 "kapusdalops","Nomina; akr","",3
+"kapushidrosal","Nomina; akr","",4
 "kapusinfolahta","Nomina; akr","",3
 "kapusjarah","Nomina; akr","",3
 "kapusjianstra","Nomina; akr","",3
@@ -40420,6 +40602,7 @@ kata,kelas,kata_dasar,nilai
 "kapuspendik","Nomina; akr","",3
 "kapusrehab","Nomina; akr","",3
 "kapusu","Nomina; Kls","",1
+"kapusunosu","Nomina; Wl","",1
 "kara","Nomina","",5
 "kara","Nomina; Trj","",1
 "kara","Adjektiva; Ldy","",1
@@ -40432,6 +40615,7 @@ kata,kelas,kata_dasar,nilai
 "karabukan","Verba; Bkt","",1
 "karabunan","Nomina; Dy","",1
 "karaci","Nomina; Sbw","",1
+"karacok","Nomina; Dy","",1
 "karaeng","Nomina","",4
 "karaf","Nomina","",4
 "karafal","Nomina; Ky","",1
@@ -40455,6 +40639,7 @@ kata,kelas,kata_dasar,nilai
 "karak","Nomina; Dy","",1
 "karak","Nomina; Md","",1
 "karaka","Nomina","",3
+"karakaji","Verba; Mks","",1
 "karakal","Nomina","",4
 "karakas","Nomina","",4
 "karakayesa","Nomina; Pi","",1
@@ -40584,6 +40769,7 @@ kata,kelas,kata_dasar,nilai
 "karboksilasi","Nomina; Kim","",4
 "karboksilat","Nomina; Kim","",4
 "karboksimetilasi","Nomina","",3
+"karboksimetilselulosa","Nomina","",3
 "karboksipeptidase","Nomina; Bio","",4
 "karboksisom","Nomina; Bio","",3
 "karbol","Nomina; Kim","",6
@@ -40598,6 +40784,7 @@ kata,kelas,kata_dasar,nilai
 "karbonasi","Nomina; Tn","",4
 "karbonasisasi","Nomina","",3
 "karbonat","Nomina; Kim","",6
+"karbondioksida","","",10
 "karbonil","Nomina; Kim","",5
 "karbonilasi","Nomina","",3
 "karbonisasi","Nomina; Far","",5
@@ -40638,6 +40825,7 @@ kata,kelas,kata_dasar,nilai
 "kardiomiosit","Nomina; Dok","",3
 "kardiomotilitas","Nomina","",3
 "kardioprotektif","Nomina; Dok","",4
+"kardiopulmonal","Adjektiva","",5
 "kardiopulmonari","Adjektiva; Anat","",4
 "kardiopulmoner","Adjektiva","",5
 "kardiorespirasi","Nomina","",5
@@ -40824,7 +41012,6 @@ kata,kelas,kata_dasar,nilai
 "karobelah","Numeralia; Ss","",1
 "karobok","Nomina; Dy","",1
 "karocok","Nomina; Mdr","",1
-"karocok","Nomina; Dy","",1
 "karoda","Nomina; Kal","",1
 "karoda","Nomina; Lj","",1
 "karohah","Nomina","",1
@@ -40993,6 +41180,7 @@ kata,kelas,kata_dasar,nilai
 "karyatama","Nomina","",5
 "karyawan","Nomina","",10
 "karyawati","Nomina","",9
+"karyawisata","Nomina","",9
 "kasa","Nomina","",8
 "kasa","Nomina","",8
 "kasa","Nomina; kl","",4
@@ -41046,6 +41234,7 @@ kata,kelas,kata_dasar,nilai
 "kasasi","Nomina; Huk","",8
 "kasat","Nomina; akr","",6
 "kasatbinmas","Nomina; akr","",6
+"kasatmata","Adjektiva","",8
 "kasatreskrim","Nomina; akr","",7
 "kasatresnarkoba","Nomina; akr","",6
 "kasatsabhara","Nomina; akr","",6
@@ -41062,6 +41251,7 @@ kata,kelas,kata_dasar,nilai
 "kasbuk","Nomina; Dy","",2
 "kasda","Nomina; cak; akr","",7
 "kasdam","Nomina; akr","",6
+"kasdesa","Nomina; Kur","",4
 "kasdim","Nomina; cak; akr","",6
 "kasdu","Verba; ark","",3
 "kase","Nomina","",5
@@ -41220,7 +41410,7 @@ kata,kelas,kata_dasar,nilai
 "kata","Nomina; Ling","",10
 "kata","Nomina; Bun","",2
 "kata","Nomina; Mdr","",1
-"kata","bentuk terikat","",4
+"kata-","bentuk terikat","",4
 "kataba","Nomina; Bm","",1
 "katabang","Nomina; Bg","",1
 "katabatik","Nomina","",3
@@ -41704,6 +41894,7 @@ kata,kelas,kata_dasar,nilai
 "kazi","Nomina; akr","",3
 "kazidam","Nomina; akr","",2
 "kbihu","Nomina; sing","",4
+"kbray","Nomina; sing","",4
 "kd","Nomina; sing","",5
 "keabo","Nomina; Gor","",1
 "keakaso","Nomina; Gor","",1
@@ -41793,6 +41984,7 @@ kata,kelas,kata_dasar,nilai
 "kebyar","","",5
 "kebyar","Nomina","",5
 "kebyok","Nomina; Jw; Sen","",3
+"kec","Nomina; sing","",10
 "kecacil","Nomina; Jw","",2
 "kecah","Adjektiva; kl; Ri; ki","",3
 "kecai","","",3
@@ -41888,6 +42080,7 @@ kata,kelas,kata_dasar,nilai
 "kecut","Adjektiva; ki","",7
 "kecut","Adjektiva; ki","",6
 "kecuwis","Nomina; Jw","",2
+"ked","Nomina; sing","",7
 "keda","","",3
 "keda","","",3
 "kedabu","Nomina","",3
@@ -41917,6 +42110,7 @@ kata,kelas,kata_dasar,nilai
 "kedangsa","Nomina","",3
 "kedaong","Nomina; MBl","",1
 "kedap","Adjektiva","",6
+"kedap-kedip","Nomina","",7
 "kedar","","",5
 "kedar","","",5
 "kedasih","Nomina","",5
@@ -42008,8 +42202,8 @@ kata,kelas,kata_dasar,nilai
 "kefalotiri","Nomina","",2
 "kefe-kefe","Nomina; Ni","",1
 "keferdom","Nomina; Lay","",2
+"keffiyeh","Nomina","",4
 "kefir","Nomina; Kim","",5
-"kefiyeh","Nomina","",4
 "kefleksibilitasan","","",4
 "kefta","Nomina","",3
 "kefudo","Verba; Ldy","",1
@@ -42167,6 +42361,7 @@ kata,kelas,kata_dasar,nilai
 "kekung","Nomina; Lp","",1
 "kekurak","Nomina; MBa","",1
 "kekutu","Nomina; Komp","",4
+"kel","Nomina; sing","",9
 "kela","Nomina; Pm","",1
 "kela","Nomina; Jw","",3
 "kelab","Nomina","",5
@@ -43063,7 +43258,7 @@ kata,kelas,kata_dasar,nilai
 "kendana","","",1
 "kendang","Nomina; Jw","",5
 "kendang","Nomina","",4
-"kendang-kendang","Nomina; Bt","",3
+"kèndangkèndang","Nomina; Bt","",3
 "kendara","Nomina","",8
 "kendarat","Nomina","",4
 "kendari","Nomina","",6
@@ -43159,7 +43354,7 @@ kata,kelas,kata_dasar,nilai
 "kentaur","Nomina; Astron","",4
 "kenteng","Adjektiva","",5
 "kentes","Nomina; Jw","",3
-"kentet","Nomina; Jw","",3
+"kêntet","Nomina; Jw","",3
 "kenti","Verba; Tot","",3
 "kenti","Nomina; Jw","",3
 "kenting","Adjektiva; Jw","",3
@@ -43603,6 +43798,7 @@ kata,kelas,kata_dasar,nilai
 "kerepes","Adjektiva","",4
 "kerepot","","",1
 "kerepot","","",4
+"kerepsuwel","Nomina; Us","",1
 "kerepu","Verba; Wl","",3
 "kerepyak","Nomina; Jw","",4
 "keresek","Nomina; Jw","",5
@@ -43704,6 +43900,7 @@ kata,kelas,kata_dasar,nilai
 "kerjang","Verba","",4
 "kerjantara","Nomina; ark","",3
 "kerjap","Verba","",4
+"kerjasama","","",10
 "kerkah","Verba","",5
 "kerkak","Nomina","",4
 "kerkap","","",1
@@ -44290,6 +44487,9 @@ kata,kelas,kata_dasar,nilai
 "keyek-keyek","Nomina; Dy","",1
 "keynesianisme","Nomina; Ek","",4
 "kezare","Nomina; Ke","",1
+"kgpaa","Nomina; sing","",5
+"kh","Nomina; sing","",9
+"kh","Nomina; sing","",9
 "khaas","Verba; Lp","",1
 "khabar","","",1
 "khabar","","",4
@@ -44622,7 +44822,7 @@ kata,kelas,kata_dasar,nilai
 "kilir","Verba","",4
 "kilit","Verba; Jk","",3
 "kilo","Nomina; sing","",6
-"kilo","bentuk","",4
+"kilo-","bentuk","",4
 "kilobit","Nomina","",3
 "kilobita","Nomina","",3
 "kilogram","Nomina","",7
@@ -44856,7 +45056,7 @@ kata,kelas,kata_dasar,nilai
 "kipal","","",1
 "kipal","","",3
 "kipam","Nomina; akr","",1
-"kipam","Nomina; akr","",1
+"kipan","Nomina; akr","",1
 "kipan","Nomina; Mil; akr","",1
 "kipang","Nomina; Mk","",2
 "kipar","","",1
@@ -45179,7 +45379,7 @@ kata,kelas,kata_dasar,nilai
 "klerus","Nomina","",5
 "klesi","Nomina","",2
 "kletek","Nomina; Jw","",3
-"kleting","Nomina; Jw","",2
+"klêting","Nomina; Jw","",2
 "kleting","Nomina; Jw","",2
 "kleukumuruk","Nomina; Let","",1
 "kleumang","Nomina; Stn","",1
@@ -45337,11 +45537,13 @@ kata,kelas,kata_dasar,nilai
 "kluwer","Verba; Jw","",2
 "kluwo","Nomina; Jw","",2
 "kluwungan","Nomina","",3
+"kn","Nomina; sing","",4
 "knalpot","Nomina","",9
 "knidoblas","Nomina","",3
 "knidofobia","Nomina; Psi","",1
 "knidosit","Nomina","",3
 "knizosit","Nomina; Dok","",1
+"ko","Nomina; sing","",7
 "koa","Nomina","",4
 "koadaptasi","Nomina; Bio","",3
 "koagel","Nomina; Kim","",3
@@ -45450,11 +45652,12 @@ kata,kelas,kata_dasar,nilai
 "kodamar","Nomina; akr","",3
 "kodau","Nomina; akr","",3
 "kode","Nomina; Komp","",9
+"kodebar","Nomina","",8
 "kodefikasi","Nomina; Komp","",4
 "kodein","Nomina; Dok","",5
 "kodek","Nomina; Komp; Mk","",4
 "kodeks","Nomina","",4
-"kodependen","Nomina","",4
+"kodêpendên","Nomina","",4
 "kodependen","Nomina; Psi","",4
 "kodependensi","Nomina; Psi","",4
 "kodeterminasi","Nomina","",3
@@ -45748,7 +45951,7 @@ kata,kelas,kata_dasar,nilai
 "kolam","Nomina","",9
 "kolame","Nomina; Md","",2
 "kolana","Nomina","",4
-"kolander","Nomina","",3
+"kolandêr","Nomina","",3
 "kolanding","Nomina; Sd","",3
 "kolang-kalik","","",6
 "kolang-kalik","","",6
@@ -46091,6 +46294,7 @@ kata,kelas,kata_dasar,nilai
 "komik","Nomina","",8
 "komika","Nomina","",6
 "komikal","Adjektiva; ki","",4
+"komikstrip","Nomina","",7
 "komikus","Nomina; Kom","",7
 "komin","Nomina; akr","",4
 "kominda","Nomina; akr","",4
@@ -46630,6 +46834,7 @@ kata,kelas,kata_dasar,nilai
 "konstan","","",5
 "konstansi","Nomina","",5
 "konstanta","Nomina; Mat; Kim; Komp","",8
+"konstantagravitasi","Nomina; Fis","",5
 "konstantan","Nomina; Tek","",4
 "konstatasi","Nomina","",5
 "konstatatif","Nomina; Ling","",5
@@ -46719,8 +46924,9 @@ kata,kelas,kata_dasar,nilai
 "kontol","Nomina","",6
 "kontra","Adjektiva; Verba","",8
 "kontra","Nomina; Mus","",6
-"kontra","bentuk","",7
+"kontra-","bentuk","",7
 "kontrabande","Nomina","",5
+"kontrabas","Nomina; Mus","",6
 "kontrabasis","Nomina","",5
 "kontrabudaya","Nomina","",5
 "kontradiksi","Nomina","",7
@@ -47203,6 +47409,7 @@ kata,kelas,kata_dasar,nilai
 "kosagerak","Nomina","",4
 "kosaisyarat","Nomina","",4
 "kosak-kasik","Nomina","",4
+"kosakata","Nomina","",10
 "kosambi","","",4
 "kosambi","","",4
 "kosar","Nomina","",3
@@ -47281,6 +47488,7 @@ kata,kelas,kata_dasar,nilai
 "kota","Nomina; Kur","",3
 "kota","Nomina; Bla","",3
 "kotab","Nomina; akr","",4
+"kotabaru","Nomina","",8
 "kotabi","Nomina; Sh","",2
 "kotagan","Nomina; Mdr","",1
 "kotagede","Nomina","",6
@@ -47410,6 +47618,8 @@ kata,kelas,kata_dasar,nilai
 "koyor","Nomina","",5
 "koyote","Nomina","",6
 "kozido","Nomina","",4
+"kph","Nomina; sing","",4
+"kpnb","Nomina; sing","",5
 "krabuku","Nomina","",3
 "kraca","Nomina","",4
 "kracan","Nomina; Jw","",3
@@ -47579,7 +47789,7 @@ kata,kelas,kata_dasar,nilai
 "krimpi","Nomina; Ing","",3
 "krimping","Nomina","",5
 "krimsus","Adjektiva; akr","",4
-"kringkring","Nomina; Jw","",2
+"kringking","Nomina; Jw","",2
 "krinok","Nomina; Jb","",2
 "krio","Nomina","",5
 "krioablasi","Nomina; Dok","",4
@@ -47599,7 +47809,7 @@ kata,kelas,kata_dasar,nilai
 "krioprotektan","Nomina","",4
 "kriopulverisasi","Nomina","",3
 "krios","Nomina","",3
-"kriosfer","Nomina","",5
+"kriosper","Nomina","",5
 "krioterapi","Nomina","",5
 "kriotron","Nomina; Fis","",4
 "kriovolkano","Nomina","",4
@@ -47937,7 +48147,7 @@ kata,kelas,kata_dasar,nilai
 "kuasa","Nomina; ark","",4
 "kuasar","Nomina; Astron","",6
 "kuasi","Adjektiva","",7
-"kuasi","bentuk","",6
+"kuasi-","bentuk","",6
 "kuasihistoris","Adjektiva","",4
 "kuasikontrak","Adjektiva","",4
 "kuasilegislatif","Adjektiva","",4
@@ -48208,7 +48418,6 @@ kata,kelas,kata_dasar,nilai
 "kulak","Verba; Jw","",5
 "kulakasar","Nomina","",4
 "kulala","Nomina; Jw","",3
-"kulalauno","Nomina; Ht","",1
 "kulalu","Nomina; Mn","",2
 "kulambai","","",4
 "kulambai","","",4
@@ -48325,7 +48534,6 @@ kata,kelas,kata_dasar,nilai
 "kuluwung","Nomina; Sd","",1
 "kulye","Nomina; Moa","",1
 "kulzum","Adjektiva; Ar","",2
-"kum-kum","Verba; Eln","",2
 "kuma","Nomina; Eln","",1
 "kuma-kuma","","",4
 "kuma-kuma","","",1
@@ -48400,6 +48608,7 @@ kata,kelas,kata_dasar,nilai
 "kumite","Nomina","",5
 "kumkuat","Nomina","",4
 "kumkuat","Nomina","",1
+"kumkum","Verba; Eln","",2
 "kumkuma","","",3
 "kumkuma","","",1
 "kumlah","","",1
@@ -48460,6 +48669,8 @@ kata,kelas,kata_dasar,nilai
 "kuncikan","Nomina; Tl","",1
 "kuncir","","",7
 "kuncir","","",1
+"kuncit","","",7
+"kuncit","Adjektiva; Mk","",4
 "kuncitara","Nomina; akr","",2
 "kuncuk","Nomina; Jw","",1
 "kuncung","Nomina; Jw","",4
@@ -48900,6 +49111,7 @@ kata,kelas,kata_dasar,nilai
 "kuyung","Nomina","",1
 "kuyup","Adjektiva","",3
 "kuyut","Verba; Lp","",8
+"kvet","Nomina; sing","",4
 "kwaca","Nomina","",1
 "kwaci","","",3
 "kwaci","","",7
@@ -49115,6 +49327,7 @@ kata,kelas,kata_dasar,nilai
 "lagia","Nomina; Trtim","",1
 "lagia","Nomina; Ni","",1
 "lagiah","Nomina; Ar","",1
+"lagipula","","",9
 "lagis","Verba; Jw; ark","",2
 "lagnyana","Nomina; Jw","",1
 "lago","Nomina","",2
@@ -49129,6 +49342,7 @@ kata,kelas,kata_dasar,nilai
 "lagu","","",10
 "laguh-lagah","Adjektiva","",1
 "laguk","Nomina; Mt","",4
+"lagumini","","",4
 "laguna","Nomina; Geo","",1
 "lagunal","Adjektiva; Osn","",6
 "laha","Nomina; Pi","",3
@@ -49164,7 +49378,6 @@ kata,kelas,kata_dasar,nilai
 "lahonka","Nomina; Oi","",3
 "lahung","Nomina","",1
 "lai-lai","Verba; Rt","",2
-"lai-lai","Nomina; Ni","",2
 "laici","Nomina","",1
 "laido","Nomina","",6
 "laif","Adjektiva","",3
@@ -49173,6 +49386,7 @@ kata,kelas,kata_dasar,nilai
 "laikas","Nomina","",1
 "laikud","Nomina; akr","",3
 "lailah","Nomina; Ar","",2
+"lailai","Nomina; Ni","",2
 "lailat","","",4
 "lailat","","",1
 "lailatulkadar","","",1
@@ -49230,8 +49444,10 @@ kata,kelas,kata_dasar,nilai
 "lakak","","",1
 "lakak-lakak","Nomina; Trj","",3
 "lakalakal","Nomina; Eln","",1
+"lakalantas","Nomina; akr","",8
 "lakalei","Nomina","",1
 "lakan","Nomina; Kai","",3
+"lakang","Nomina; Ka","",2
 "lakanofobia","Nomina; Psi","",1
 "lakar","Adjektiva; Lay","",2
 "lakar","Nomina; Jw","",1
@@ -49537,6 +49753,7 @@ kata,kelas,kata_dasar,nilai
 "lamosir","","",6
 "lamosir","","",1
 "lamotrigin","Nomina","",1
+"lamp","Nomina; sing","",9
 "lampa","Verba; Ri; Nomina; Mg","",3
 "lampah","Nomina; Sd","",4
 "lampah","Nomina; Bl","",1
@@ -50154,7 +50371,6 @@ kata,kelas,kata_dasar,nilai
 "larvasidasi","Nomina","",2
 "larvisida","Nomina","",4
 "larwo","Nomina; Zool","",2
-"las-las","Adjektiva; Bt","",1
 "lasa","Adjektiva; Nomina; Ni","",1
 "lasa","Nomina; Dy","",1
 "lasagna","Nomina","",6
@@ -50192,6 +50408,7 @@ kata,kelas,kata_dasar,nilai
 "lasit","","",1
 "lasit","","",1
 "laskar","Nomina","",8
+"laslas","Adjektiva; Bt","",1
 "laso","Nomina","",3
 "laso","Nomina; Sh","",1
 "lasok","Nomina; MBl","",1
@@ -50811,6 +51028,7 @@ kata,kelas,kata_dasar,nilai
 "leler","Adjektiva; kl","",1
 "leler","","",1
 "leler","Adjektiva","",4
+"leleran","Nomina; Jw","",3
 "leles","Nomina","",3
 "lelesan","Nomina; Sd","",1
 "lelet","Adjektiva; Jk","",5
@@ -50883,6 +51101,7 @@ kata,kelas,kata_dasar,nilai
 "lembarang","Nomina; Mks","",1
 "lembat","Nomina","",3
 "lembata","Nomina","",4
+"lembatang","Nomina; akr","",3
 "lembayung","Nomina","",6
 "lembayung","Nomina","",6
 "lembayung","Nomina; Jw","",1
@@ -51334,7 +51553,6 @@ kata,kelas,kata_dasar,nilai
 "leput","Nomina; Mn","",2
 "lepuun","Nomina; Ke","",1
 "ler-leran","Nomina; Jw","",2
-"ler-leran","Nomina; Jw","",2
 "lerah","Verba","",3
 "lerai","Adjektiva","",4
 "lerak","Adjektiva","",3
@@ -51355,6 +51573,7 @@ kata,kelas,kata_dasar,nilai
 "leri","Nomina; Jw","",4
 "lerik","","",2
 "lerik","","",2
+"lerleran","Nomina; Jw","",2
 "lermamal","Nomina; Let","",1
 "lerok","","",2
 "lerok","Nomina; Jw","",3
@@ -51534,7 +51753,7 @@ kata,kelas,kata_dasar,nilai
 "levirat","Nomina; Huk","",5
 "levitin","Nomina","",4
 "levo","Nomina; sing","",4
-"levo","bentuk terikat","",5
+"levo-","bentuk terikat","",5
 "levodopa","Nomina; Far","",6
 "levorotatori","Adjektiva","",4
 "levotiroksin","Nomina","",5
@@ -51560,7 +51779,6 @@ kata,kelas,kata_dasar,nilai
 "lezat","Adjektiva","",9
 "lezat","","",5
 "lhokseumawe","Nomina","",7
-"li'o","Nomina; Ni","",2
 "lia","Adverbia; Bt","",2
 "liabilitas","Nomina","",8
 "liabuku","Nomina","",3
@@ -51602,7 +51820,7 @@ kata,kelas,kata_dasar,nilai
 "liberika","","",3
 "libero","Nomina; Olr","",7
 "liberosis","Nomina; Psi","",2
-"libertarian","Nomina; Sos","",5
+"libêrtarian","Nomina; Sos","",5
 "libertarian","Nomina","",5
 "libertarianisme","Nomina; Pol","",5
 "libertarisme","Nomina; Pol","",5
@@ -51683,6 +51901,7 @@ kata,kelas,kata_dasar,nilai
 "ligofilia","Nomina; Psi","",2
 "ligroin","Nomina","",4
 "ligula","Nomina; Bot","",4
+"lih","Verba; sing","",8
 "lihai","Adjektiva","",8
 "lihap","Nomina; Bjr","",3
 "lihat","Verba","",10
@@ -52035,6 +52254,7 @@ kata,kelas,kata_dasar,nilai
 "linuhung","Adjektiva; Jw","",5
 "linyak","Adjektiva; Mk","",4
 "linyar","","",2
+"lio","Nomina; Ni","",2
 "lio-lio","Nomina","",4
 "lioenzim","Nomina; Kim","",4
 "liofilik","Adjektiva; Kim","",4
@@ -52809,6 +53029,7 @@ kata,kelas,kata_dasar,nilai
 "lubui","Nomina; Ka","",1
 "lubuk","Nomina; Adjektiva; Hid","",8
 "lubukan","Nomina","",4
+"lubuklinggau","Nomina","",7
 "lubur","","",2
 "lubur","","",2
 "lucah","Adjektiva","",5
@@ -52834,8 +53055,8 @@ kata,kelas,kata_dasar,nilai
 "luding","Nomina","",4
 "ludlow","Nomina; Kom","",3
 "ludo","Nomina","",6
+"ludos","Nomina; Psi","",4
 "ludruk","Nomina","",7
-"ludus","Nomina; Psi","",4
 "ludus","Nomina; Bjr","",2
 "luek","Nomina; Ke","",1
 "lues","Nomina","",4
@@ -53045,6 +53266,7 @@ kata,kelas,kata_dasar,nilai
 "lundang","Nomina; Mk; Verba","",3
 "lundara","Nomina","",3
 "lundawi","Verba; Tlk","",1
+"lundaya","Nomina","",4
 "lundayeh","Nomina","",4
 "lundi","Nomina","",4
 "lundu","Nomina","",4
@@ -53119,6 +53341,7 @@ kata,kelas,kata_dasar,nilai
 "lunula","Nomina; Anat","",4
 "lunyah","","",2
 "lunyai","Adjektiva","",5
+"lunyeng","Nomina; Kpr","",1
 "lupa","Verba","",9
 "lupa","Verba; Mr","",2
 "lupak","Nomina; MBa","",2
@@ -53226,10 +53449,8 @@ kata,kelas,kata_dasar,nilai
 "luyut","Adjektiva","",5
 "luyut","Nomina; Lp","",1
 "luzu","Nomina; Ni","",1
-"m.a.si.","Verba; Bn","",1
-"m.s.i.","Nomina; sing","",7
+"ma","Nomina; sing","",8
 "ma'wa","Nomina; Isl","",5
-"ma'wa","Nomina; Dy","",1
 "maab","Nomina; Isl","",4
 "maaf","Nomina; Partikel","",9
 "maafu","Nomina; Lh","",1
@@ -53251,6 +53472,7 @@ kata,kelas,kata_dasar,nilai
 "maatatimeten","Nomina; Ht","",1
 "maatenu","Nomina; Ht","",1
 "maatoti","Nomina; Ht","",1
+"mab","Nomina; sing","",5
 "maba","Nomina","",4
 "maba","Nomina; cak; akr","",6
 "mabace","Nomina; Sng","",1
@@ -53381,6 +53603,9 @@ kata,kelas,kata_dasar,nilai
 "madiun","Nomina","",6
 "madiyanggat","Adjektiva; Bgi","",1
 "madmadah","Verba","",4
+"madmkp","Nomina; sing","",3
+"madmpemb","Nomina; sing","",3
+"madmsda","Nomina; sing","",3
 "mado","Nomina; Ni","",2
 "madoh","Nomina; Bkt","",2
 "madojabine","Nomina; Bg","",1
@@ -53434,6 +53659,7 @@ kata,kelas,kata_dasar,nilai
 "mafsou","Nomina; Sw","",1
 "maful","Nomina; Ar; Ling","",4
 "mafur","Nomina","",4
+"mag","Nomina; sing","",7
 "maga","Nomina","",4
 "magabut","Verba; cak; akr","",6
 "magaili","Nomina; Gal","",1
@@ -53594,6 +53820,7 @@ kata,kelas,kata_dasar,nilai
 "mahawar","Verba; Dy","",1
 "mahawikan","Adjektiva","",5
 "mahaya","Nomina; Gor","",1
+"mahayana","Nomina; Bud","",3
 "mahayana","Nomina","",6
 "mahayuga","Nomina; Hin","",5
 "mahbub","Nomina; Ar","",4
@@ -53619,6 +53846,7 @@ kata,kelas,kata_dasar,nilai
 "mahir","Adjektiva","",8
 "mahisa","","",2
 "mahisa","","",2
+"mahk","Nomina; sing","",4
 "mahkamah","Nomina","",8
 "mahkota","Nomina; ki","",8
 "mahkota","Nomina","",7
@@ -53654,6 +53882,7 @@ kata,kelas,kata_dasar,nilai
 "mahua","Nomina; In; Bot","",3
 "mahuempe","Nomina; Bt","",1
 "mahuit","Verba; Dy","",1
+"mahum","Nomina; sing","",6
 "mahumi","Adjektiva; Dy","",1
 "mahung","Nomina; Dy","",1
 "mahuri","Verba; Als","",1
@@ -53695,6 +53924,7 @@ kata,kelas,kata_dasar,nilai
 "maiwa","Nomina","",4
 "maiwanunu","Nomina; Ky","",1
 "maizena","Nomina","",7
+"maj","Nomina; sing","",4
 "maja","Nomina","",5
 "maja-muju","","",2
 "maja-muju","","",2
@@ -53741,6 +53971,7 @@ kata,kelas,kata_dasar,nilai
 "majon","Nomina; Ri","",2
 "majong","Nomina; Jk","",4
 "maju","Verba; Adjektiva","",9
+"maju-mundur","Adjektiva; cak; ki","",8
 "majuh","Adjektiva","",5
 "majuj","","",2
 "majun","Nomina","",6
@@ -53749,6 +53980,7 @@ kata,kelas,kata_dasar,nilai
 "majup","Verba; Bkt","",2
 "majuro","Nomina","",5
 "majusi","Nomina","",6
+"mak","Nomina; sing","",6
 "maka","Partikel","",8
 "maka","Verba; Dy","",1
 "maka","Nomina; Bm","",2
@@ -53826,6 +54058,7 @@ kata,kelas,kata_dasar,nilai
 "makdenak-denak","Verba; Trj","",2
 "makdondan","Verba; Trj","",2
 "makdoya","Verba; Trj","",2
+"maked","Nomina; sing","",4
 "makedoin","Nomina","",4
 "makedonia","Nomina","",5
 "makelar","Nomina","",8
@@ -53906,8 +54139,9 @@ kata,kelas,kata_dasar,nilai
 "makrifatullah","Nomina; Tas","",5
 "makro","Adjektiva","",8
 "makro","Nomina; Komp","",7
-"makro","bentuk terikat","",5
+"makro-","bentuk terikat","",5
 "makroagregat","Nomina; Geo; Ekol","",4
+"makroalga","Nomina; Bot","",6
 "makroanalisis","Nomina; Kim","",4
 "makroangiopati","Nomina; Dok","",4
 "makrobentos","Nomina; Bio","",4
@@ -53953,12 +54187,15 @@ kata,kelas,kata_dasar,nilai
 "makrometeorologi","Nomina","",4
 "makrometer","Nomina","",5
 "makromineral","Nomina","",5
-"makromolekuler","Nomina; Adjektiva","",5
+"makromolekul","Nomina","",6
+"makromolekul","Nomina; Adjektiva","",5
 "makromutasi","Nomina; Bio","",4
 "makron","Nomina","",5
 "makroni","","",2
 "makroni","","",2
 "makronukleus","Nomina","",5
+"makronutrien","Nomina; Bio","",5
+"makronutrien","Nomina; Dok","",5
 "makroorganisme","Nomina; Bio","",5
 "makroparasit","Nomina; Bio","",4
 "makroplankton","Nomina; Bio","",4
@@ -54026,6 +54263,10 @@ kata,kelas,kata_dasar,nilai
 "maktulung","Nomina; Mp","",3
 "maktumbarakai","Verba; Trj","",2
 "maktundan","Verba; Trj","",2
+"maku'a","Nomina","",2
+"makua","Nomina","",2
+"makua","Nomina","",2
+"makuda","Nomina","",2
 "makul","Adjektiva; Ar","",5
 "makula","Nomina; Dok","",4
 "makular","Adjektiva","",4
@@ -54047,7 +54288,7 @@ kata,kelas,kata_dasar,nilai
 "mala","Adjektiva; kl; Nomina","",5
 "mala","Nomina","",4
 "mala","Verba; Bla","",1
-"mala","bentuk terikat","",5
+"mala-","bentuk terikat","",5
 "malaabsorpsi","Nomina; Dok","",5
 "malaadaptif","Adjektiva","",5
 "malaadministrasi","Nomina; Huk","",6
@@ -54070,6 +54311,7 @@ kata,kelas,kata_dasar,nilai
 "maladministrasi","","",2
 "maladministratif","Adjektiva","",5
 "malado","Nomina; Bkt","",2
+"malafide","Adjektiva; Huk","",5
 "malaformasi","Nomina; Dok","",5
 "malafungsi","Nomina","",5
 "malagandang","Verba; Ss","",1
@@ -54440,10 +54682,13 @@ kata,kelas,kata_dasar,nilai
 "manajerial","Adjektiva","",7
 "manajerialisme","Nomina","",4
 "manak","Verba; Beng","",1
+"manakala","Partikel","",8
 "manakan","Pronomina","",3
 "manakan","Nomina; cak","",2
 "manakib","Nomina; Tas","",4
 "manakiban","Nomina; Jw","",3
+"manalagi","Partikel","",8
+"manalagi","Nomina","",7
 "manaluahi","Nomina; Sng","",1
 "manama","Nomina","",4
 "manamakhe","Verba; Ni","",1
@@ -54466,7 +54711,7 @@ kata,kelas,kata_dasar,nilai
 "manbae","Nomina","",2
 "manca","Verba; Beng","",1
 "manca","Nomina; BjPd","",1
-"manca","bentuk terikat","",4
+"manca-","bentuk terikat","",4
 "mancadaya","Nomina","",2
 "mancak","Nomina; Mk","",3
 "mancakota","Nomina","",3
@@ -54598,6 +54843,7 @@ kata,kelas,kata_dasar,nilai
 "maneleo","Nomina; Rt","",1
 "manem","Nomina","",2
 "manembrama","Verba; Jw","",1
+"manene","Nomina","",3
 "manerisme","Nomina","",4
 "manesan-nesan","Verba; Eln","",1
 "maneta","Nomina; Ka","",2
@@ -54988,6 +55234,7 @@ kata,kelas,kata_dasar,nilai
 "maori","Nomina","",5
 "maosamo","Adjektiva; Sln","",1
 "maotumula","Nomina; Gor","",1
+"map","Nomina; sing","",6
 "mapaba","Nomina; akr","",3
 "mapada","Verba; Bg","",1
 "mapadendang","Nomina; Bg","",3
@@ -55011,6 +55258,7 @@ kata,kelas,kata_dasar,nilai
 "mapasilasae","Nomina; Bg","",2
 "mapasisaue","Nomina; Bg","",2
 "mapayungan","Nomina","",3
+"mapd","Nomina; sing","",6
 "mapeed","Nomina; Bl","",3
 "mapel","Nomina; akr","",5
 "mapel","Nomina","",2
@@ -55051,6 +55299,7 @@ kata,kelas,kata_dasar,nilai
 "mara","Nomina","",3
 "mara","Nomina","",3
 "mara","Nomina; Bot","",2
+"marabahaya","","",8
 "maraban","Verba; Sd","",1
 "marabia","Nomina; Dy","",1
 "marabose","Nomina; Bc","",2
@@ -55188,7 +55437,7 @@ kata,kelas,kata_dasar,nilai
 "marinasi","Nomina","",5
 "marind","Nomina","",3
 "marind-anim","Nomina","",3
-"marind-anim","Nomina","",3
+"marindanim","Nomina","",3
 "marine","Adjektiva; Nomina","",4
 "marineh","Adjektiva; Krc","",1
 "maringsing","Verba; Bjr","",1
@@ -55273,6 +55522,7 @@ kata,kelas,kata_dasar,nilai
 "marou","Nomina; Dy","",1
 "marpaud","Adjektiva","",4
 "marpuga","Nomina; Let","",1
+"mars","Nomina; sing","",5
 "marsaoleh","Nomina","",3
 "marsda","Nomina; akr","",5
 "marsdya","Nomina; akr","",5
@@ -55359,6 +55609,7 @@ kata,kelas,kata_dasar,nilai
 "masala","Nomina; Isl","",3
 "masalah","Nomina","",9
 "masalah","","",3
+"masalia","Nomina; Eln","",2
 "masam","Adjektiva; ki","",7
 "masama","Nomina","",2
 "masambia","Verba; Tld","",1
@@ -55376,6 +55627,7 @@ kata,kelas,kata_dasar,nilai
 "masarete","Nomina","",2
 "masase","Nomina","",5
 "masawanan","Nomina; Ht","",1
+"masayu","Nomina; Plb","",4
 "masbuk","Nomina; Isl","",4
 "masbuk","Verba; Jw","",1
 "masbulan","Nomina; Oi","",1
@@ -55400,6 +55652,8 @@ kata,kelas,kata_dasar,nilai
 "mashaf","","",3
 "mashur","","",3
 "mashur","","",3
+"masi","Nomina; sing","",5
+"masi","Verba; Bn","",1
 "masif","Adjektiva","",7
 "masih","Adverbia","",9
 "masikebukat","Nomina; Mt","",1
@@ -55494,6 +55748,7 @@ kata,kelas,kata_dasar,nilai
 "masusu","Nomina; Bk","",1
 "masuwengan","Adjektiva; Mn","",1
 "maswar","Nomina","",2
+"masyaallah","Partikel","",10
 "masyakah","Nomina; Ar","",2
 "masyakat","","",2
 "masyakat","","",2
@@ -55513,6 +55768,7 @@ kata,kelas,kata_dasar,nilai
 "mata-mata","Nomina","",7
 "matador","Nomina","",5
 "matagas","Verba; Tl","",1
+"matahari","Nomina; Astron","",10
 "matahiang","Nomina; Sd","",1
 "matai","Nomina; Aln","",1
 "matai","Nomina; Dy","",1
@@ -55684,6 +55940,7 @@ kata,kelas,kata_dasar,nilai
 "mauwa","Nomina; Oi","",1
 "mauweng","Nomina; MAb","",1
 "mauz","Nomina; Ar","",3
+"mawa","Nomina; Dy","",1
 "mawadah","Nomina; Ar","",4
 "mawai","Verba; Lp","",1
 "mawaih","Nomina; Ach","",2
@@ -55711,6 +55968,7 @@ kata,kelas,kata_dasar,nilai
 "mawoso","Verba; Mn","",1
 "mawut","Verba; Jw","",4
 "mawutu","Nomina; Ram","",1
+"may","Nomina; sing","",4
 "maya","Nomina","",5
 "maya","Adjektiva; Nomina; Komp","",8
 "maya","Nomina; Jw","",2
@@ -55748,6 +56006,7 @@ kata,kelas,kata_dasar,nilai
 "mayos","Nomina","",2
 "maysir","Nomina; Ar","",7
 "mayu","Adjektiva; Mr","",2
+"mayudesa","Nomina; Jw","",2
 "mayur","","",4
 "mayuru","Nomina; Gor","",2
 "mazaiduli","Nomina; Ni","",2
@@ -55783,6 +56042,7 @@ kata,kelas,kata_dasar,nilai
 "mbontu","Verba; Bm","",2
 "mbui","Nomina; Gor","",2
 "mbulan","Nomina; Bt","",3
+"mdiv","Nomina; sing","",4
 "meah","Nomina","",3
 "meaks","Nomina","",2
 "meander","Nomina; Geo","",6
@@ -55888,7 +56148,7 @@ kata,kelas,kata_dasar,nilai
 "mefetukang","Verba; Ldy","",2
 "mefolahai","Verba; Bgk","",2
 "mega","Nomina","",8
-"mega","bentuk terikat","",8
+"mega-","bentuk terikat","",8
 "megabentos","Nomina","",4
 "megabintang","Nomina","",8
 "megabiodiversitas","Nomina","",6
@@ -56005,6 +56265,7 @@ kata,kelas,kata_dasar,nilai
 "mehrorowo","Nomina; Ram","",2
 "mehukhung","Nomina; Stn","",2
 "mehyiai","Nomina; BhUj","",2
+"mei","Nomina; sing","",5
 "meibom","Nomina","",4
 "meiobentos","Nomina; Bio","",4
 "meiofauna","Nomina","",5
@@ -56016,6 +56277,7 @@ kata,kelas,kata_dasar,nilai
 "meises","","",8
 "meises","","",8
 "meitia","Nomina; Mn","",3
+"meja","Nomina","",10
 "meja","Nomina","",10
 "mejam","Adjektiva","",4
 "mejan","Nomina","",5
@@ -56668,7 +56930,7 @@ kata,kelas,kata_dasar,nilai
 "menila","","",3
 "meningeal","Adjektiva","",2
 "meninges","Nomina; Anat","",3
-"meninggur","Verba; Sd","",1
+"mêninggur","Verba; Sd","",1
 "meningioma","Nomina","",2
 "meningitis","Nomina","",5
 "meningitofobia","Nomina; Psi","",1
@@ -56756,7 +57018,6 @@ kata,kelas,kata_dasar,nilai
 "menserendahi","Nomina; Wrp","",1
 "menservis","","",6
 "mensesneg","Nomina; akr","",5
-"mensia-siakan","","",7
 "mensiang","Nomina","",2
 "mensiasati","","",6
 "mensikapi","","",6
@@ -56910,6 +57171,7 @@ kata,kelas,kata_dasar,nilai
 "mepat","Verba; BhUj","",1
 "mepes","Verba; Sd","",2
 "mepet","Adjektiva; ki","",7
+"mepid","Nomina; sing","",4
 "mepido","Nomina; Tlk","",1
 "mepihi","Verba; Tlk","",1
 "mepo","Nomina; cak; akr","",4
@@ -56922,7 +57184,7 @@ kata,kelas,kata_dasar,nilai
 "merah","Nomina; Adjektiva","",9
 "merah","Nomina; Adjektiva","",9
 "merah","Nomina","",5
-"merai","Nomina; Lmt","",1
+"mêrai","Nomina; Lmt","",1
 "merajak","Adjektiva","",3
 "merajan","Nomina; Bl","",3
 "merak","Nomina; Astron","",2
@@ -57015,16 +57277,16 @@ kata,kelas,kata_dasar,nilai
 "merepuh","Verba; Bsm","",1
 "mereresik","Nomina","",2
 "meres","Adjektiva; cak","",3
+"mergang","Nomina; Mdr","",1
 "merganser","Nomina","",2
 "mergat","Nomina","",3
-"mergeng","Nomina; Mdr","",1
 "merger","","",7
 "merger","Nomina; Astron","",7
 "merguk","","",3
 "merguk","","",3
 "mergul","Nomina","",2
 "meri","Nomina; Km; Jw","",3
-"meria","Nomina; Ri","",1
+"mêria","Nomina; Ri","",1
 "meriam","Nomina","",7
 "meriang","Adjektiva","",7
 "meribungan","Nomina","",2
@@ -57165,6 +57427,7 @@ kata,kelas,kata_dasar,nilai
 "meser","Nomina; Oi","",2
 "meses","Nomina","",6
 "mesia","Nomina","",4
+"mesia-siakan","","",7
 "mesiah","Nomina","",4
 "mesianik","Adjektiva","",4
 "mesianisme","Nomina","",4
@@ -57268,10 +57531,11 @@ kata,kelas,kata_dasar,nilai
 "mesunuk","Nomina; Lp","",1
 "mesuryak","Nomina; Bl","",2
 "mesut","","",2
+"mesy","Nomina; sing","",5
 "meta","Nomina; Dy","",2
 "meta","Nomina; Bla","",2
 "meta","Verba; kl","",2
-"meta","bentuk terikat; Kim","",4
+"meta-","bentuk terikat; Kim","",4
 "metaanalisis","Nomina","",4
 "metabahasa","Nomina; Ling","",4
 "metabasidium","Nomina; Bio","",2
@@ -57574,6 +57838,16 @@ kata,kelas,kata_dasar,nilai
 "meze","Nomina","",3
 "mezosopran","Nomina; Sen","",4
 "mezuzah","Nomina","",3
+"mfarm","Nomina; sing","",6
+"mfarmklin","Nomina; sing","",4
+"mfili","Nomina; sing","",4
+"mh","Nomina; sing","",8
+"mhi","Nomina; sing","",6
+"mhkes","Nomina; sing","",5
+"mhp","Nomina; sing","",4
+"mhubint","Nomina; sing","",4
+"mhum","Nomina; sing","",7
+"mhut","Nomina; sing","",5
 "mi'raj","","",6
 "mi'raj","","",6
 "miafisitisme","Nomina","",2
@@ -57652,6 +57926,7 @@ kata,kelas,kata_dasar,nilai
 "miji","Nomina","",3
 "mijil","Nomina","",4
 "miju","Nomina; Bot","",3
+"mik","Nomina; sing","",5
 "mika","Pronomina; ark","",3
 "mika","Nomina","",6
 "mikail","Nomina","",5
@@ -57669,6 +57944,7 @@ kata,kelas,kata_dasar,nilai
 "mikofobia","Nomina; Psi","",1
 "mikologi","Nomina","",6
 "mikologiwan","Nomina","",4
+"mikom","Nomina; sing","",6
 "mikonazol","Nomina","",4
 "mikong","Nomina; Sbw","",1
 "mikoparasit","Nomina","",3
@@ -57683,7 +57959,7 @@ kata,kelas,kata_dasar,nilai
 "mikovirus","Nomina","",3
 "mikraj","Nomina; Isl","",5
 "mikro","Adjektiva","",7
-"mikro","bentuk terikat","",5
+"mikro-","bentuk terikat","",5
 "mikroadenoma","Nomina; Dok","",3
 "mikroaerofil","Nomina; Bio","",2
 "mikroaerofilik","Adjektiva; Bio","",2
@@ -57828,7 +58104,7 @@ kata,kelas,kata_dasar,nilai
 "mikronutrien","Nomina; Kim","",5
 "mikroohm","Nomina; El","",3
 "mikroorganisme","Nomina","",7
-"mikropalentologi","Nomina","",4
+"mikropaleontologi","Nomina","",4
 "mikroparasit","Nomina; Bio","",3
 "mikropengendali","Nomina; If","",4
 "mikropil","Nomina; Bio","",4
@@ -57991,6 +58267,7 @@ kata,kelas,kata_dasar,nilai
 "mimosa","Nomina; Bio","",4
 "mimpi","Nomina; ki","",8
 "mimping","Adjektiva; Ri; Nomina","",2
+"mimun","Nomina; sing","",4
 "mina","Nomina","",4
 "mina","Nomina","",4
 "mina","","",3
@@ -57999,6 +58276,7 @@ kata,kelas,kata_dasar,nilai
 "mina","Nomina","",3
 "minaf","Verba; Eln","",1
 "minahasa","Nomina","",5
+"minangkabau","Nomina","",9
 "minangseraya","Verba; Skt","",1
 "minantu","","",4
 "minantu","","",4
@@ -58045,7 +58323,7 @@ kata,kelas,kata_dasar,nilai
 "mingsri","Nomina; Jw","",2
 "minhaj","Nomina; Ar","",3
 "mini","Adjektiva","",8
-"mini","bentuk terikat","",5
+"mini-","bentuk terikat","",5
 "minian","Nomina; Mdr","",1
 "miniatur","Nomina","",7
 "minibar","Nomina","",5
@@ -58150,6 +58428,7 @@ kata,kelas,kata_dasar,nilai
 "miotomi","Nomina","",2
 "miotonia","Nomina","",2
 "miotonik","Adjektiva","",2
+"mip","Nomina; sing","",5
 "mipan","Nomina","",2
 "mipelen","Verba; Jw","",2
 "mipil","Nomina","",2
@@ -58326,13 +58605,38 @@ kata,kelas,kata_dasar,nilai
 "mizan","Nomina","",4
 "mizar","Nomina; Astron","",3
 "mizutaki","Nomina; Jp","",4
+"mk","Nomina; sing","",6
+"mkeb","Nomina; sing","",5
+"mked","Nomina; sing","",5
+"mkedklin","Nomina; sing","",4
+"mkep","Nomina; sing","",5
+"mkes","Nomina; sing","",6
+"mkesja","Nomina; sing","",4
+"mkk","Nomina; sing","",4
+"mkkk","Nomina; sing","",4
+"mkn","Nomina; sing","",5
+"mkom","Nomina; sing","",6
+"mkor","Nomina; sing","",4
+"mkp","Nomina; sing","",4
 "mlanto","Nomina; Jw","",2
 "mlata","Verba; Beng","",2
 "mlaya","Nomina","",3
 "mlembang","Verba; Jw","",2
+"mli","Nomina; sing","",4
 "mlijo","Nomina; Jw","",6
 "mlocoh","Adjektiva; Jw","",3
 "mlondan","Nomina; Jw","",2
+"mm","Nomina; sing","",8
+"mma","Nomina; sing","",5
+"mmar","Nomina; sing","",4
+"mmb","Nomina; sing","",4
+"mmedkom","Nomina; sing","",4
+"mmkes","Nomina; sing","",4
+"mmpar","Nomina; sing","",4
+"mmpd","Nomina; sing","",5
+"mmr","Nomina; sing","",4
+"mmsi","Nomina; sing","",5
+"mmt","Nomina; sing","",4
 "mnanggi","Nomina","",2
 "mnemofobia","Nomina; Psi","",2
 "mnemonik","Nomina; Kom; Psi; Komp","",6
@@ -58754,7 +59058,7 @@ kata,kelas,kata_dasar,nilai
 "monkasel","Nomina; akr","",5
 "monmorilonit","Nomina; Kim","",3
 "mono","Nomina; El","",7
-"mono","bentuk terikat","",7
+"mono-","bentuk terikat","",7
 "monoamina","Nomina; Kim","",4
 "monoamniotik","Adjektiva","",3
 "monoamonium","Nomina; Kim","",3
@@ -59171,11 +59475,43 @@ kata,kelas,kata_dasar,nilai
 "mozaik","","",7
 "mozambik","Nomina","",6
 "mozeta","Nomina; Kat","",4
+"mp","Nomina; sing","",7
+"mpa","Nomina; sing","",5
+"mpd","Nomina; sing","",7
+"mpdi","Nomina; sing","",5
+"mpdked","Nomina; sing","",4
+"mpdsi","Nomina; sing","",4
+"mpfis","Nomina; sing","",4
+"mpi","Nomina; sing","",4
 "mpiri","Nomina; Kal","",2
+"mpkim","Nomina; sing","",4
+"mpmat","Nomina; sing","",4
+"mpsdm","Nomina; sing","",4
+"mpsi","Nomina; sing","",6
+"mpsip","Nomina; sing","",4
+"mpsit","Nomina; sing","",4
 "mrakih","","",3
 "mrakih","","",3
 "mremah","Nomina","",4
 "mrutu","Nomina; Jw","",4
+"msak","Nomina; sing","",4
+"mse","Nomina; sing","",5
+"msei","Nomina; sing","",4
+"msi","Nomina; sing","",6
+"msi","Nomina; sing","",7
+"msimed","Nomina; sing","",4
+"msm","Nomina; sing","",5
+"msn","Nomina; sing","",5
+"msosi","Nomina; sing","",4
+"mstat","Nomina; sing","",4
+"msy","Nomina; sing","",4
+"mt","Nomina; sing","",7
+"mta","Nomina; sing","",4
+"mthi","Nomina; sing","",4
+"mti","Nomina; sing","",4
+"mtk","Nomina; sing","",5
+"mtp","Nomina; sing","",4
+"mtr","Nomina; sing","",4
 "mua","Nomina","",5
 "mua","Verba; Ke","",3
 "muadin","","",5
@@ -59237,6 +59573,7 @@ kata,kelas,kata_dasar,nilai
 "mucikari","","",7
 "mucor","Nomina","",4
 "mucung","Adjektiva; Ri","",3
+"mud","Nomina; sing","",5
 "muda","Adjektiva","",9
 "muda","Nomina; Bt","",4
 "mudabir","Nomina; Ar","",4
@@ -60187,6 +60524,7 @@ kata,kelas,kata_dasar,nilai
 "muzhab","","",4
 "muzhab","","",4
 "muzhib","Nomina; Ar","",3
+"mvet","Nomina; sing","",4
 "myanmar","Nomina","",7
 "naaili","Verba; Moa","",1
 "naait","Verba; Eln","",1
@@ -60274,7 +60612,6 @@ kata,kelas,kata_dasar,nilai
 "nagarakertagama","","",4
 "nagarakertagama","","",4
 "nagari","Nomina; Mk","",5
-"nagarjuna","Nomina; Bud","",3
 "nagasaki","Nomina","",6
 "nagasari","Nomina","",5
 "nagasari","Nomina","",5
@@ -60493,11 +60830,12 @@ kata,kelas,kata_dasar,nilai
 "naning","Nomina; Mt","",1
 "naniri","Nomina; MAb","",1
 "naniura","Nomina; Bt","",4
+"naniwana","Nomina; Isrw","",1
 "nanjong","Verba; Dy","",1
 "nanjur","Verba; Dy","",1
 "nanking","Nomina","",5
 "nano","Adjektiva","",6
-"nano","bentuk","",5
+"nano-","bentuk","",5
 "nano-nano","Adjektiva; cak","",7
 "nanoampere","Nomina","",3
 "nanodetik","Nomina","",4
@@ -60560,7 +60898,7 @@ kata,kelas,kata_dasar,nilai
 "naqal","Nomina; Isl","",4
 "naqli","Adjektiva; Isl","",4
 "nara","Nomina; Ldy","",1
-"nara","bentuk terikat","",5
+"nara-","bentuk terikat","",5
 "naraberita","Nomina","",4
 "narablog","Nomina; Komp","",4
 "naracoba","Nomina","",4
@@ -60733,7 +61071,7 @@ kata,kelas,kata_dasar,nilai
 "navkom","Nomina; akr","",3
 "navuntu","Adjektiva; Kal","",1
 "nawa","Nomina","",4
-"nawa","bentuk terikat; ark","",4
+"nawa-","bentuk terikat; ark","",4
 "nawacita","Nomina","",6
 "nawafil","Nomina; Isl","",4
 "nawai","Nomina","",3
@@ -60773,6 +61111,7 @@ kata,kelas,kata_dasar,nilai
 "nazir","Nomina","",5
 "nazir","Nomina","",4
 "nazir","Nomina; Ar; Kris","",4
+"nb","Nomina; sing","",7
 "ncele","Adjektiva; Bm","",1
 "ndalango","Nomina; Bgk","",1
 "ndaleman","Nomina; Jw","",3
@@ -61003,7 +61342,6 @@ kata,kelas,kata_dasar,nilai
 "nenu-nenu","Nomina; Bg","",1
 "nenuk","Nomina; Beng","",1
 "neo-nazi","Nomina","",5
-"neo-nazi","Nomina","",5
 "neoarkean","Nomina; Geo","",3
 "neodarwinisme","Nomina","",4
 "neodimium","Nomina; Kim","",4
@@ -61060,6 +61398,7 @@ kata,kelas,kata_dasar,nilai
 "neonatologi","Nomina","",4
 "neonatologis","Nomina","",4
 "neonatus","Nomina","",5
+"neonazi","Nomina","",5
 "neonaziisme","Nomina; Pol","",4
 "neonikotinoid","Nomina; Kim","",4
 "neonisasi","","",3
@@ -61239,7 +61578,7 @@ kata,kelas,kata_dasar,nilai
 "neuroradiologi","Nomina; Dok","",4
 "neurorehabilitasi","Nomina","",4
 "neurorestorasi","Nomina","",3
-"neurorestotasi","Nomina; Dok","",1
+"neurorestorasi","Nomina; Dok","",1
 "neurosains","Nomina","",8
 "neurosaintis","Nomina","",5
 "neurosensori","Adjektiva; Dok","",4
@@ -61823,6 +62162,7 @@ kata,kelas,kata_dasar,nilai
 "nini","Nomina","",4
 "niniala","Nomina; Nla","",1
 "ninik","Nomina; Mk","",3
+"ninitowok","Nomina","",5
 "ninitowong","","",2
 "ninitowong","","",2
 "niniwe","Nomina","",3
@@ -61984,6 +62324,7 @@ kata,kelas,kata_dasar,nilai
 "njawani","Adjektiva; cak","",5
 "njejek","Nomina; Jw","",2
 "njekutru","Verba; Jw","",1
+"nn","Nomina; sing","",8
 "no","Nomina; sing","",8
 "noane","Nomina; Aln","",1
 "noang","Nomina; Bla","",1
@@ -62086,16 +62427,6 @@ kata,kelas,kata_dasar,nilai
 "nompoponondo","Verba; Kal","",1
 "nomurau","Verba; Dy","",1
 "non-arab","Nomina","",3
-"non-brt","Nomina","",1
-"non-covid","Nomina","",4
-"non-icu","Nomina","",4
-"non-msg","Nomina","",4
-"non-nakes","Nomina","",4
-"non-oki","Nomina","",3
-"non-olimpiade","Nomina","",4
-"non-opec","Nomina","",3
-"non-pbb","Nomina","",4
-"non-wni","Nomina","",4
 "nona","Nomina","",7
 "nona","Nomina","",7
 "nonablatif","Nomina","",3
@@ -62136,8 +62467,10 @@ kata,kelas,kata_dasar,nilai
 "nonbiner","Adjektiva","",8
 "nonbisnis","Adjektiva","",5
 "nonblok","Adjektiva","",7
+"nonbrt","Nomina","",1
 "nonbujeter","Nomina","",3
 "nonbuku","Adjektiva","",4
+"noncovid","Nomina","",4
 "nondemokratis","Adjektiva","",4
 "nondepartemen","Nomina","",5
 "nondepartemental","Adjektiva","",4
@@ -62221,6 +62554,7 @@ kata,kelas,kata_dasar,nilai
 "nonhutan","Nomina","",4
 "noni","Nomina","",5
 "nonibadah","Adjektiva","",3
+"nonicu","Nomina","",4
 "noniliun","Numeralia; ark","",1
 "nonilmiah","Nomina","",6
 "nonimigran","Nomina","",4
@@ -62306,12 +62640,14 @@ kata,kelas,kata_dasar,nilai
 "nonmekanis","Adjektiva","",4
 "nonmelanoma","Nomina","",4
 "nonmetalik","Nomina; Kim","",3
+"nonmg","Nomina","",4
 "nonmigas","Nomina","",6
 "nonmigran","Nomina","",4
 "nonmiliter","Adjektiva","",6
 "nonmonogami","Adjektiva","",4
 "nonmotil","Adjektiva; Bio","",3
 "nonmuslim","Nomina","",7
+"nonnakes","Nomina","",4
 "nonnegara","Nomina","",4
 "nonnegatif","Adjektiva","",4
 "nonneoplastik","Adjektiva","",3
@@ -62326,12 +62662,15 @@ kata,kelas,kata_dasar,nilai
 "nonoh","","",4
 "nonoh","","",4
 "nonok","Nomina; cak","",5
+"nonoki","Nomina","",3
 "nonol","Nomina","",2
 "nonolahan","Nomina","",4
 "nonolahraga","Nomina","",4
+"nonolimpiade","Nomina","",4
 "nonong","Adjektiva","",4
 "nonong","","",1
 "nonong","Verba; Kpr","",1
+"nonopec","Nomina","",3
 "nonoperasi","Nomina","",4
 "nonopioid","Adjektiva; Nomina","",4
 "nonoptik","Adjektiva","",4
@@ -62350,6 +62689,7 @@ kata,kelas,kata_dasar,nilai
 "nonpasar","Nomina","",4
 "nonpatogen","Nomina","",4
 "nonpatogenik","Adjektiva; Bio","",3
+"nonpbb","Nomina","",4
 "nonpelajaran","Nomina","",4
 "nonpelanggan","Nomina","",4
 "nonpelatnas","Nomina","",4
@@ -62454,6 +62794,7 @@ kata,kelas,kata_dasar,nilai
 "nonvokal","Adjektiva","",4
 "nonvokasi","Nomina","",4
 "nonvolatil","Adjektiva; Komp","",3
+"nonwni","Nomina","",4
 "nonyustisi","Nomina","",4
 "nonzonasi","Nomina; Dik","",4
 "noo","Nomina; Oi","",1
@@ -62572,6 +62913,7 @@ kata,kelas,kata_dasar,nilai
 "nozel","Nomina; Sen","",5
 "nozel","","",5
 "nrima","Adjektiva; Jw","",3
+"ns","Nomina; sing","",6
 "ntus","Nomina; Hid; sing","",3
 "nua","Nomina","",2
 "nuahunai","Nomina","",1
@@ -62742,7 +63084,8 @@ kata,kelas,kata_dasar,nilai
 "nuwosesat","Nomina","",2
 "nuyadingan","Nomina","",1
 "nuzul","Verba","",5
-"nuzululquran","Nomina; Isl","",6
+"nuzululqur'an","Nomina; Isl","",6
+"ny","Nomina; sing","",9
 "nyabis","Verba; Mdr","",1
 "nyadran","Jw","",5
 "nyadu","Nomina","",2
@@ -63408,6 +63751,7 @@ kata,kelas,kata_dasar,nilai
 "ola-ola","Nomina","",2
 "olah","Nomina","",6
 "olah","Verba","",6
+"olahraga","Nomina","",10
 "olahragawan","Nomina","",7
 "olahragawati","Nomina","",6
 "olahyuda","Nomina","",3
@@ -63926,6 +64270,7 @@ kata,kelas,kata_dasar,nilai
 "oranda","Nomina","",4
 "orang","Nomina; cak","",9
 "orang-aring","Nomina","",4
+"orangutan","","",9
 "oranjestad","Nomina","",3
 "oranye","Nomina","",8
 "orasi","Nomina","",7
@@ -64060,6 +64405,7 @@ kata,kelas,kata_dasar,nilai
 "orisinil","","",5
 "oritsuru","Nomina; Jp","",3
 "orjen","Nomina; akr","",3
+"orjen","Nomina; akr","",4
 "orkes","Nomina","",6
 "orkes","Nomina; akr","",3
 "orkestra","Nomina; Sen","",6
@@ -64130,6 +64476,7 @@ kata,kelas,kata_dasar,nilai
 "orsong","","",1
 "orsos","Nomina; akr","",3
 "orsospol","Nomina; akr","",4
+"ort","Nomina; sing","",4
 "ortaker","Nomina; akr","",2
 "ortala","Nomina; akr","",3
 "ortodentis","Nomina; Dok","",4
@@ -64291,6 +64638,7 @@ kata,kelas,kata_dasar,nilai
 "ostrasiform","Nomina","",2
 "ostrasisme","Nomina; Sos","",3
 "osuari","Nomina; Ark","",3
+"ot","Nomina; sing","",6
 "ota","Nomina; Ni","",2
 "otabori","Verba; Sls","",1
 "otak","Nomina; ki","",8
@@ -64319,12 +64667,13 @@ kata,kelas,kata_dasar,nilai
 "otet","Nomina; Sd","",2
 "otis","Nomina; Dy","",1
 "otitis","Nomina; Dok","",4
+"otjen","Nomina; akr","",4
 "otmil","Nomina; akr","",3
 "otmillub","Nomina; akr","",2
 "otmilti","Nomina; akr","",2
 "oto","Nomina","",6
 "oto","Nomina","",5
-"oto","bentuk terikat","",4
+"oto-","bentuk terikat","",4
 "otoaktivitas","","",3
 "otoaktivitas","","",3
 "otobiografi","","",7
@@ -64990,6 +65339,7 @@ kata,kelas,kata_dasar,nilai
 "paksi","Nomina; Ri","",2
 "paksian","Nomina; MBa","",2
 "paksina","Nomina; kl","",4
+"paksu","Nomina; cak; akr","",8
 "pakta","Nomina","",7
 "paktalinga","Nomina; Trj","",1
 "pakter","Nomina","",3
@@ -65164,7 +65514,7 @@ kata,kelas,kata_dasar,nilai
 "paleoneurologi","Nomina","",3
 "paleontografi","Nomina; Bio","",2
 "paleontologi","Nomina","",5
-"paleooseanografi","Nomina; Osn","",3
+"paleooseanoggrafi","Nomina; Osn","",3
 "paleopalinologi","Nomina; Bio","",2
 "paleopatologi","Nomina","",4
 "paleoproterozoikum","Nomina; Geo","",3
@@ -65276,6 +65626,7 @@ kata,kelas,kata_dasar,nilai
 "palpitasi","Nomina; Dok","",4
 "palpolu","Nomina; Sa","",1
 "palpus","Nomina","",4
+"palpusmaksilaris","Nomina; Bio","",3
 "palselap","Nomina; Kur","",1
 "palsu","Adjektiva","",8
 "paltu","Nomina; kl","",4
@@ -65353,7 +65704,7 @@ kata,kelas,kata_dasar,nilai
 "pamflet","Nomina","",6
 "pamiluta","Nomina; Jw","",2
 "paminal","Nomina; akr","",4
-"paminun","Nomina; Krc","",1
+"paminum","Nomina; Krc","",1
 "pamio","Nomina; Mr","",1
 "pamipis","Nomina; Sbw","",1
 "pamit","Verba","",7
@@ -66108,7 +66459,7 @@ kata,kelas,kata_dasar,nilai
 "para","Nomina; Mt","",3
 "para","Nomina; Psr","",2
 "para","Nomina; Bm","",2
-"para","bentuk; bentuk terikat","",4
+"para-","bentuk; bentuk terikat","",4
 "paraatlet","Nomina; Olr","",6
 "paraatletik","Nomina; Olr","",6
 "parab","","",1
@@ -66277,6 +66628,7 @@ kata,kelas,kata_dasar,nilai
 "parang","","",1
 "parang","Nomina","",9
 "parang","Nomina","",9
+"parangmaya","Nomina; DyNg","",2
 "parangon","Nomina; Bkt","",3
 "parangtritis","Nomina","",7
 "paranigu","Nomina; Mg","",2
@@ -66328,7 +66680,7 @@ kata,kelas,kata_dasar,nilai
 "paraseksual","Adjektiva; Bio","",4
 "paraseksualitas","Nomina; Bio","",4
 "parasematik","Nomina; Bio","",4
-"parasentesis","Nomina; Dok","",4
+"parasêntesis","Nomina; Dok","",4
 "parasepeda","Nomina; Olr","",5
 "parasetamol","Nomina","",8
 "paraseuneu","Nomina; Sd","",3
@@ -66443,7 +66795,7 @@ kata,kelas,kata_dasar,nilai
 "pari","Nomina","",8
 "pari","Nomina","",8
 "pari","Nomina","",8
-"pari","bentuk","",4
+"pari-","bentuk","",4
 "paria","Nomina","",7
 "paria","","",1
 "pariaman","Nomina","",7
@@ -66545,7 +66897,6 @@ kata,kelas,kata_dasar,nilai
 "parsnip","Nomina","",3
 "parsong","Nomina; Mdr","",1
 "partai","Nomina","",8
-"partenapogami","Nomina; Bio","",2
 "partenofobia","Nomina; Psi","",2
 "partenogamet","Nomina; Bio","",2
 "partenogami","Nomina; Bio","",2
@@ -66554,6 +66905,7 @@ kata,kelas,kata_dasar,nilai
 "partenogenom","Nomina; Bio","",2
 "partenogonidia","Nomina; Bio","",2
 "partenokarpi","Nomina; Bot","",4
+"partenopogami","Nomina; Bio","",2
 "partenosperma","Nomina; Bio","",2
 "partenospora","Nomina; Bio","",2
 "partenot","Nomina","",2
@@ -66590,6 +66942,7 @@ kata,kelas,kata_dasar,nilai
 "paruga","Nomina; Bm","",1
 "paruh","Nomina","",7
 "paruh","Numeralia","",6
+"paruhpaku","Nomina; Dy","",1
 "parui","Nomina; MSg","",1
 "paruja","Nomina; Kal","",1
 "paruk","Nomina; Ach","",1
@@ -66786,6 +67139,7 @@ kata,kelas,kata_dasar,nilai
 "paset","","",1
 "paset","","",1
 "pasetran","Nomina; Jw; ark","",2
+"pasfoto","Nomina","",9
 "pasgat","Nomina; akr","",4
 "pashtun","Nomina","",5
 "pasi","","",1
@@ -66811,6 +67165,7 @@ kata,kelas,kata_dasar,nilai
 "pasimomo","Nomina; Mt","",1
 "pasimsim","Nomina","",2
 "pasionis","Nomina; Kat","",3
+"pasionis","Nomina; Kat","",3
 "pasiops","Nomina; akr","",3
 "pasipers","Nomina; akr","",3
 "pasipik","Nomina","",2
@@ -66831,9 +67186,9 @@ kata,kelas,kata_dasar,nilai
 "pasivis","Nomina","",3
 "pasivisme","Nomina","",3
 "pasivitas","Nomina","",4
-"paska","","",1
 "paska","Nomina","",3
-"paska","","",1
+"paska-","","",1
+"paska-","","",1
 "paskah","Nomina; Kris","",7
 "paskhas","Nomina; Mil; akr","",4
 "paskibra","Nomina; akr","",7
@@ -66876,7 +67231,6 @@ kata,kelas,kata_dasar,nilai
 "pasren","Nomina; Jw","",2
 "pasrun","Nomina; Krc","",1
 "passapu","Nomina","",2
-"passionis","Nomina; Kat","",3
 "passus","Nomina; akr","",4
 "pasta","Nomina","",7
 "pasta","Nomina","",7
@@ -67196,7 +67550,7 @@ kata,kelas,kata_dasar,nilai
 "pawohan","Nomina; Jw","",2
 "pawon","Nomina","",7
 "pawongan","Nomina; Bl","",2
-"pawongan","Nomina; Hin","",2
+"pawongang","Nomina; Hin","",2
 "pawuhan","Nomina; Jw","",2
 "pawukon","Nomina; Jw","",3
 "paya","Nomina","",5
@@ -67235,7 +67589,7 @@ kata,kelas,kata_dasar,nilai
 "peapaku","Nomina; Kb","",1
 "pebatin","Nomina; Ko","",2
 "pebato","Nomina","",2
-"pebaul","Nomina; Kal; Ars","",1
+"pebaula","Nomina; Kal; Ars","",1
 "pebinor","Nomina; cak; akr","",8
 "pebo","Nomina; Bgk","",2
 "pebrina","Nomina","",2
@@ -67543,6 +67897,7 @@ kata,kelas,kata_dasar,nilai
 "pelale","Verba; Tj","",1
 "pelambungan","Nomina","",4
 "pelampang","Nomina; Jk","",3
+"pelan","Nomina; Jk; Adjektiva","",9
 "pelana","Nomina; Met","",6
 "pelanduk","Nomina","",6
 "pelang","Nomina; kl","",3
@@ -67964,6 +68319,7 @@ kata,kelas,kata_dasar,nilai
 "penggaga","Nomina","",4
 "penggah","Adjektiva; ark","",2
 "penggal","Verba; Nomina","",8
+"penggala","Nomina","",4
 "penggapit","Nomina; Ss","",2
 "penggar","Nomina; Abr","",1
 "penggar","Adjektiva","",4
@@ -68097,7 +68453,6 @@ kata,kelas,kata_dasar,nilai
 "pentamer","Nomina","",3
 "pentameter","Nomina; Sas","",4
 "pentameter","Nomina","",4
-"pentamidin","Nomina","",3
 "pentan","Adjektiva; ark","",2
 "pentana","Nomina","",5
 "pentang","","",2
@@ -68200,6 +68555,7 @@ kata,kelas,kata_dasar,nilai
 "pepanca","Nomina; Lp","",1
 "pepanggar","Nomina; Beng","",2
 "pepantan","Nomina; Jw","",3
+"pepantaran","Nomina; Gy","",2
 "pepaosan","Nomina; Ss","",2
 "pepar","Adjektiva; Klm","",1
 "peparda","Nomina; akr","",5
@@ -68283,6 +68639,9 @@ kata,kelas,kata_dasar,nilai
 "peram","","",2
 "peramisan","Adjektiva; Klm","",1
 "peramorfik","Adjektiva","",3
+"peran","Nomina","",9
+"peran","Nomina","",9
+"peran","Nomina; Ri","",4
 "peranca","Nomina; MBa","",2
 "perancah","","",5
 "perancis","","",9
@@ -68446,7 +68805,7 @@ kata,kelas,kata_dasar,nilai
 "peri","Nomina; kl","",4
 "peri","Nomina; kl","",4
 "peri","Nomina","",5
-"peri","bentuk terikat","",6
+"peri-","bentuk terikat","",6
 "peria","","",2
 "peria","Nomina","",5
 "periantium","Nomina; Bio","",4
@@ -68974,6 +69333,7 @@ kata,kelas,kata_dasar,nilai
 "petaling","Nomina; Bot","",4
 "petam","Nomina","",4
 "petamari","Nomina; kl","",3
+"petamidin","Nomina","",3
 "petampe","Nomina; Mdr","",2
 "petan","Nomina","",4
 "petandayangan","Nomina; Mr","",2
@@ -69110,6 +69470,7 @@ kata,kelas,kata_dasar,nilai
 "photo","","",4
 "photokopi","","",4
 "photokopi","","",4
+"pi","Nomina; sing","",5
 "pia","Nomina; Lp; sing","",6
 "pia","Verba; Bm","",2
 "pia-pia","Nomina; Jw","",5
@@ -69665,6 +70026,7 @@ kata,kelas,kata_dasar,nilai
 "piza","Nomina","",8
 "pizikato","Nomina; Mus","",5
 "pizoceri","Nomina","",4
+"pjs","Nomina; sing","",7
 "placak","Nomina","",4
 "pladu","Verba; Jw","",4
 "pladu","Nomina; Jw","",4
@@ -69852,6 +70214,7 @@ kata,kelas,kata_dasar,nilai
 "plosif","Nomina; Ling","",5
 "ploter","Nomina","",5
 "plototan","Nomina; Sn","",4
+"plt","Nomina; sing","",8
 "plumbago","Nomina; Min","",5
 "plumbum","Nomina; Kim","",6
 "plumpung","Nomina; Jw","",4
@@ -69891,6 +70254,8 @@ kata,kelas,kata_dasar,nilai
 "pluviometer","Nomina","",5
 "pluviometri","Nomina","",4
 "pluvioskop","Nomina","",4
+"pm","Nomina; sing","",6
+"pm","Nomina; Lt; sing","",6
 "pneumatifobia","Nomina; Psi","",3
 "pneumatik","Nomina","",6
 "pneumatika","Nomina","",5
@@ -70108,7 +70473,7 @@ kata,kelas,kata_dasar,nilai
 "polhukhankam","Nomina; akr","",4
 "polhut","Nomina; akr","",5
 "poli","Nomina; cak","",6
-"poli","bentuk terikat","",4
+"poli-","bentuk terikat","",4
 "poliad","Nomina; Bot","",1
 "poliadenilasi","Nomina; Bio","",2
 "poliakrilamid","Nomina","",2
@@ -70276,8 +70641,8 @@ kata,kelas,kata_dasar,nilai
 "polipetida","Nomina","",3
 "polipil","Nomina","",2
 "poliploid","Nomina","",4
-"poliploidi","Nomina; Bio","",4
 "poliploidisasi","Nomina; Kim","",2
+"poliploido","Nomina; Bio","",4
 "polipnea","Nomina; Dok","",2
 "polipoda","Adjektiva; Nomina","",3
 "polipoli","Nomina; Ek","",2
@@ -70356,6 +70721,7 @@ kata,kelas,kata_dasar,nilai
 "polivalen","Adjektiva","",5
 "polivini","Nomina; Kim","",3
 "polivinil","Adjektiva","",4
+"polivinilklorida","Nomina; Kim","",6
 "polivinilpirolidon","Nomina; Kim","",3
 "polivoltin","Adjektiva; Bio","",2
 "poliwangi","Nomina; akr","",4
@@ -70435,8 +70801,6 @@ kata,kelas,kata_dasar,nilai
 "polwan","Nomina; akr","",8
 "polwil","Nomina; akr","",5
 "polwiltabes","Nomina; Pls; akr","",4
-"pom-pom","Nomina; Trtim","",6
-"pom-pom","Nomina","",5
 "poma-poma","Partikel","",3
 "pomace","Nomina","",3
 "pomad","Nomina; akr","",5
@@ -70460,6 +70824,8 @@ kata,kelas,kata_dasar,nilai
 "pomparan","Nomina; Bt","",3
 "pompejakina","Nomina; Kal","",1
 "pompok","Nomina; Jw","",2
+"pompom","Nomina; Trtim","",6
+"pompom","Nomina","",5
 "pompon","Nomina","",4
 "pompon","Verba; Lp","",2
 "pompong","Nomina","",4
@@ -70552,7 +70918,6 @@ kata,kelas,kata_dasar,nilai
 "ponyo","Adjektiva; Sd","",3
 "ponzu","Nomina; Jp","",5
 "poo","Nomina","",2
-"poona","Nomina","",3
 "poota","Nomina; Gor","",1
 "popa","Nomina; Taa","",1
 "popaa","Nomina; Gor","",1
@@ -70680,12 +71045,12 @@ kata,kelas,kata_dasar,nilai
 "portugis","Nomina","",7
 "porus","Nomina","",4
 "porwil","Nomina; akr","",4
-"pos-el","Nomina; akr","",6
 "posbakum","Nomina; akr","",5
 "posbindu","Nomina; akr","",5
 "posdaya","Nomina; akr","",5
 "pose","Nomina","",8
 "poseidon","Nomina","",5
+"posel","Nomina; akr","",6
 "posemba","Nomina; Wl","",1
 "poser","Verba","",3
 "posesi","Nomina; Psi","",5
@@ -70824,8 +71189,7 @@ kata,kelas,kata_dasar,nilai
 "pra-kristen","Nomina","",5
 "pra-majapahit","Nomina","",5
 "pra-natal","Nomina","",5
-"pra-natal","Nomina; Kat; ark; Dok","",4
-"pra-pasar","Nomina","",4
+"pra-paskah","Nomina","",5
 "pra-romawi","Nomina","",4
 "pra-yunani","Nomina","",4
 "praacara","Nomina","",4
@@ -71016,6 +71380,8 @@ kata,kelas,kata_dasar,nilai
 "pranasalisasi","Nomina; Ling","",4
 "pranata","Nomina","",8
 "pranatacara","Nomina","",6
+"pranatal","Nomina; Kat; ark; Dok","",4
+"pranatamangsa","Nomina; Jw","",5
 "pranayama","Nomina","",5
 "prancis","Nomina","",8
 "pranegosiasi","Nomina","",5
@@ -71037,8 +71403,8 @@ kata,kelas,kata_dasar,nilai
 "prapalatal","Nomina; Ling","",4
 "prapandang","Nomina; Film","",6
 "prapanen","Adjektiva","",6
+"prapasar","Nomina","",4
 "prapaskah","Nomina; Kris; Kat","",6
-"prapaskah","Nomina","",5
 "prapatan","Nomina; cak","",5
 "prapelaksanaan","Nomina","",5
 "prapelantikan","Nomina","",5
@@ -71455,6 +71821,7 @@ kata,kelas,kata_dasar,nilai
 "procot","Nomina; Mdr","",2
 "procotan","Nomina; Jw","",3
 "prodemokrasi","Adjektiva","",5
+"prodeo","Adjektiva","",7
 "prodi","Nomina; akr","",7
 "prodiakon","Nomina; Kat","",4
 "prodroma","Nomina; Dok","",4
@@ -71469,6 +71836,7 @@ kata,kelas,kata_dasar,nilai
 "produsen","Nomina","",8
 "produser","Nomina; Sen","",8
 "proenzim","Nomina; Kim","",4
+"prof","Nomina; sing","",9
 "profag","Nomina; Bio","",4
 "profan","Adjektiva","",6
 "profanitas","Nomina; Psi","",5
@@ -71492,6 +71860,7 @@ kata,kelas,kata_dasar,nilai
 "profitabel","Adjektiva","",6
 "profitabilitas","Nomina","",6
 "profitisasi","Nomina","",5
+"proforma","Adjektiva","",7
 "profundal","Adjektiva","",4
 "progenese","Nomina; Bio","",4
 "progeni","Nomina","",4
@@ -72207,7 +72576,7 @@ kata,kelas,kata_dasar,nilai
 "pulvinar","Nomina; Dok","",2
 "pulvinus","Nomina","",2
 "puma","Nomina","",5
-"pumbolo","Nomina; Gor","",1
+"pumbulo","Nomina; Gor","",1
 "pumis","Nomina","",4
 "pumonean","Nomina; Mt","",1
 "pumping","Nomina","",5
@@ -72243,6 +72612,7 @@ kata,kelas,kata_dasar,nilai
 "pundung","Nomina; Jw","",2
 "pundung","Adjektiva; Sd","",1
 "pundut","Nomina; Bjr","",1
+"pune","Nomina","",3
 "punen","Nomina; Mt","",1
 "pungak-pinguk","Verba; Sd","",1
 "pungeni","Nomina; Lp","",1
@@ -72369,7 +72739,7 @@ kata,kelas,kata_dasar,nilai
 "purata","Nomina; Mat","",4
 "puratak","Adjektiva; Bjr","",1
 "purba","Adjektiva","",8
-"purba","bentuk terikat","",5
+"purba-","bentuk terikat","",5
 "purbakala","Nomina","",7
 "purbaleunyi","Nomina; akr","",5
 "purbalingga","Nomina","",6
@@ -72441,7 +72811,7 @@ kata,kelas,kata_dasar,nilai
 "purut","Nomina; Bkt","",1
 "puruyen","Verba; Dy","",1
 "purwa","Nomina","",5
-"purwa","bentuk","",4
+"purwa-","bentuk","",4
 "purwaceng","Nomina","",5
 "purwadaksina","Nomina","",3
 "purwaka","Nomina; Jw","",4
@@ -72493,7 +72863,6 @@ kata,kelas,kata_dasar,nilai
 "puser","","",4
 "pusham","Nomina; akr","",5
 "pushidros","Nomina; Osn; akr","",4
-"pushidrosal","Nomina; akr","",4
 "pushubad","Nomina; akr","",4
 "pusi","Verba; Bm","",1
 "pusinfo","Nomina; akr","",4
@@ -72674,11 +73043,14 @@ kata,kelas,kata_dasar,nilai
 "qasidah","","",6
 "qasidah","","",6
 "qatar","Nomina","",8
+"qe","Nomina; Lt; sing","",4
+"qed","Lt; ukp,sing","",5
 "qiamulail","Nomina; Isl","",5
 "qiraah","Nomina; Isl; Ar","",5
 "qiraat","Nomina","",6
 "qolbu","","",6
 "qolbu","","",6
+"qq","Nomina; Lt; sing","",7
 "quadriplegia","Nomina; Dok","",3
 "quddus","Nomina; Isl","",6
 "qudrah","Nomina","",5
@@ -72689,7 +73061,9 @@ kata,kelas,kata_dasar,nilai
 "quraisy","Nomina; Isl","",5
 "qurani","Adjektiva","",6
 "quranisme","Nomina; Isl","",4
+"qv","Nomina; Lt; sing","",4
 "r","Nomina; sing","",5
+"ra","Nomina; sing","",6
 "raamina","Verba; Let","",1
 "raang","Verba; Bjr","",1
 "raapa","Nomina; Sng","",1
@@ -73042,9 +73416,9 @@ kata,kelas,kata_dasar,nilai
 "raker","Nomina; akr","",8
 "rakercab","Nomina; akr","",5
 "rakercabsus","Nomina; akr","",4
-"rakerda","Nomina; akr","",6
+"rakêrda","Nomina; akr","",6
 "rakerdasus","Nomina; akr","",4
-"rakergab","Nomina; akr","",4
+"rakêrgab","Nomina; akr","",4
 "rakerkab","Nomina; akr","",5
 "rakerkesda","Nomina; akr","",4
 "rakerkesnas","Nomina; akr","",4
@@ -73221,6 +73595,7 @@ kata,kelas,kata_dasar,nilai
 "rampis","","",2
 "rampis","","",2
 "rampit","Adjektiva; Jw","",2
+"rampoganmacan","Nomina; Jw","",3
 "rampok","Nomina; Verba; cak","",8
 "rampok","Nomina","",7
 "rampuh","Adjektiva; ark","",2
@@ -73710,6 +74085,7 @@ kata,kelas,kata_dasar,nilai
 "rawu","Nomina; Sd","",1
 "rawu","Verba; Sd","",1
 "rawun","Verba; Sd","",1
+"ray","Nomina; sing","",5
 "raya","Nomina","",4
 "raya","Adjektiva","",9
 "rayah","Verba","",5
@@ -73736,6 +74112,7 @@ kata,kelas,kata_dasar,nilai
 "rayutan","Nomina; Jw","",2
 "rayyan","Nomina; Isl","",5
 "razia","Nomina","",8
+"rb","Nomina; sing","",5
 "rea","Nomina; Astron","",4
 "reabsorpsi","Nomina","",6
 "reafirmasi","Nomina; Ek","",5
@@ -73883,6 +74260,7 @@ kata,kelas,kata_dasar,nilai
 "reedukatif","Adjektiva","",5
 "reekspor","Nomina","",6
 "reevaluasi","Nomina","",7
+"ref","Nomina; sing","",6
 "referat","Nomina","",6
 "referen","Nomina; Ling","",6
 "referendaris","Nomina; Bld","",4
@@ -73928,6 +74306,7 @@ kata,kelas,kata_dasar,nilai
 "refugia","Nomina; Tan","",5
 "refungsi","Nomina","",5
 "refungsionalisasi","Nomina","",5
+"reg","Nomina; sing","",6
 "regah","Verba","",4
 "regan","Nomina","",4
 "regang","Nomina; Mr; Adjektiva","",6
@@ -74065,7 +74444,7 @@ kata,kelas,kata_dasar,nilai
 "rekata","Nomina; ark","",2
 "rekayasa","Nomina; ki","",9
 "rekayasawan","Nomina","",5
-"rekber","Nomina; akr","",6
+"rekbêr","Nomina; akr","",6
 "reken","Verba; cak","",6
 "rekening","Nomina","",9
 "rekep","Verba; Bt","",1
@@ -74131,6 +74510,7 @@ kata,kelas,kata_dasar,nilai
 "rekruter","Nomina","",6
 "rekrutmen","Nomina","",9
 "reksa","Nomina; ark; Olr","",5
+"reksadana","","",9
 "rekse","Verba; Oi","",1
 "reksigen","Nomina; Bio","",4
 "rekstok","Nomina; Olr","",6
@@ -74878,7 +75258,7 @@ kata,kelas,kata_dasar,nilai
 "retribalisasi","Nomina; Sos","",4
 "retribusi","Nomina","",9
 "retro","Adjektiva; Nomina","",8
-"retro","bentuk terikat","",6
+"retro-","bentuk terikat","",6
 "retroaktif","Adjektiva; Huk","",7
 "retrofaring","Adjektiva","",4
 "retrofili","Nomina; Psi","",3
@@ -75258,7 +75638,7 @@ kata,kelas,kata_dasar,nilai
 "risin","Nomina; Kim","",4
 "risit","Nomina","",5
 "riskan","Adjektiva","",8
-"riskesdas","Nomina; akr","",5
+"riskêsdas","Nomina; akr","",5
 "risol","Nomina; sing","",8
 "risoles","Nomina","",8
 "risopan","Nomina; Tbg","",3
@@ -75322,6 +75702,8 @@ kata,kelas,kata_dasar,nilai
 "rizosfer","Nomina","",6
 "rizosfir","Nomina; Tan","",5
 "rizotomi","Nomina; Dok","",5
+"rm","Nomina; sing","",7
+"rngt","Nomina; sing","",4
 "roa","Nomina; Sb","",3
 "roa","Nomina; Rjg","",2
 "roa","Nomina; Buo","",2
@@ -75414,6 +75796,7 @@ kata,kelas,kata_dasar,nilai
 "roka","Nomina; Bt","",2
 "roka","Nomina; Hin","",3
 "rokade","Nomina; Olr","",6
+"rokan","Nomina","",6
 "rokaro","Nomina; Mdr","",2
 "rokat","Nomina; Mdr","",4
 "roker","Nomina","",6
@@ -75663,6 +76046,7 @@ kata,kelas,kata_dasar,nilai
 "royemen","Nomina","",4
 "royer","Verba; ark","",2
 "royom","Adjektiva; Sd","",1
+"rr","Nomina; sing","",4
 "rua","Adjektiva; ark","",2
 "rua","Nomina","",5
 "ruadat","Nomina; ark","",2
@@ -76056,9 +76440,7 @@ kata,kelas,kata_dasar,nilai
 "ruyup","Adjektiva","",4
 "rwanda","Nomina","",5
 "s","Nomina; Lt; sing","",8
-"s.p.","Nomina; sing","",5
-"s.t.","Nomina; sing","",5
-"s.t.","Nomina; Lt; sing","",4
+"sa","Nomina; sing","",6
 "saab","Nomina; Sd","",1
 "saadah","Nomina; Ar","",3
 "saadat","","",1
@@ -76069,6 +76451,7 @@ kata,kelas,kata_dasar,nilai
 "saanen","Nomina","",4
 "saari","Nomina; Ht","",1
 "saat","Nomina; kl","",8
+"sab","Nomina; sing","",5
 "saba","Verba","",4
 "saba","Nomina; Ke","",1
 "saba","Nomina; Ar; Isl","",3
@@ -76240,6 +76623,7 @@ kata,kelas,kata_dasar,nilai
 "safue","Nomina; Pi","",1
 "safuntama","Nomina; Bgk","",1
 "safuntina","Nomina; Bgk","",1
+"sag","Nomina; sing","",6
 "saga","Nomina","",5
 "saga","Nomina; Sas","",4
 "saga","Nomina; Ni","",1
@@ -76278,6 +76662,7 @@ kata,kelas,kata_dasar,nilai
 "sago","","",1
 "sagom","Nomina; Bt","",1
 "sagon","Nomina","",4
+"sagr","Nomina; sing","",5
 "sagu","Nomina","",7
 "saguaro","Nomina","",3
 "sagubi","Nomina; Sw","",1
@@ -76557,6 +76942,7 @@ kata,kelas,kata_dasar,nilai
 "salakop","Verba; Sd","",1
 "salalak","Verba; Bun","",1
 "salalau","Nomina; Bkp","",1
+"salalauk","Nomina; Mk","",4
 "salalen","Verba; Krc","",1
 "salam","Nomina","",7
 "salam","Nomina","",5
@@ -77019,7 +77405,6 @@ kata,kelas,kata_dasar,nilai
 "sana","Pronomina; cak","",9
 "sana","","",9
 "sana","Verba; Bun","",2
-"sana'a","Nomina","",6
 "sanaan","Nomina; Eln","",2
 "sanad","Nomina; Ar","",7
 "sanai","Nomina; Aln","",1
@@ -77032,6 +77417,7 @@ kata,kelas,kata_dasar,nilai
 "sanatogen","Nomina","",3
 "sanatorium","Nomina","",6
 "sanawiah","Nomina","",7
+"sana’a","Nomina","",6
 "sanca","Nomina","",5
 "sancan","Nomina; Tbg","",1
 "sanda","Nomina; kl","",3
@@ -77168,6 +77554,7 @@ kata,kelas,kata_dasar,nilai
 "sangkala","Nomina; Jw","",4
 "sangkalemu","Nomina; DyNg","",1
 "sangkalon","Nomina; Bt","",2
+"sangkalputung","Nomina; Jw; cak","",7
 "sangkaman","Nomina; Bkt","",1
 "sangkan","Nomina","",5
 "sangkan","Nomina; Jb","",3
@@ -77345,6 +77732,7 @@ kata,kelas,kata_dasar,nilai
 "saoraja","Nomina; Bg","",4
 "saos","","",6
 "saos","","",6
+"sap","Nomina; sing","",5
 "sapa","Nomina","",7
 "sapa","Pronomina; cak","",6
 "sapa","","",5
@@ -77443,6 +77831,8 @@ kata,kelas,kata_dasar,nilai
 "sapur","Adjektiva; Gy","",2
 "saput","Nomina","",5
 "saput","Nomina; Bl","",3
+"saputangan","Nomina","",9
+"saputangan","Nomina; Bot","",4
 "sapuyung","Nomina; Dy","",1
 "sara","Nomina","",7
 "sara","Verba; Mk","",4
@@ -77588,6 +77978,7 @@ kata,kelas,kata_dasar,nilai
 "sarit","Adjektiva; Mk; ki","",4
 "sarit-sarit","Adjektiva","",4
 "sarita","Nomina; Trj","",4
+"saritilawah","","",6
 "sariung","Nomina","",4
 "sariwut","Verba; Sd","",2
 "sarjana","Nomina","",9
@@ -77640,6 +78031,7 @@ kata,kelas,kata_dasar,nilai
 "saroso","Verba; Bg","",2
 "sarpa","Nomina; Mdr","",1
 "sarpras","Nomina; akr","",7
+"sars","Nomina; sing","",4
 "sarsaparila","Nomina","",6
 "sarsi","Nomina; cak; akr","",4
 "sarsina","Nomina; Bio","",3
@@ -77666,6 +78058,7 @@ kata,kelas,kata_dasar,nilai
 "sarwal","","",4
 "sarwal","","",4
 "sarwega","Adjektiva; Kw","",3
+"sas","Nomina; Mil; sing","",4
 "sasa","Adjektiva; kl","",5
 "sasa","Nomina; Mt","",2
 "sasa","Verba; Aln","",2
@@ -77731,7 +78124,6 @@ kata,kelas,kata_dasar,nilai
 "sastera","","",7
 "sasti","Nomina; Skt; ark","",3
 "sastra","Nomina; kl","",8
-"sastrajendra","Nomina; Jw","",4
 "sastrawan","Nomina","",8
 "sastrawi","Adjektiva","",6
 "sasul","Verba","",4
@@ -77814,6 +78206,7 @@ kata,kelas,kata_dasar,nilai
 "satpur","Nomina; Mil; akr","",5
 "satra","Nomina","",4
 "satrad","Nomina; akr","",5
+"satrajendra","Nomina; Jw","",4
 "satres","Nomina; Pol; akr","",6
 "satreskrim","Nomina; akr","",7
 "satresnarkoba","Nomina; akr","",6
@@ -77872,6 +78265,7 @@ kata,kelas,kata_dasar,nilai
 "sauri","Nomina","",4
 "saurisirami","Nomina","",4
 "sauriskia","Nomina; Zool","",4
+"saurmatua","Nomina","",5
 "sauropod","Nomina; Zool","",4
 "sauropoda","Nomina; Zool","",4
 "saus","Nomina","",8
@@ -77891,6 +78285,7 @@ kata,kelas,kata_dasar,nilai
 "savang","Nomina; Ke","",1
 "savasana","Nomina; Skt","",4
 "savat","Verba; Eln","",1
+"saw","Nomina; sing","",8
 "sawa","","",4
 "sawab","Nomina; Ar","",4
 "sawab","Nomina; Ar","",4
@@ -77979,11 +78374,17 @@ kata,kelas,kata_dasar,nilai
 "sayur","Nomina","",8
 "sayut","Nomina; Bl","",3
 "sazoe","Nomina; Ni","",1
+"sbb","Partikel; sing","",9
 "sd","Nomina; sing","",6
 "sda","Nomina; sing","",6
+"sdr","Nomina; sing","",9
+"sdri","Nomina; sing","",8
+"sds","Nomina; sing","",5
+"se","Nomina; sing","",9
 "seak","Adjektiva; Psr","",2
 "seak","Verba; Bgi","",1
 "seal","Nomina; Bgi","",1
+"seas","Nomina; sing","",4
 "seasa","Nomina; Tot","",1
 "seba","Verba; Jw","",4
 "seba","Verba; Ach","",2
@@ -78204,6 +78605,7 @@ kata,kelas,kata_dasar,nilai
 "segianya","Adverbia; ark","",4
 "seginang","Nomina; Beng","",1
 "segini","","",5
+"segitiga","Nomina; Mat","",10
 "segitu","","",6
 "segitu","","",6
 "segmen","Nomina; Mat; Bot; Bio; Ling","",7
@@ -78224,6 +78626,7 @@ kata,kelas,kata_dasar,nilai
 "seher","Nomina; Oto","",5
 "sehi-sehi","Nomina; Tlk","",1
 "sehingga","Partikel","",8
+"sei","Nomina; sing","",5
 "seia","","",5
 "seia","Verba","",5
 "seibatin","Nomina","",4
@@ -78246,6 +78649,7 @@ kata,kelas,kata_dasar,nilai
 "seismotektonika","Nomina; Geo","",4
 "seismotropisme","Nomina","",4
 "seiyu","Nomina; Jp","",4
+"sej","Nomina; sing","",5
 "sejahtera","Adjektiva","",8
 "sejak","Partikel","",8
 "sejarah","","",8
@@ -79103,7 +79507,7 @@ kata,kelas,kata_dasar,nilai
 "semester","Nomina","",9
 "semgal","Nomina; BhDI","",2
 "semi","Nomina; Jw","",6
-"semi","bentuk terikat","",8
+"semi-","bentuk terikat","",8
 "semiakuatik","Adjektiva","",6
 "semidiurnal","Adjektiva","",5
 "semifinal","Adjektiva; Olr","",9
@@ -79590,7 +79994,7 @@ kata,kelas,kata_dasar,nilai
 "senterpor","Nomina; cak","",6
 "sentesimal","Adjektiva; Mat","",5
 "senti","Nomina; sing","",7
-"senti","bentuk","",6
+"senti-","bentuk","",6
 "sentiabu","","",4
 "sentiabu","","",4
 "sentiare","Nomina","",5
@@ -79698,6 +80102,7 @@ kata,kelas,kata_dasar,nilai
 "sepak","Nomina","",7
 "sepak","Nomina; cak","",6
 "sepakat","Adjektiva","",9
+"sepakbola","","",10
 "sepakbor","","",5
 "sepakbor","","",5
 "sepal","Nomina; Bot","",6
@@ -79938,7 +80343,7 @@ kata,kelas,kata_dasar,nilai
 "seraya","Nomina","",5
 "serayu","Nomina","",7
 "serba","","",5
-"serba","bentuk","",7
+"serba-","bentuk","",7
 "serbaada","Adjektiva","",7
 "serbaakal","Nomina","",5
 "serbabaru","Adjektiva","",6
@@ -80103,6 +80508,7 @@ kata,kelas,kata_dasar,nilai
 "seringih","","",2
 "seringih","","",2
 "seringing","Nomina","",3
+"seringkali","","",9
 "seriosa","Nomina","",6
 "serip","Nomina; Tbs","",2
 "serisin","Nomina; Tern","",2
@@ -80555,6 +80961,7 @@ kata,kelas,kata_dasar,nilai
 "sewuh","Nomina; Mn","",2
 "seychelles","Nomina","",5
 "sfalerit","Nomina; Geo","",3
+"sfarm","Nomina; sing","",6
 "sfeksofobia","Nomina; Psi","",3
 "sfenoidal","Adjektiva","",3
 "sferik","Nomina; Met","",3
@@ -80566,6 +80973,7 @@ kata,kelas,kata_dasar,nilai
 "sferulit","Nomina; Fis","",3
 "sfigmograf","Nomina","",3
 "sfigmomanometer","Nomina","",5
+"sfil","Nomina; sing","",5
 "sfingofili","Nomina; Bot","",3
 "sfingolipid","Nomina","",4
 "sfingolipidosis","Nomina; Dok","",3
@@ -80573,6 +80981,8 @@ kata,kelas,kata_dasar,nilai
 "sfingosina","Nomina","",4
 "sfingter","Nomina; Anat","",5
 "sfumato","Nomina; Sen","",4
+"sgz","Nomina; sing","",5
+"shint","Nomina; sing","",5
 "shinto","Nomina","",5
 "shio","Nomina; Cn","",6
 "sholawat","","",6
@@ -80583,6 +80993,10 @@ kata,kelas,kata_dasar,nilai
 "sholeha","","",5
 "sholehah","","",5
 "sholehah","","",5
+"shubint","Nomina; sing","",5
+"shum","Nomina; sing","",6
+"shut","Nomina; sing","",5
+"si","Nomina; sing","",6
 "sia","","",3
 "siaga","Verba; Nomina; Prm","",8
 "siah","Verba","",4
@@ -80778,6 +81192,7 @@ kata,kelas,kata_dasar,nilai
 "sigar","Nomina","",4
 "sigar","Verba; Jw","",4
 "sigaret","Nomina","",6
+"sigarpenjalin","Nomina; Jw","",2
 "sigasir","Nomina","",4
 "sigasitulu","Nomina","",2
 "sigatoka","Nomina; Tan","",3
@@ -80918,6 +81333,7 @@ kata,kelas,kata_dasar,nilai
 "siklus","Nomina; Sas","",5
 "siko","Nomina; Ka","",2
 "sikodi","Nomina; Ri","",2
+"sikom","Nomina; sing","",6
 "sikon","Nomina; akr","",4
 "siksa","Nomina","",8
 "siksik","Verba; Bt","",3
@@ -81064,7 +81480,9 @@ kata,kelas,kata_dasar,nilai
 "silvikultural","Adjektiva","",5
 "silvisida","Nomina; Tan","",4
 "silvopastural","Nomina","",3
-"sim-sim","Verba; Mn","",3
+"sima","Nomina; Geo; akr","",4
+"sima","Verba; Ni","",2
+"sima","Nomina","",6
 "simagale","Nomina; Mt","",4
 "simai","Nomina","",1
 "simaiso","Nomina; Mt","",4
@@ -81109,6 +81527,7 @@ kata,kelas,kata_dasar,nilai
 "simbat","Nomina; ark","",3
 "simbek","Nomina; Mk","",3
 "simbel","Nomina; Tbl","",3
+"simbi","Nomina; Ni","",2
 "simbion","Nomina","",1
 "simbiosis","Nomina; Kim; Bio","",4
 "simbiotik","Adjektiva","",7
@@ -81187,8 +81606,8 @@ kata,kelas,kata_dasar,nilai
 "simplikasi","Nomina","",5
 "simplikatif","Adjektiva","",4
 "simplisia","Nomina","",4
+"simplisistik","Adjektiva","",4
 "simplisitas","Nomina","",5
-"simplistik","Adjektiva","",4
 "simplistis","Adjektiva","",5
 "simpodial","Nomina; Bot","",5
 "simpor","","",4
@@ -81203,6 +81622,7 @@ kata,kelas,kata_dasar,nilai
 "simpur","Nomina","",8
 "simpyok","Nomina; Jw","",5
 "simsalabim","Nomina; Adjektiva; ki","",3
+"simsim","Verba; Mn","",3
 "simtom","Nomina; Dok","",7
 "simtomatik","Adjektiva; Dok","",4
 "simtomatis","Adjektiva","",4
@@ -81214,6 +81634,7 @@ kata,kelas,kata_dasar,nilai
 "simultan","Adjektiva; Olr","",4
 "simultanitas","Nomina; Fis","",7
 "simuntu","Nomina; Mk","",4
+"sin","Nomina; sing","",4
 "sina","Nomina; Dy","",3
 "sinabang","Nomina","",3
 "sinabar","Nomina; Fis; Kim; Adjektiva","",4
@@ -81549,6 +81970,7 @@ kata,kelas,kata_dasar,nilai
 "siongka","Nomina; Cn","",2
 "siop","Nomina; Mt","",2
 "siotu","Nomina; Mt","",2
+"sip","Nomina; sing","",6
 "sipa","Verba; Pi","",2
 "sipa","Nomina; Dy","",2
 "sipahi","Nomina; kl","",3
@@ -81712,6 +82134,8 @@ kata,kelas,kata_dasar,nilai
 "siruw","Verba; Mn","",2
 "siruw","Adjektiva; Mn","",2
 "sirwal","Nomina; Ar","",4
+"sisa","Nomina","",10
+"sisa","Verba; Eln","",2
 "sisabu","Verba; Trj","",1
 "sisai","Nomina; Pi","",2
 "sisakai","Nomina; Pi","",2
@@ -81908,6 +82332,7 @@ kata,kelas,kata_dasar,nilai
 "sivilisasi","Nomina","",5
 "siwa","","",4
 "siwa","Adjektiva; Psr","",2
+"siwagerha","Nomina","",3
 "siwah","Nomina; Dy","",3
 "siwahkoja","Nomina; Jw; ark","",2
 "siwak","Nomina; cak","",4
@@ -81926,7 +82351,6 @@ kata,kelas,kata_dasar,nilai
 "siwar","Nomina; Dy","",2
 "siwar-siwar","Verba; Jw","",2
 "siwaratri","Nomina; Hin","",4
-"siwargerha","Nomina","",3
 "siwek","Nomina; Jb","",2
 "siwer","Adjektiva; Jw","",3
 "siwet","Verba; Ach","",2
@@ -81965,8 +82389,11 @@ kata,kelas,kata_dasar,nilai
 "skatofagus","Nomina","",3
 "skatola","Nomina; Kim","",3
 "skatologi","Nomina","",4
+"skeb","Nomina; sing","",5
+"sked","Nomina; sing","",6
 "skedastik","Nomina; Mat; Adjektiva","",3
 "skedul","Nomina; cak","",5
+"skel","Nomina; sing","",5
 "skelerofobia","Nomina; Psi","",2
 "skelet","Nomina","",4
 "skeletal","Adjektiva; Anat","",5
@@ -81982,11 +82409,15 @@ kata,kelas,kata_dasar,nilai
 "skenik","Adjektiva; Sen","",4
 "skenografer","Nomina","",4
 "skenografi","Nomina","",4
+"skep","Nomina; sing","",6
 "skeptis","Adjektiva","",8
 "skeptisisme","Nomina","",6
+"skes","Nomina; sing","",5
 "sketmat","Nomina; Jw","",3
 "sketsa","Nomina","",8
 "sketsel","Nomina","",5
+"skg","Nomina; sing","",5
+"skh","Nomina; sing","",5
 "skiafit","Nomina; Bio","",3
 "skiameter","Nomina; Dok","",2
 "skiaskopi","Nomina","",3
@@ -82007,6 +82438,7 @@ kata,kelas,kata_dasar,nilai
 "skizogoni","Nomina; Bio","",3
 "skizoid","Adjektiva; Dok","",5
 "skizotimia","Nomina; Psi","",3
+"skl","Nomina; sing","",4
 "sklera","Nomina; Anat","",6
 "sklereid","Nomina","",4
 "sklerenkima","Nomina","",5
@@ -82021,6 +82453,7 @@ kata,kelas,kata_dasar,nilai
 "sklerotin","Nomina; Bio","",3
 "sklerotisasi","Nomina; Bio","",3
 "sklerotium","Nomina; Bio","",4
+"skm","Nomina; sing","",6
 "skodam","Nomina; akr","",3
 "skofro","Nomina","",3
 "skogar","Nomina; akr","",2
@@ -82032,6 +82465,7 @@ kata,kelas,kata_dasar,nilai
 "skolesifobia","Nomina; Psi","",2
 "skolionofobia","Nomina; Psi","",2
 "skoliosis","Nomina","",7
+"skom","Nomina; sing","",6
 "skombroid","Nomina","",3
 "skomlek","Nomina; akr","",2
 "skopofobia","Nomina; Psi","",2
@@ -82101,6 +82535,7 @@ kata,kelas,kata_dasar,nilai
 "slimpat","Nomina; Sbw","",2
 "slimur","Verba; Jw","",3
 "slindet","Nomina; Sd","",3
+"sling","Nomina; sing","",4
 "slintat-slintut","Adverbia; Jw","",3
 "slipe","Nomina; Jw","",3
 "sliring","Nomina; Jw","",3
@@ -82111,12 +82546,15 @@ kata,kelas,kata_dasar,nilai
 "slovenia","Nomina","",6
 "slowakia","Nomina","",6
 "sluri","Nomina","",4
+"sm","Nomina; sing","",6
 "smarakata","Nomina; Jw; ark","",3
 "smegma","Nomina","",4
 "smelter","Nomina","",7
 "smimno","Nomina; Nbg","",1
+"smn","Nomina; sing","",5
 "smokel","Nomina; cak","",4
 "smoking","Nomina; Tbs","",4
+"sn","Nomina; sing","",5
 "snobisme","Nomina","",4
 "snoker","Nomina","",4
 "snorkel","Nomina; Jm","",6
@@ -82740,17 +83178,22 @@ kata,kelas,kata_dasar,nilai
 "soytai","Nomina","",4
 "soyu","","",3
 "soyu","","",3
-"sp.an-ti.","Nomina; sing","",4
+"sp","Nomina; sing","",7
+"sp","Nomina; sing","",5
+"spa","Nomina; sing","",6
 "spada","Partikel; cak; akr","",5
 "spageti","Nomina","",8
 "spagetifikasi","Nomina; Fis","",4
 "spagetini","Nomina; It","",4
 "spagetoni","Nomina; It; Tbg","",4
+"spak","Nomina; sing","",4
 "spakbor","","",3
 "spakbor","","",3
 "spalasi","Nomina; Kim; Fis","",4
 "spalek","Nomina","",4
+"span","Nomina; sing","",5
 "spanakopita","Nomina","",5
+"spand","Nomina; sing","",4
 "spandeks","Nomina","",7
 "spanduk","Nomina","",8
 "spanel","Nomina; Jb","",3
@@ -82759,7 +83202,9 @@ kata,kelas,kata_dasar,nilai
 "spaniel","Nomina","",5
 "spaning","Nomina; Adjektiva; ki","",5
 "spanram","Nomina","",5
+"spanti","Nomina; sing","",4
 "spanyol","Nomina","",7
+"spar","Nomina; sing","",5
 "sparing","Verba; cak","",6
 "spartan","Adjektiva; Nomina","",5
 "spasefobia","Nomina; Psi","",2
@@ -82779,7 +83224,21 @@ kata,kelas,kata_dasar,nilai
 "spaten","Nomina; Trp","",3
 "spatula","Nomina","",6
 "spb","Nomina; sing","",5
+"spba","Nomina; sing","",4
+"spbk","Nomina; sing","",4
+"spbm","Nomina; sing","",4
+"spbmmf","Nomina; sing","",3
+"spbo","Nomina; sing","",4
+"spbonk","Nomina; sing","",4
+"spbp","Nomina; sing","",4
+"spbpre","Nomina; sing","",3
+"spbs","Nomina; sing","",4
+"spbtkv","Nomina; sing","",4
 "spbu","Nomina; sing","",5
+"spd","Nomina; sing","",8
+"spdi","Nomina; sing","",6
+"spdsd","Nomina; sing","",4
+"spdve","Nomina; sing","",4
 "spedometer","","",3
 "spedometer","","",3
 "spektakel","Nomina; Sen","",4
@@ -82842,7 +83301,12 @@ kata,kelas,kata_dasar,nilai
 "spesifisitas","Nomina; Dok","",5
 "spesimen","Nomina","",7
 "spf","Nomina; sing","",5
+"spfk","Nomina; sing","",4
+"spfm","Nomina; sing","",4
 "spg","Nomina; sing","",5
+"spger","Nomina; sing","",4
+"spgk","Nomina; sing","",4
+"spi","Nomina; sing","",5
 "spidol","Nomina","",8
 "spidometer","Nomina","",5
 "spika","Nomina; Astron","",5
@@ -82883,7 +83347,15 @@ kata,kelas,kata_dasar,nilai
 "spiroplasma","Nomina; Bio","",4
 "spirulina","Nomina","",5
 "spisatus","Nomina; Hidm","",3
+"spjp","Nomina; sing","",4
+"spkepmb","Nomina; sing","",4
+"spkfr","Nomina; sing","",4
+"spkg","Nomina; sing","",4
+"spkga","Nomina; sing","",4
 "spkk","Nomina; sing","",5
+"spkn","Nomina; sing","",4
+"spko","Nomina; sing","",4
+"spkp","Nomina; sing","",4
 "splenektomi","Nomina; Dok","",4
 "splenomegali","Nomina","",4
 "spm","Nomina; sing","",5
@@ -82892,7 +83364,10 @@ kata,kelas,kata_dasar,nilai
 "spodumen","","",3
 "spodumen","","",3
 "spodumena","Nomina; Kim","",4
+"spof","Nomina; sing","",4
+"spog","Nomina; sing","",5
 "spok","Nomina; sing","",5
+"spol","Nomina; sing","",5
 "spondilitis","Nomina; Dok","",5
 "spondilosistesis","Nomina; Dok","",3
 "spondislosis","Nomina","",3
@@ -82920,16 +83395,46 @@ kata,kelas,kata_dasar,nilai
 "sporotrikosis","Nomina; Dok","",4
 "sporozoa","Nomina; Bio","",5
 "sporozoit","Nomina; Bio","",4
+"sport","Nomina; sing","",4
 "sportif","Adjektiva","",7
 "sportifitas","","",3
 "sportifitas","","",3
 "sportivitas","Nomina","",7
 "sporulasi","Nomina; Bio","",4
+"spot","Nomina; sing","",4
 "spp","Nomina; sing","",5
+"sppa","Nomina; sing","",4
+"sppark","Nomina; sing","",3
 "sppd","Nomina; sing","",5
+"sppd-kai","Nomina; sing","",4
+"sppd-kemd","Nomina; sing","",4
+"sppd-kgeh","Nomina; sing","",4
+"sppd-kger","Nomina; sing","",4
+"sppd-kgh","Nomina; sing","",4
+"sppd-kh","Nomina; sing","",4
+"sppd-khom","Nomina; sing","",4
+"sppd-kkv","Nomina; sing","",4
+"sppd-kp","Nomina; sing","",4
+"sppd-kpsi","Nomina; sing","",4
+"sppd-kpti","Nomina; sing","",4
+"sppd-kr","Nomina; sing","",4
+"spperio","Nomina; sing","",4
+"sppk","Nomina; sing","",4
+"sppm","Nomina; sing","",4
+"sppros","Nomina; sing","",4
+"spps","Nomina; sing","",4
+"spr","Nomina; sing","",4
+"sprad","Nomina; sing","",4
 "sprindik","Nomina; akr","",5
 "sprinter","Nomina","",6
 "spripim","Nomina; akr","",5
+"sprm","Nomina; sing","",4
+"sps","Nomina; sing","",4
+"spsi","Nomina; sing","",6
+"spt","Nomina; sing","",5
+"sptht-kl","Nomina; sing","",4
+"spthtbkl","Nomina; sing","",4
+"spu","Nomina; sing","",4
 "spuit","Nomina; Dok; Tbg","",5
 "sputnik","Nomina","",5
 "sputum","Nomina; Dok","",5
@@ -82965,6 +83470,7 @@ kata,kelas,kata_dasar,nilai
 "srimpi","","",3
 "srinata","Nomina; Bl","",3
 "srindaya","Nomina","",4
+"srinsppol","Nomina; Mil; sing","",4
 "srintil","Nomina; Jw","",4
 "srinugraha","Nomina; Jw; ark","",2
 "sripah","Nomina","",4
@@ -82972,6 +83478,7 @@ kata,kelas,kata_dasar,nilai
 "sripit","Nomina; Ss","",2
 "sriracha","Nomina","",6
 "srirejeki","Nomina","",6
+"srisadana","Nomina; Jw; ark","",3
 "srisakit","Nomina; Jw; ark","",1
 "srisig","Nomina; Jw","",2
 "srisip","Nomina; Bot","",3
@@ -82985,8 +83492,19 @@ kata,kelas,kata_dasar,nilai
 "srosob","Nomina; Bl","",1
 "sroto","Nomina","",5
 "srotong","Nomina","",3
+"srsupt","Nomina; Mil; sing","",4
 "sruntul","Nomina; Jw","",2
 "sruti","Nomina; Hin","",3
+"ss","Nomina; sing","",6
+"ssi","Nomina; sing","",6
+"ssk","Nomina; sing; Mil","",4
+"ssn","Nomina; sing","",5
+"ssos","Nomina; sing","",6
+"sst","Nomina; sing","",5
+"sstat","Nomina; sing","",5
+"st","Nomina; sing","",8
+"st","Nomina; sing","",5
+"st","Nomina; Lt; sing","",4
 "stabil","Adjektiva","",9
 "stabilisasi","Nomina","",8
 "stabilisator","Nomina","",7
@@ -83052,6 +83570,7 @@ kata,kelas,kata_dasar,nilai
 "stasioneri","Nomina","",5
 "stasis","Nomina; Dok","",5
 "stasiun","Nomina","",9
+"stat","Nomina; sing","",6
 "staterium","Nomina; Geo","",3
 "statif","Nomina; Kim","",5
 "statif","Adjektiva; Ling","",4
@@ -83162,6 +83681,7 @@ kata,kelas,kata_dasar,nilai
 "stevador","Nomina; Lay","",4
 "stevia","Nomina","",7
 "steviosida","Nomina; Kim","",5
+"sth","Nomina; sing","",5
 "stibium","Nomina; Kim","",4
 "stibnit","Nomina; Kim","",4
 "stigma","Nomina","",7
@@ -83233,9 +83753,12 @@ kata,kelas,kata_dasar,nilai
 "stonosis","Nomina; Dok","",3
 "stoper","Nomina; Lay","",4
 "stopkeran","Nomina; cak","",5
+"stopkontak","Nomina","",9
 "stoples","Nomina","",8
 "stori","Nomina; cak","",6
 "stormking","Nomina","",4
+"stp","Nomina; sing","",5
+"str","Nomina; sing","",5
 "strabismus","Nomina; Dok","",6
 "strabotomi","Nomina; Dok","",4
 "strain","Nomina; Bio","",6
@@ -83258,6 +83781,7 @@ kata,kelas,kata_dasar,nilai
 "stratovolkano","Nomina","",6
 "stratum","Nomina; Geo","",6
 "stratus","Nomina; Met","",5
+"strbns","Nomina; sing","",4
 "strega","Nomina","",4
 "streptobasilus","Nomina; Bio","",5
 "streptokinase","Nomina; Far","",5
@@ -83271,6 +83795,8 @@ kata,kelas,kata_dasar,nilai
 "striktur","Nomina; Dok","",5
 "strimin","Nomina","",5
 "striptis","Nomina; Sen","",6
+"strkes","Nomina; sing","",4
+"strm","Nomina; sing","",4
 "stroberi","Nomina","",9
 "strobila","Nomina; Bio","",4
 "strobilasi","Nomina; Bio","",4
@@ -83291,6 +83817,8 @@ kata,kelas,kata_dasar,nilai
 "strongking","","",3
 "stronsium","Nomina; Kim","",5
 "strontium","Nomina; Kim","",5
+"strpar","Nomina; sing","",4
+"strt","Nomina; sing","",4
 "strudel","Nomina; Tbg","",6
 "struktur","Nomina; Ling","",9
 "struktural","Adjektiva","",8
@@ -83679,7 +84207,9 @@ kata,kelas,kata_dasar,nilai
 "sukan","Nomina","",5
 "sukang","Nomina; Ko","",3
 "sukar","Adjektiva; ki","",8
+"sukarela","Adjektiva","",9
 "sukarelawan","Nomina","",8
+"sukaria","Adjektiva","",9
 "sukarno","Nomina","",7
 "sukarta","Nomina; Skt","",4
 "sukat","Nomina","",6
@@ -84088,7 +84618,7 @@ kata,kelas,kata_dasar,nilai
 "supel","Adjektiva","",7
 "supeltas","Nomina; akr","",5
 "super","Adjektiva","",9
-"super","bentuk terikat","",6
+"super-","bentuk terikat","",6
 "superadmin","Nomina; If; sing","",6
 "superadministrator","Nomina; If","",5
 "superantioksidan","Nomina; Bio","",5
@@ -84391,6 +84921,7 @@ kata,kelas,kata_dasar,nilai
 "suwut","Nomina; Jw","",4
 "suyak","Nomina; MBa","",4
 "suyak","Nomina; Dy","",3
+"sv","Nomina; Lt; sing","",4
 "swaagih","Nomina","",4
 "swaarsip","Nomina","",5
 "swaatur","Nomina","",5
@@ -84485,6 +85016,7 @@ kata,kelas,kata_dasar,nilai
 "swipoa","Nomina; Cn","",5
 "switer","","",4
 "switer","","",4
+"swt","Nomina; sing","",8
 "syabah","Adjektiva; Ar","",1
 "syaban","","",5
 "syaban","","",5
@@ -84807,7 +85339,7 @@ kata,kelas,kata_dasar,nilai
 "tagal","Nomina","",5
 "tagalisa","Nomina","",4
 "tagalog","Nomina","",6
-"tagamtagam","Nomina; Bt","",1
+"tagam-tagam","Nomina; Bt","",1
 "tagan","Nomina","",4
 "tagan","Verba","",3
 "tagan","Verba","",3
@@ -85022,9 +85554,9 @@ kata,kelas,kata_dasar,nilai
 "takautentik","Adjektiva","",4
 "takaw","Nomina; Bjr","",1
 "takawas","Adjektiva","",3
-"takba-takba","Nomina; Mks","",1
 "takbahagia","Adjektiva","",4
 "takbaik","Adjektiva","",5
+"takbatakba","Nomina; Mks","",1
 "takbebas","Adjektiva","",5
 "takbenar","Adjektiva","",6
 "takbenda","Adjektiva","",4
@@ -85357,8 +85889,8 @@ kata,kelas,kata_dasar,nilai
 "talbis","Nomina; Ar","",4
 "tale","Nomina; Jb","",2
 "talea","Nomina; Krc","",1
+"taleaana","Nomina; Gal","",1
 "taleabrem","Nomina","",3
-"taleana","Nomina; Gal","",1
 "talebe","Nomina; Kal","",1
 "taledan","Nomina; Bl","",2
 "talek","","",4
@@ -85504,6 +86036,7 @@ kata,kelas,kata_dasar,nilai
 "tambir","Nomina; Bl","",3
 "tambir","Nomina; Jw","",3
 "tambirik","Nomina; Bt","",1
+"tambirik","Nomina; Bt","",2
 "tambo","Nomina","",6
 "tambo","Nomina","",6
 "tamboki","Nomina","",4
@@ -85679,6 +86212,7 @@ kata,kelas,kata_dasar,nilai
 "tandas","Adjektiva","",6
 "tandas","Adjektiva","",6
 "tandas","Nomina","",5
+"tandatangan","","",10
 "tandaya","Nomina","",4
 "tandem","Nomina","",6
 "tandia","Nomina","",4
@@ -85759,6 +86293,7 @@ kata,kelas,kata_dasar,nilai
 "tanggulang","Nomina; Jw","",2
 "tanggung","Verba","",9
 "tanggung","Adjektiva","",7
+"tanggungjawab","","",10
 "tanghulu","Nomina; Cn","",4
 "tangis","Nomina","",9
 "tangit","Nomina; MBa","",3
@@ -85923,6 +86458,7 @@ kata,kelas,kata_dasar,nilai
 "taokwan","Nomina","",4
 "taori","Nomina","",4
 "taosi","Nomina","",4
+"tap","Nomina; sing","",6
 "tapa","Verba","",6
 "tapa","Nomina","",5
 "tapa","Adjektiva; Mk","",3
@@ -85948,6 +86484,7 @@ kata,kelas,kata_dasar,nilai
 "tapas","Nomina","",4
 "tapas","Nomina; Sp","",4
 "tapas","Nomina","",4
+"tapas","Nomina; Jw","",3
 "tapawana","Nomina; Bl","",2
 "tape","","",8
 "tape","Nomina; Ke","",1
@@ -86432,6 +86969,7 @@ kata,kelas,kata_dasar,nilai
 "tazkirah","Nomina; Ar","",5
 "tb","Nomina; sing","",3
 "tbilisi","Nomina","",6
+"tbk","Nomina; sing","",9
 "tea","Verba; Me","",1
 "teakanasi","Nomina; Pi","",1
 "teamban","Nomina; Sln","",1
@@ -86795,7 +87333,7 @@ kata,kelas,kata_dasar,nilai
 "tele","Nomina","",4
 "tele","Nomina; Bla","",1
 "tele","Nomina","",4
-"tele","bentuk terikat","",6
+"tele-","bentuk terikat","",6
 "telearsika","Nomina; El","",5
 "telebelanja","Nomina","",6
 "telecer","Nomina; Jw","",2
@@ -87265,7 +87803,6 @@ kata,kelas,kata_dasar,nilai
 "temut-temut","Verba","",5
 "temutung","Verba; Rjg","",1
 "temuwa","Adjektiva; Jw","",2
-"ten-ten","Nomina; Bl","",1
 "tena","Nomina","",2
 "tenaga","Nomina","",9
 "tenahak","Adjektiva; ark","",1
@@ -87459,6 +87996,7 @@ kata,kelas,kata_dasar,nilai
 "tentatif","Adjektiva","",8
 "tentawan","Nomina","",4
 "tentek","Nomina; Sbw","",1
+"tenten","Nomina; Bl","",1
 "tenteng","Verba","",6
 "tenteng","","",2
 "tenter","Nomina; Tbs","",1
@@ -87575,9 +88113,7 @@ kata,kelas,kata_dasar,nilai
 "tepus","Nomina; Sd","",1
 "tepus","Nomina; Jw","",1
 "tera","Nomina","",6
-"tera","bentuk terikat","",5
-"tera.ling","Nomina","",2
-"tera.ling","Nomina","",2
+"tera-","bentuk terikat","",5
 "terabas","Verba; cak","",6
 "terabit","Nomina; If","",4
 "terabita","Nomina","",5
@@ -87595,6 +88131,8 @@ kata,kelas,kata_dasar,nilai
 "teral","Verba; Ark","",2
 "terali","","",5
 "terali","Nomina","",5
+"teraling","Nomina","",2
+"teraling","Nomina","",2
 "teralis","","",6
 "teralis","","",6
 "teram","","",2
@@ -87696,6 +88234,7 @@ kata,kelas,kata_dasar,nilai
 "teriko","","",2
 "teriko","","",2
 "terima","Verba; cak","",8
+"terimakasih","","",10
 "terin","Nomina","",2
 "terindil","Adjektiva","",3
 "tering","Nomina; cak","",4
@@ -88064,6 +88603,7 @@ kata,kelas,kata_dasar,nilai
 "thimphu","Nomina","",4
 "thoriqot","","",4
 "thoriqot","","",4
+"thtkl","Nomina; Dok; sing","",4
 "tiada","Verba; Adverbia; ki","",8
 "tiaga","Nomina; Mk","",2
 "tiam","Nomina; ark","",2
@@ -88488,7 +89028,6 @@ kata,kelas,kata_dasar,nilai
 "tinuweta","Nomina; Pi","",1
 "tinyor","Nomina; MkD","",1
 "tio","Nomina; Dwn","",1
-"tio-tio","Nomina; Ni","",1
 "tioester","Nomina; Kim","",3
 "tioeter","Nomina; Kim","",3
 "tiol","Nomina; Kim","",4
@@ -88497,6 +89036,7 @@ kata,kelas,kata_dasar,nilai
 "tiongwat","Nomina; Ab","",1
 "tionil","Nomina; Kim","",3
 "tiopental","Nomina; Far","",4
+"tiotio","Nomina; Ni","",1
 "tiotropium","Nomina; Far","",4
 "tipa-tipa","Nomina; Ht","",2
 "tipa-tipa","Nomina; Bt","",2
@@ -88637,6 +89177,8 @@ kata,kelas,kata_dasar,nilai
 "titilaras","Nomina; Mus","",4
 "titilasi","Nomina; Psi","",3
 "titilobak","Nomina; Mt","",1
+"titimangsa","Nomina; Jw","",5
+"titinada","Nomina; Mus; Ling","",6
 "titip","Verba","",8
 "titir","Nomina","",5
 "titir","Verba","",4
@@ -88864,6 +89406,7 @@ kata,kelas,kata_dasar,nilai
 "toksoplasma","Nomina; Bio","",5
 "toksoplasmasis","Nomina","",4
 "toksoplasmosis","Nomina; Dok","",4
+"tokting","Nomina; Jw","",2
 "toktok","Nomina","",4
 "toktok","Nomina; Mdr","",2
 "toktuk","Nomina; Mt","",1
@@ -88896,11 +89439,11 @@ kata,kelas,kata_dasar,nilai
 "toleransi","","",7
 "tolerir","","",5
 "tolerir","","",5
+"toli-toli","Nomina","",4
 "tolikara","Nomina","",4
 "tolite","Nomina; Gor","",1
 "tolitihu","Nomina; Gor","",1
 "tolitoli","Nomina","",5
-"tolitoli","Nomina","",4
 "tolne","Nomina; Moa","",1
 "tolo","Nomina; Jw","",3
 "tolode","Nomina","",3
@@ -89241,11 +89784,11 @@ kata,kelas,kata_dasar,nilai
 "toron","Nomina; Mdr","",2
 "torong","Nomina; Jw","",2
 "torongai","Nomina; Mt","",1
-"torontaun","Nomina; Ht","",1
 "toropun","Nomina","",2
 "toros","Nomina; Jw","",2
 "torosi","Nomina; Ni","",1
 "torotung","Nomina; Dy","",1
+"torountaun","Nomina; Ht","",1
 "toroya","Nomina; Kal","",1
 "torpedo","Nomina; cak","",4
 "torpedo","Nomina","",7
@@ -89513,6 +90056,7 @@ kata,kelas,kata_dasar,nilai
 "transpuan","Nomina; akr","",7
 "transteisme","Nomina; Fil","",2
 "transubstansiasi","Nomina; Kat","",3
+"transvaginal","Adjektiva; Dok","",6
 "transversal","Nomina","",5
 "transversi","Nomina; Bio","",4
 "transvestisme","Nomina; Psi","",4
@@ -89884,6 +90428,7 @@ kata,kelas,kata_dasar,nilai
 "tsaukwambo","Nomina","",2
 "tsunami","Nomina","",8
 "tswana","Nomina","",4
+"ttd","Verba; sing","",8
 "tua","Adjektiva; ki","",9
 "tua","Verba; Sa","",1
 "tuagama","Nomina; MAb","",2
@@ -90275,7 +90820,7 @@ kata,kelas,kata_dasar,nilai
 "tuna","Adjektiva","",5
 "tuna","Nomina; Ni","",1
 "tuna","Nomina; Dy","",1
-"tuna","bentuk terikat","",5
+"tuna-","bentuk terikat","",5
 "tunaadab","Adjektiva","",3
 "tunaaksara","Adjektiva","",5
 "tunaasmara","Adjektiva","",4
@@ -90642,6 +91187,7 @@ kata,kelas,kata_dasar,nilai
 "tuya","Nomina; Geo","",2
 "tuyuk","","",2
 "tuyul","Nomina","",7
+"tw","Nomina; sing","",5
 "twindemik","Nomina","",4
 "tyetni","Nomina; Moa","",1
 "ua","Nomina; sing","",3
@@ -90787,6 +91333,7 @@ kata,kelas,kata_dasar,nilai
 "udur","","",3
 "udut","Verba","",6
 "uek","Nomina","",4
+"uek","","",3
 "ufit","Nomina; Eln","",2
 "ufologi","Nomina","",4
 "ufti","Nomina","",4
@@ -90908,7 +91455,6 @@ kata,kelas,kata_dasar,nilai
 "ula-ula","Nomina; ark","",2
 "ula-ula","Nomina; Mr","",1
 "ula-ula","Nomina; Kpr","",1
-"ula-ula","Nomina; Kal","",1
 "ulah","Nomina","",8
 "ulai-ulaian","Nomina; Lp","",1
 "ulaj","Nomina","",2
@@ -90947,6 +91493,7 @@ kata,kelas,kata_dasar,nilai
 "ulat","","",4
 "ulat","Nomina; Jw","",4
 "ulated","Nomina; Sd","",2
+"ulaula","Nomina; Kal","",1
 "ulayah","","",3
 "ulayah","","",3
 "ulayat","","",4
@@ -90957,7 +91504,6 @@ kata,kelas,kata_dasar,nilai
 "uleg","","",5
 "ulek","Nomina","",5
 "ulek","Verba","",5
-"ulek","","",3
 "ulek-ulek","Nomina","",4
 "uleksit","Nomina; Kim","",3
 "ulelek","Nomina; Trj","",1
@@ -91338,7 +91884,7 @@ kata,kelas,kata_dasar,nilai
 "unho","Nomina; akr","",3
 "uni","Nomina; Mk","",6
 "uni","Nomina","",8
-"uni","bentuk terikat","",5
+"uni-","bentuk terikat","",5
 "uniaksial","Adjektiva","",4
 "uniang","Nomina; Mk","",2
 "uniat","Nomina","",4
@@ -91512,7 +92058,7 @@ kata,kelas,kata_dasar,nilai
 "upa","Nomina","",5
 "upa","Verba; Ach","",2
 "upa","Nomina; Jw","",3
-"upa","bentuk terikat","",4
+"upa-","bentuk terikat","",4
 "upa-upa","Nomina; Bt","",1
 "upaboga","Nomina","",3
 "upacara","Nomina","",9
@@ -91652,7 +92198,7 @@ kata,kelas,kata_dasar,nilai
 "urepece","Nomina; Km","",1
 "uretan","Nomina; Kim","",4
 "ureter","Nomina; Dok","",6
-"ureteritis","Nomina","",4
+"uretêritis","Nomina","",4
 "ureterolitiasis","Nomina","",4
 "ureterorenoskopi","Nomina; Dok","",4
 "ureteroskopi","Nomina; Dok","",5
@@ -91807,6 +92353,7 @@ kata,kelas,kata_dasar,nilai
 "usmaniyah","Nomina","",5
 "usnih","Nomina; Filol","",3
 "usrek","Adjektiva; Jw","",3
+"ust","Nomina; sing","",8
 "ustad","","",6
 "ustad","","",6
 "ustadz","","",6
@@ -91947,7 +92494,6 @@ kata,kelas,kata_dasar,nilai
 "uzlah","Nomina; Isl","",5
 "uzu","Nomina; Bun","",1
 "uzur","Nomina; Verba; Adjektiva; cak","",8
-"v.s.","Nomina; sing","",7
 "vaa","Nomina; Olr","",3
 "vadem","Nomina; Lay","",3
 "vademekum","Nomina","",6
@@ -92144,7 +92690,6 @@ kata,kelas,kata_dasar,nilai
 "ventil","","",6
 "ventilasi","Nomina","",9
 "ventilator","Nomina","",8
-"venting","Nomina","",6
 "ventral","Nomina","",6
 "ventralis","Nomina","",4
 "ventrikel","Nomina; Dok","",6
@@ -92244,6 +92789,7 @@ kata,kelas,kata_dasar,nilai
 "vestifobia","Nomina; Psi","",2
 "vestigial","Adjektiva; Bio","",5
 "vestigialitas","Nomina","",3
+"vet","Nomina; sing","",4
 "veter","Nomina","",6
 "veteran","Nomina","",8
 "veterinarian","Nomina","",4
@@ -92269,7 +92815,7 @@ kata,kelas,kata_dasar,nilai
 "videofon","Nomina","",4
 "videografer","Nomina","",8
 "videografi","Nomina","",8
-"videonistagmografi","Nomina; Dok","",3
+"videonistamografi","Nomina; Dok","",3
 "videoteks","Nomina","",4
 "videotron","Nomina","",8
 "vidikon","Nomina","",4
@@ -92416,6 +92962,7 @@ kata,kelas,kata_dasar,nilai
 "viviseksi","Nomina","",5
 "vivisektorium","Nomina","",3
 "vivotoksin","Nomina; Bio","",3
+"viz","Nomina; Lt; sing","",4
 "vloger","Nomina; cak","",8
 "voal","Nomina","",5
 "vocer","","",8
@@ -92433,6 +92980,7 @@ kata,kelas,kata_dasar,nilai
 "vokatif","Nomina","",5
 "vokoid","Nomina; Ling","",4
 "voksel","Nomina","",5
+"vol","Nomina; sing","",7
 "volalitas","Nomina; Ek; Kim","",5
 "volan","Nomina","",3
 "volans","Nomina; Astron","",3
@@ -92470,6 +93018,8 @@ kata,kelas,kata_dasar,nilai
 "voucer","Nomina","",8
 "voyeur","Nomina; Psi","",5
 "voyeurisme","Nomina","",6
+"vs","Nomina; Lt; sing","",4
+"vs","Nomina; sing","",7
 "vulgar","Adjektiva","",8
 "vulgarisme","Nomina","",4
 "vulgaritas","Nomina","",6
@@ -92500,6 +93050,7 @@ kata,kelas,kata_dasar,nilai
 "vuvil","Nomina; Eln","",1
 "vuvuk","Nomina; Buo","",1
 "vuvuzela","Nomina; Zu; Mus","",7
+"vv","Nomina; Lt; sing","",4
 "waad","Nomina; Ar; Adverbia","",4
 "waadah","","",3
 "waadah","","",3
@@ -92651,7 +93202,6 @@ kata,kelas,kata_dasar,nilai
 "waka","Nomina; akr","",7
 "waka-waka","Nomina; Lh","",2
 "waka-waka","Nomina; Pi","",1
-"waka-waka","Nomina; Kai","",1
 "wakaf","Nomina","",8
 "wakaf","Nomina; Ar","",6
 "wakajati","Nomina; akr","",5
@@ -92669,6 +93219,7 @@ kata,kelas,kata_dasar,nilai
 "wakat","Nomina; Sbw","",1
 "wakatana","Nomina; Eln","",1
 "wakatobi","Nomina","",6
+"wakawaka","Nomina; Kai","",1
 "wakde","Nomina","",3
 "wake","Nomina; Bg","",1
 "waker","Nomina; Sd","",4
@@ -92760,6 +93311,7 @@ kata,kelas,kata_dasar,nilai
 "walighe","Nomina; Sng","",1
 "walik","Nomina; Sd","",4
 "walika","Nomina; Jw","",3
+"walikota","","",10
 "walikukun","Nomina","",5
 "walilat","Nomina; Sd","",2
 "walima","Nomina","",5
@@ -92904,6 +93456,9 @@ kata,kelas,kata_dasar,nilai
 "warak","Nomina","",5
 "warakat","","",4
 "warakat","","",4
+"warakawuri","","",6
+"warakawuri","Nomina","",6
+"waralaba","Nomina","",9
 "waran","Nomina; Ek; Huk","",6
 "waranei","Nomina; Mnd","",4
 "warang","Nomina; Beng","",2
@@ -93068,6 +93623,7 @@ kata,kelas,kata_dasar,nilai
 "watermantel","Nomina; cak","",4
 "waterpas","Nomina","",7
 "waterpruf","Adjektiva; cak","",4
+"wati","Nomina","",8
 "watiana","Nomina; Tld","",1
 "watimpres","Nomina; akr","",6
 "watin-watin","Nomina; Sls","",1
@@ -93376,6 +93932,7 @@ kata,kelas,kata_dasar,nilai
 "wiraswasta","Nomina","",9
 "wiratamtama","Nomina; Jw","",5
 "wiratani","Nomina","",5
+"wirausaha","Nomina","",9
 "wirawan","Nomina; kl; Adjektiva","",5
 "wirawati","Nomina; Adjektiva","",5
 "wirawisata","Nomina","",5
@@ -93413,6 +93970,7 @@ kata,kelas,kata_dasar,nilai
 "wisnu","Nomina; Hin","",6
 "wisnu","Nomina; akr","",6
 "wisnuisme","Nomina","",5
+"wisnumanitis","Nomina; Jw","",2
 "wisnumurti","Nomina","",5
 "wisteria","Nomina","",5
 "wisuda","Nomina","",9
@@ -93859,6 +94417,8 @@ kata,kelas,kata_dasar,nilai
 "yayay","Verba; Sd","",1
 "yayop","Verba; Pnk","",1
 "yayu","Nomina","",3
+"ybs","Nomina; sing","",7
+"yd","Nomina; sing","",4
 "yehezkiel","Nomina; Kris","",4
 "yehova","","",1
 "yehova","","",1
@@ -93911,6 +94471,7 @@ kata,kelas,kata_dasar,nilai
 "yirip","Nomina; My","",1
 "yisaso","Nomina; Jb","",1
 "yisrak","Numeralia","",3
+"ym","Nomina; sing","",7
 "yoastuyang","Nomina; Dy","",1
 "yodel","Nomina","",4
 "yodi","Nomina","",2
@@ -93989,6 +94550,10 @@ kata,kelas,kata_dasar,nilai
 "yoyo","Nomina","",6
 "yoyo","Nomina; Lay","",3
 "yoyom","Nomina; Buo","",1
+"ysh","Nomina; sing","",6
+"yth","Nomina; sing","",9
+"ytm","Nomina; sing","",4
+"yts","Nomina; sing","",5
 "yua","Nomina; Pm","",1
 "yuafeta","Nomina","",2
 "yuan","Nomina","",6
@@ -94091,12 +94656,12 @@ kata,kelas,kata_dasar,nilai
 "zalir","Nomina; Fis; Kim","",4
 "zalu","Nomina","",2
 "zaluk","Nomina","",2
-"zam-zam","Nomina","",8
 "zaman","Nomina; ki","",10
 "zambia","Nomina","",6
 "zamin","Nomina; ark","",2
 "zamindar","Nomina","",3
 "zamrud","Nomina","",8
+"zamzam","Nomina","",8
 "zanggi","Nomina","",3
 "zantara","Nomina; Fis","",3
 "zantopsin","Nomina; Bio","",3

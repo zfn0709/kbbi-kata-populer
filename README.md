@@ -6,13 +6,23 @@ Daftar kata dasar dan turunan KBBI yang dilengkapi dengan skor popularitas/famil
 
 Skor popularitas (1-10) ditentukan menggunakan LLM Gemini 3.5 Flash secara batch, kemudian melalui proses audit mandiri untuk memastikan konsistensinya.
 
-- **Total Kosakata**: 94.336 kata
+- **Total Kosakata**: 94.901 kata
 - **Skala Skor**:
   - **9–10**: Kata sehari-hari (contoh: *makan*, *rumah*, *acara*).
   - **7–8**: Kata formal umum/berita yang dipahami hampir semua orang dewasa (contoh: *abjad*, *abnormal*, *gundah*).
   - **5–6**: Kata sastra/formal ringan, dipahami artinya tapi jarang diucapkan sehari-hari (contoh: *gubah*, *abdomen*).
   - **3–4**: Kata sastra klasik atau istilah teknis spesifik (contoh: *ababil*, *abalone*).
   - **1–2**: Kata arkais (kuno), bahasa daerah sangat lokal, atau istilah ilmiah langka (contoh: *syahdan*, *abaddon*).
+
+## Kriteria Penyaringan (Filters)
+
+Dataset ini disaring secara ketat dari data mentah KBBI (disadur dari repositori [univzy/kbbi](https://github.com/univzy/kbbi)) agar hanya berisi kata dasar/lema yang siap digunakan dengan kriteria filter sebagai berikut:
+1. **Hanya Kata Dasar (Stem Words)**: Kolom `kata_dasar` bernilai `NULL` (kata turunan seperti yang berawalan *ber-*, *me-*, *pe-* dilewati agar data tetap bersih dan fokus pada lema utama).
+2. **Tidak Mengandung Spasi**: Menghindari frasa atau kata majemuk (contoh: *mata hari* bernilai tidak baku dilewati, yang digunakan adalah lema tunggal baku *matahari*).
+3. **Format Karakter Valid**: Hanya terdiri dari huruf alfabet (`a-z`, `A-Z`), tanda titik pemisah suku kata (`.`), dan tanda hubung (`-`) untuk kata ulang (misal: *lauk-pauk*).
+4. **Tanpa Angka**: Tidak mengandung karakter angka (`0-9`).
+5. **Memiliki Pemenggalan Suku Kata**: Kolom pemenggalan suku kata (`nama`) harus mengandung titik pemisah (contoh: `ma.ta.ha.ri`).
+6. **Bukan Singkatan/Akronim Kapital Penuh**: Menyaring singkatan yang ditulis dengan huruf kapital penuh (contoh: `keyword != UPPER(nama)`).
 
 ## Struktur File
 
